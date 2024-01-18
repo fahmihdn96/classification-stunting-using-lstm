@@ -1,0 +1,2002 @@
+JK,BB_Lahir,TB_Lahir,Umur,Berat,Tinggi,BB_U,ZS_BB_U,TB_U,ZS_TB_U,BB_TB,ZS_BB_TB,Status
+P,3,45,0,3,45,Berat Badan Normal,-0.85,Pendek,-2.63,Gizi Baik,1.62,Stunting
+L,2.8,48,0,2.8,48,Kurang,-2.82,Pendek,-2.65,Gizi Baik,-1.06,Stunting
+L,2.8,43,0,2.8,43,Kurang,-2.74,Sangat Pendek,-5.17,,,Saverely Stunting
+L,3,45,0,3,45,Berat Badan Normal,-1.54,Sangat Pendek,-3.48,Gizi Baik,1.7,Saverely Stunting
+L,3,48,0,3.8,49,Berat Badan Normal,-1.16,Pendek,-2.91,Gizi Lebih,02.09,Stunting
+L,3.3,45,0,3.3,45,Berat Badan Normal,-0.04,Pendek,-2.3,Risiko Gizi Lebih,2.67,Stunting
+P,2.6,46,0,2.6,46,Sangat Kurang,-3.09,Sangat Pendek,-3.73,Gizi Baik,-0.13,Saverely Stunting
+L,3,47,0,3,47,Kurang,-2.19,Sangat Pendek,-3.03,Gizi Baik,0.39,Saverely Stunting
+P,3.3,47.8,0,3.3,48,Berat Badan Normal,-1.27,Pendek,-2.51,Risiko Gizi Lebih,1.13,Stunting
+L,2.8,48,0,2.8,48,Kurang,-2.33,Pendek,-2.21,Gizi Baik,-1.06,Stunting
+P,2,45,0,2.5,47,Kurang,-2.17,Pendek,-2.11,Gizi Baik,-1.28,Stunting
+L,2.7,46,0,2.8,47,Kurang,-2.24,Sangat Pendek,-3.02,Gizi Baik,0.1,Saverely Stunting
+L,1.78,41,0,1.8,41,Sangat Kurang,-4.91,Sangat Pendek,-6,,,Saverely Stunting
+L,2.3,43,0,2,43,Sangat Kurang,-3.21,Sangat Pendek,-3.64,,,Saverely Stunting
+P,2.2,45,1,3.9,51,Berat Badan Normal,-1.73,Pendek,-2.61,Gizi Baik,0.98,Stunting
+P,3,49,1,6.8,68,Kurang,-2.26,Pendek,-2.25,Gizi Baik,-1.47,Stunting
+P,,,1,7.5,65,Berat Badan Normal,-1.02,Pendek,-2.64,Gizi Baik,0.62,Stunting
+L,,,1,7,69,Kurang,-2.68,Pendek,-2.36,Gizi Baik,-1.97,Stunting
+L,2.7,48,1,6,66.8,Sangat Kurang,-3.81,Pendek,-2.93,Gizi Buruk,-3.19,Stunting
+L,2.8,49,1,7,69,Kurang,-2.81,Pendek,-2.64,Gizi Baik,-1.97,Stunting
+P,3,50,1,6,64.5,Sangat Kurang,-3.76,Sangat Pendek,-3.87,Gizi Kurang,-2.19,Saverely Stunting
+L,3,50,1,6.2,62,Sangat Kurang,-3.5,Sangat Pendek,-4.96,Gizi Baik,-0.62,Saverely Stunting
+L,2.7,46,1,9,66.8,Berat Badan Normal,-0.55,Sangat Pendek,-3.61,Risiko Gizi Lebih,1.86,Saverely Stunting
+P,,,1,5.7,64,Sangat Kurang,-3.64,Sangat Pendek,-3.66,Gizi Kurang,-2.09,Saverely Stunting
+L,2.3,46,1,8,70,Berat Badan Normal,-1.7,Pendek,-2.4,Gizi Baik,-0.63,Stunting
+L,3,50,1,8.4,70,Berat Badan Normal,-1.17,Pendek,-2.22,Gizi Baik,-0.03,Stunting
+P,3,50,1,8.6,66,Berat Badan Normal,-0.09,Pendek,-2.63,Risiko Gizi Lebih,1.73,Stunting
+P,2.6,48,1,7.2,68,Berat Badan Normal,-1.67,Pendek,-2.04,Gizi Baik,-0.81,Stunting
+L,2.8,49,1,8,70,Berat Badan Normal,-1.69,Pendek,-2.09,Gizi Baik,-0.86,Stunting
+P,3,58,1,8,66,Berat Badan Normal,-0.74,Pendek,-2.75,Gizi Baik,0.98,Stunting
+P,3,50,1,8.9,68,Berat Badan Normal,-0.02,Pendek,-2.29,Risiko Gizi Lebih,1.49,Stunting
+L,3,50,1,7.4,69.5,Kurang,-2.25,Pendek,-2.31,Gizi Baik,-1.44,Stunting
+L,3,48,1,7.2,66.7,Kurang,-2.45,Sangat Pendek,-3.4,Gizi Baik,-0.77,Saverely Stunting
+P,3,50,1,6.2,65,Kurang,-2.97,Sangat Pendek,-3.25,Gizi Baik,-1.5,Saverely Stunting
+P,3,50,1,3,48,Sangat Kurang,-3.63,Sangat Pendek,-4.15,Gizi Baik,0.1,Saverely Stunting
+L,3.9,49,1,4.2,51,Berat Badan Normal,-1.5,Pendek,-2.96,Risiko Gizi Lebih,1.89,Stunting
+P,3,49,1,9.5,68,Berat Badan Normal,0.57,Pendek,-2.16,Gizi Lebih,2.16,Stunting
+L,0,0,1,8.3,70.3,Berat Badan Normal,-1.3,Pendek,-2.15,Gizi Baik,-0.28,Stunting
+P,3,50,1,3.5,49,Kurang,-2.08,Sangat Pendek,-3.16,Risiko Gizi Lebih,1.12,Saverely Stunting
+L,2.7,45,1,8.2,69.4,Berat Badan Normal,-1.32,Pendek,-2.34,Gizi Baik,-0.13,Stunting
+P,3,48,1,5.9,66.5,Sangat Kurang,-3.3,Pendek,-2.53,Gizi Kurang,-2.63,Stunting
+P,1.8,48,1,5.5,64.5,Sangat Kurang,-3.61,Pendek,-2.55,Gizi Kurang,-2.99,Stunting
+P,3.2,50,1,5.7,66.1,Sangat Kurang,-3.34,Pendek,-2.21,Gizi Kurang,-2.9,Stunting
+L,3.2,50,1,7.6,70,Kurang,-2.05,Pendek,-2.17,Gizi Baik,-1.27,Stunting
+P,3,50,1,7,66,Berat Badan Normal,-1.74,Pendek,-2.51,Gizi Baik,-0.48,Stunting
+P,3.3,49,1,5.2,64.5,Sangat Kurang,-4.39,Sangat Pendek,-3.39,Gizi Buruk,-3.61,Saverely Stunting
+L,3.2,50,1,6.3,67,Sangat Kurang,-3.69,Sangat Pendek,-3.51,Gizi Kurang,-2.59,Saverely Stunting
+L,3.2,50,1,6.5,64,Sangat Kurang,-3.11,Sangat Pendek,-4.07,Gizi Baik,-0.96,Saverely Stunting
+P,4,50,1,6.9,65,Berat Badan Normal,-1.81,Pendek,-2.52,Gizi Baik,-0.53,Stunting
+P,3,48,1,7.8,66,Berat Badan Normal,-1,Pendek,-2.85,Gizi Baik,0.71,Stunting
+L,4.4,47,1,4.9,53,Berat Badan Normal,-0.59,Pendek,-2.23,Gizi Lebih,2.23,Stunting
+L,3.2,50,1,7.9,68.6,Berat Badan Normal,-1.44,Pendek,-2.23,Gizi Baik,-0.31,Stunting
+P,3.5,49,1,4.3,50,Berat Badan Normal,-0.08,Pendek,-2.16,Gizi Lebih,2.62,Stunting
+L,3.5,49,1,5.2,53,Berat Badan Normal,-0.42,Pendek,-2.56,Gizi Lebih,2.86,Stunting
+L,3,49,1,8.5,67,Berat Badan Normal,-0.91,Pendek,-2.89,Gizi Baik,0.88,Stunting
+P,3.5,49,1,5,50,Risiko Lebih,1.1,Pendek,-2.1,Obesitas,4.26,Stunting
+P,3.3,48,1,7.5,65,Berat Badan Normal,-1.24,Sangat Pendek,-3.07,Gizi Baik,0.62,Saverely Stunting
+L,4,50,1,4.5,50,Berat Badan Normal,-1.25,Sangat Pendek,-3.74,Obesitas,3.24,Saverely Stunting
+L,3,48,1,8.3,68,Berat Badan Normal,-1.25,Sangat Pendek,-3.01,Gizi Baik,0.49,Saverely Stunting
+L,3,48,1,6.4,66,Sangat Kurang,-3.46,Sangat Pendek,-3.68,Gizi Baik,-1.99,Saverely Stunting
+L,3.1,48,1,7.1,65.2,Kurang,-2.34,Sangat Pendek,-3.27,Gizi Baik,-0.64,Saverely Stunting
+L,2.8,47,2,4.5,55,Kurang,-2.17,Pendek,-2.28,Gizi Baik,-0.12,Stunting
+L,3.2,50,2,4.8,52.4,Berat Badan Normal,-1.78,Sangat Pendek,-3.71,Gizi Lebih,2.41,Saverely Stunting
+L,2.6,47,2,6.3,57,Berat Badan Normal,-0.06,Pendek,-2.11,Gizi Lebih,2.35,Stunting
+L,3.5,49,2,5.6,54,Berat Badan Normal,-0.3,Pendek,-2.63,Gizi Lebih,2.99,Stunting
+L,4,50,2,4,50,Kurang,-2.78,Sangat Pendek,-4.42,Risiko Gizi Lebih,2,Saverely Stunting
+P,3.2,50,2,4.5,52,Berat Badan Normal,-1.67,Sangat Pendek,-3.25,Risiko Gizi Lebih,1.83,Saverely Stunting
+L,3,50,3,5.5,58.5,Kurang,-2.08,Pendek,-2.56,Gizi Baik,-0.14,Stunting
+L,3.4,50,3,6,55,Berat Badan Normal,-0.97,Sangat Pendek,-3.76,Obesitas,03.08,Saverely Stunting
+L,3,49,3,5.5,58.2,Berat Badan Normal,-1.77,Pendek,-2.28,Gizi Baik,0.05,Stunting
+P,2.8,49,3,4.7,54,Kurang,-2.03,Sangat Pendek,-3.13,Gizi Baik,0.99,Saverely Stunting
+L,3.5,49,3,5,57,Kurang,-2.3,Pendek,-2.52,Gizi Baik,-0.29,Stunting
+P,3,50,3,5.3,54,Berat Badan Normal,-1.42,Sangat Pendek,-3.24,Risiko Gizi Lebih,1.81,Saverely Stunting
+L,3.5,49,3,7.4,55,Berat Badan Normal,0.88,Sangat Pendek,-3.72,Obesitas,5.73,Saverely Stunting
+P,3.5,49,3,6.5,52,Berat Badan Normal,0.27,Sangat Pendek,-4.44,,06.02,Saverely Stunting
+P,2.4,45,4,5.2,56,Berat Badan Normal,-1.73,Pendek,-2.85,Gizi Baik,0.83,Stunting
+P,3,50,4,4.4,57,Sangat Kurang,-3.32,Pendek,-2.73,Gizi Baik,-1.63,Stunting
+L,2.9,48,4,6,60,Berat Badan Normal,-1.92,Pendek,-2.68,Gizi Baik,0.02,Stunting
+P,1.1,37,4,4,53,Sangat Kurang,-4.27,Sangat Pendek,-4.97,Gizi Baik,-0.09,Saverely Stunting
+L,4,50,4,5.9,60,Berat Badan Normal,-1.88,Pendek,-2.42,Gizi Baik,-0.18,Stunting
+L,2.7,47,4,5.8,60,Kurang,-2.01,Pendek,-2.39,Gizi Baik,-0.39,Stunting
+P,2.6,47,5,3.8,56.5,Sangat Kurang,-4.67,Sangat Pendek,-3.51,Gizi Buruk,-3.05,Saverely Stunting
+L,3.3,49,5,7,62,Berat Badan Normal,-0.74,Pendek,-2.01,Gizi Baik,0.84,Stunting
+L,03.05,50,5,4.4,56,Sangat Kurang,-4.54,Sangat Pendek,-4.84,Gizi Baik,-1.12,Saverely Stunting
+L,2.9,48,5,6,60,Kurang,-2.45,Sangat Pendek,-3.48,Gizi Baik,0.02,Saverely Stunting
+L,3.4,46,5,5.9,59,Kurang,-2.42,Sangat Pendek,-3.35,Gizi Baik,-0.01,Saverely Stunting
+L,3,50,6,6.7,63,Berat Badan Normal,-1.77,Pendek,-2.56,Gizi Baik,-0.14,Stunting
+P,3,50,6,5.8,61,Berat Badan Normal,-1.92,Pendek,-2.12,Gizi Baik,-0.61,Stunting
+P,2.5,47,6,6.8,60,Berat Badan Normal,-0.77,Pendek,-2.83,Risiko Gizi Lebih,1.56,Stunting
+P,3,50,6,5.8,59.6,Kurang,-2.01,Pendek,-2.88,Gizi Baik,0.05,Stunting
+P,3,50,6,7.6,70,Berat Badan Normal,-1.6,Pendek,-2.06,Gizi Baik,-0.8,Stunting
+L,3.2,50,6,7.2,62.5,Berat Badan Normal,-1.07,Pendek,-2.7,Gizi Baik,0.94,Stunting
+L,3,50,6,6,64,Kurang,-2.71,Pendek,-2.03,Gizi Baik,-1.97,Stunting
+L,2.2,46,6,4.9,59.3,Sangat Kurang,-4.15,Sangat Pendek,-3.59,Gizi Kurang,-2.5,Saverely Stunting
+P,3.2,49,7,6.8,64.9,Kurang,-2.13,Pendek,-2.55,Gizi Baik,-0.78,Stunting
+L,3,50,7,8.4,64,Berat Badan Normal,0.1,Pendek,-2.4,Gizi Lebih,2.1,Stunting
+L,2.9,49.7,7,5,57,Sangat Kurang,-4.35,Sangat Pendek,-5.64,Gizi Baik,-0.29,Saverely Stunting
+L,3.3,48,7,6.5,64.5,Kurang,-2.47,Pendek,-2.62,Gizi Baik,-1.17,Stunting
+L,3.5,49,7,8.5,65,Berat Badan Normal,-0.12,Pendek,-2.53,Risiko Gizi Lebih,1.85,Stunting
+P,4,50,7,8,60,Berat Badan Normal,0.25,Sangat Pendek,-3.05,Gizi Lebih,2.9,Saverely Stunting
+P,3,50,8,6.6,65,Kurang,-2.55,Pendek,-2.8,Gizi Baik,-1.19,Stunting
+L,3,50,8,7,63,Kurang,-2.12,Sangat Pendek,-3.88,Gizi Baik,0.39,Saverely Stunting
+L,2.8,50,8,5.3,62,Sangat Kurang,-4.23,Sangat Pendek,-3.95,Gizi Kurang,-2.61,Saverely Stunting
+L,2.7,46,8,6.7,66,Kurang,-2.57,Pendek,-2.33,Gizi Baik,-1.68,Stunting
+P,3,50,8,6.4,60,Berat Badan Normal,-1.83,Sangat Pendek,-3.74,Gizi Baik,0.92,Saverely Stunting
+L,2.8,45,8,7.5,65,Berat Badan Normal,-1.28,Pendek,-2.57,Gizi Baik,0.38,Stunting
+P,3,50,8,7,64,Berat Badan Normal,-1.26,Pendek,-2.39,Gizi Baik,0.24,Stunting
+L,4,50,8,8,65,Berat Badan Normal,-0.89,Pendek,-2.63,Gizi Baik,0.88,Stunting
+P,3,50,9,5.7,61.5,Sangat Kurang,-3.17,Sangat Pendek,-3.74,Gizi Baik,-1.03,Saverely Stunting
+P,3.1,48,9,6.1,63.4,Kurang,-2.72,Pendek,-2.89,Gizi Baik,-1.34,Stunting
+L,2.3,47,9,7.9,66,Berat Badan Normal,-1.13,Pendek,-2.73,Gizi Baik,0.62,Stunting
+L,3.2,50,9,7.9,66,Berat Badan Normal,-1.12,Pendek,-2.72,Gizi Baik,0.62,Stunting
+L,3,50,9,7.5,67,Berat Badan Normal,-1.81,Pendek,-2.73,Gizi Baik,-0.38,Stunting
+L,3,50,9,6.6,64,Kurang,-2.9,Sangat Pendek,-3.91,Gizi Baik,-0.77,Saverely Stunting
+L,3.2,49,9,7.3,66,Berat Badan Normal,-1.98,Pendek,-2.7,Gizi Baik,-0.6,Stunting
+L,4,50,9,7.5,66,Berat Badan Normal,-1.7,Pendek,-2.62,Gizi Baik,-0.27,Stunting
+L,3.5,49,9,7.5,67,Berat Badan Normal,-1.64,Pendek,-2.38,Gizi Baik,-0.38,Stunting
+L,4,50,9,7.6,65,Berat Badan Normal,-1.49,Sangat Pendek,-3.2,Gizi Baik,0.54,Saverely Stunting
+L,3,50,12,6.8,68,Sangat Kurang,-3.26,Sangat Pendek,-3.49,Gizi Baik,-1.98,Saverely Stunting
+P,2.7,48,12,7.3,66.3,Berat Badan Normal,-1.86,Sangat Pendek,-3.31,Gizi Baik,-0.11,Saverely Stunting
+L,,,12,6.7,65,Sangat Kurang,-3.39,Sangat Pendek,-4.46,Gizi Baik,-1.29,Saverely Stunting
+P,,,12,6.4,66,Kurang,-2.83,Sangat Pendek,-3.12,Gizi Baik,-1.49,Saverely Stunting
+L,3.2,48,12,8.2,71.2,Berat Badan Normal,-1.61,Pendek,-2.19,Gizi Baik,-0.72,Stunting
+L,3,50,12,8.3,71,Berat Badan Normal,-1.4,Pendek,-2.07,Gizi Baik,-0.5,Stunting
+L,3,48,12,7.8,70,Kurang,-2.01,Pendek,-2.3,Gizi Baik,-1.18,Stunting
+L,3.4,50,12,8,70,Berat Badan Normal,-1.83,Pendek,-2.68,Gizi Baik,-0.63,Stunting
+L,2.5,45,12,8.5,69.5,Berat Badan Normal,-1.17,Pendek,-2.67,Gizi Baik,0.27,Stunting
+L,3,45,12,7.8,69,Berat Badan Normal,-1.97,Pendek,-2.92,Gizi Baik,-0.61,Stunting
+L,2.8,48,12,7.1,68,Kurang,-2.87,Sangat Pendek,-3.44,Gizi Baik,-1.43,Saverely Stunting
+P,4,50,12,8,66,Berat Badan Normal,-0.95,Pendek,-2.89,Gizi Baik,0.75,Stunting
+L,4,50,12,9.3,70,Berat Badan Normal,-0.45,Pendek,-2.37,Gizi Baik,0.96,Stunting
+L,,,12,10,68.5,Berat Badan Normal,0.15,Sangat Pendek,-3.41,Gizi Lebih,2.5,Saverely Stunting
+L,3,48,13,8,71,Berat Badan Normal,-1.95,Pendek,-2.51,Gizi Baik,-0.96,Stunting
+P,3,72,13,9,78,Berat Badan Normal,-1.75,Pendek,-2.17,Gizi Baik,-0.85,Stunting
+P,2.6,44,13,7.1,70,Kurang,-2.34,Pendek,-2.36,Gizi Baik,-1.58,Stunting
+P,3.3,50,13,8.5,78,Kurang,-2.42,Pendek,-2.21,Gizi Baik,-1.67,Stunting
+L,3.6,50,13,8.7,78,Kurang,-2.71,Pendek,-2.59,Gizi Baik,-1.98,Stunting
+P,2.7,48,13,8.5,76,Kurang,-2.48,Pendek,-2.93,Gizi Baik,-1.22,Stunting
+L,3,49,13,7.5,71,Kurang,-2.64,Pendek,-2.75,Gizi Baik,-1.77,Stunting
+P,3,49,13,8,78,Kurang,-2.99,Pendek,-2.26,Gizi Kurang,-2.4,Stunting
+L,3,50,13,10.7,78,Berat Badan Normal,-0.95,Pendek,-2.95,Gizi Baik,0.71,Stunting
+P,2.8,48,13,9,79,Berat Badan Normal,-1.98,Pendek,-2.21,Gizi Baik,-1.07,Stunting
+P,3,50,13,10.1,76.5,Berat Badan Normal,-0.78,Pendek,-2.65,Gizi Baik,0.76,Stunting
+L,3.3,50,13,9.8,80,Berat Badan Normal,-1.69,Pendek,-2.22,Gizi Baik,-0.78,Stunting
+L,3.1,49,13,9.2,79.2,Kurang,-2.36,Pendek,-2.45,Gizi Baik,-1.54,Stunting
+L,2.8,49,13,7.4,72.3,Kurang,-2.77,Pendek,-2.24,Gizi Kurang,-2.36,Stunting
+P,3,49,13,7,77.5,Sangat Kurang,-3.84,Pendek,-2.07,Gizi Buruk,-3.83,Stunting
+P,2.8,49,13,7.8,68.5,Berat Badan Normal,-1.37,Pendek,-2.61,Gizi Baik,-0.07,Stunting
+L,2.8,49,13,10,79,Berat Badan Normal,-1.58,Pendek,-2.43,Gizi Baik,-0.47,Stunting
+P,0,0,13,8.3,76,Kurang,-2.62,Pendek,-2.83,Gizi Baik,-1.5,Stunting
+L,,,13,8.8,78,Kurang,-2.74,Pendek,-2.82,Gizi Baik,-1.84,Stunting
+P,0,0,13,10,78.3,Berat Badan Normal,-1.08,Pendek,-2.22,Gizi Baik,0.12,Stunting
+P,3.2,49,13,9,75.4,Berat Badan Normal,-1.72,Pendek,-2.95,Gizi Baik,-0.27,Stunting
+P,,,13,9.7,76,Berat Badan Normal,-1.16,Pendek,-2.87,Gizi Baik,0.42,Stunting
+P,,,13,7.6,77,Sangat Kurang,-3.41,Pendek,-2.58,Gizi Kurang,-2.78,Stunting
+P,,,13,7,69,Kurang,-2.33,Pendek,-2.22,Gizi Baik,-1.66,Stunting
+P,,,13,8.2,76.7,Kurang,-2.79,Pendek,-2.7,Gizi Baik,-1.8,Stunting
+L,2.9,49,13,9,78.5,Kurang,-2.6,Pendek,-2.77,Gizi Baik,-1.66,Stunting
+L,3.2,49,13,9.5,80,Kurang,-2.01,Pendek,-2.06,Gizi Baik,-1.32,Stunting
+P,,,13,8.3,77,Kurang,-2.74,Pendek,-2.69,Gizi Baik,-1.72,Stunting
+L,,,13,9.3,79.2,Kurang,-2.28,Pendek,-2.46,Gizi Baik,-1.42,Stunting
+L,3.5,50,13,8.9,78.2,Kurang,-2.56,Pendek,-2.86,Gizi Baik,-1.58,Stunting
+L,3.9,52,13,9.4,77.4,Kurang,-2.01,Pendek,-2.78,Gizi Baik,-0.88,Stunting
+P,2.8,49,13,9.6,77.3,Berat Badan Normal,-1.45,Pendek,-2.57,Gizi Baik,-0.12,Stunting
+L,1.2,40,13,7.3,70,Kurang,-2.9,Sangat Pendek,-3.19,Gizi Baik,-1.78,Saverely Stunting
+L,3.2,49,13,8.7,76,Kurang,-2.77,Sangat Pendek,-3.61,Gizi Baik,-1.34,Saverely Stunting
+P,3,49,13,7.5,75.6,Sangat Kurang,-3.57,Sangat Pendek,-3.12,Gizi Kurang,-2.61,Saverely Stunting
+L,3,50,13,10.8,76.3,Berat Badan Normal,-0.93,Sangat Pendek,-3.38,Risiko Gizi Lebih,01.04,Saverely Stunting
+L,2.8,49,13,9.2,77,Kurang,-2.31,Sangat Pendek,-3.33,Gizi Baik,-0.89,Saverely Stunting
+P,2.8,47,13,5,62,Sangat Kurang,-4.85,Sangat Pendek,-5.08,Gizi Kurang,-2.79,Saverely Stunting
+L,2.8,48,13,10,77,Berat Badan Normal,-1.54,Sangat Pendek,-3.27,Gizi Baik,0.13,Saverely Stunting
+L,2.8,49,13,8.6,76.5,Kurang,-2.79,Sangat Pendek,-3.07,Gizi Baik,-1.78,Saverely Stunting
+P,,,13,7.5,66,Berat Badan Normal,-1.79,Sangat Pendek,-3.46,Gizi Baik,0.05,Saverely Stunting
+P,2.8,49,13,8.4,71,Kurang,-2.63,Sangat Pendek,-4.77,Gizi Baik,0.04,Saverely Stunting
+L,2.9,49,13,10.1,76.3,Berat Badan Normal,-1.42,Sangat Pendek,-3.22,Gizi Baik,0.24,Saverely Stunting
+L,3,50,13,9.7,78.1,Berat Badan Normal,-1.82,Pendek,-2.69,Gizi Baik,-0.64,Stunting
+L,2.8,50,13,9.5,77,Berat Badan Normal,-1.9,Pendek,-2.88,Gizi Baik,-0.66,Stunting
+P,2.8,47,13,9,76.6,Kurang,-2.03,Pendek,-2.81,Gizi Baik,-0.69,Stunting
+P,2.8,47,13,7.8,70,Berat Badan Normal,-1.36,Pendek,-2.03,Gizi Baik,-0.51,Stunting
+P,2.7,47,13,10,78,Berat Badan Normal,-1.09,Pendek,-2.32,Gizi Baik,0.19,Stunting
+L,2.3,50,13,8.5,81.2,Sangat Kurang,-3.11,Pendek,-2.13,Gizi Kurang,-2.86,Stunting
+P,3,48,13,9.3,77.9,Berat Badan Normal,-1.56,Pendek,-2.34,Gizi Baik,-0.45,Stunting
+P,2.5,48,13,9.7,78.8,Berat Badan Normal,-1.37,Pendek,-2.11,Gizi Baik,-0.33,Stunting
+P,2.5,48,13,7,67,Kurang,-2.37,Sangat Pendek,-3.06,Gizi Baik,-1.04,Saverely Stunting
+L,3.1,51,13,9.2,77,Kurang,-2.41,Sangat Pendek,-3.26,Gizi Baik,-1.05,Saverely Stunting
+P,3,50,13,10,75,Berat Badan Normal,-1.02,Sangat Pendek,-3.37,Gizi Baik,0.97,Saverely Stunting
+P,3.4,51,13,8.5,75,Kurang,-2.33,Sangat Pendek,-3.02,Gizi Baik,-0.99,Saverely Stunting
+P,3,49,13,10,66,Berat Badan Normal,0.6,Sangat Pendek,-3.69,Obesitas,3.27,Saverely Stunting
+P,3,50,13,9.9,75,Berat Badan Normal,-1.03,Sangat Pendek,-3.04,Gizi Baik,0.71,Saverely Stunting
+L,3,50,13,11.7,78.1,Berat Badan Normal,-0.29,Sangat Pendek,-3.11,Risiko Gizi Lebih,1.72,Saverely Stunting
+P,3,50,13,6.3,65,Sangat Kurang,-3.22,Sangat Pendek,-3.99,Gizi Baik,-1.31,Saverely Stunting
+L,3.2,49,13,9.6,78.8,Kurang,-2.06,Pendek,-2.72,Gizi Baik,-0.92,Stunting
+L,3,50,13,9.4,72,Kurang,-2.15,Sangat Pendek,-5.04,Gizi Baik,0.7,Saverely Stunting
+L,2.9,48,13,10,77,Berat Badan Normal,-1.54,Sangat Pendek,-3.27,Gizi Baik,0.13,Saverely Stunting
+L,3,50,13,9.4,77.4,Kurang,-2.13,Sangat Pendek,-3.22,Gizi Baik,-0.72,Saverely Stunting
+L,3,50,13,10,75,Berat Badan Normal,-1.57,Sangat Pendek,-3.75,Gizi Baik,0.43,Saverely Stunting
+L,4,50,13,8,78.3,Sangat Kurang,-3.59,Sangat Pendek,-3.07,Gizi Kurang,-2.97,Saverely Stunting
+L,3,50,13,7.1,69,Sangat Kurang,-3.02,Sangat Pendek,-3.33,Gizi Baik,-1.79,Saverely Stunting
+L,2.4,48,13,9,81,Kurang,-2.53,Pendek,-2.05,Gizi Kurang,-2.07,Stunting
+P,2.7,51,13,8.8,77.6,Berat Badan Normal,-1.95,Pendek,-2.3,Gizi Baik,-1.02,Stunting
+P,2.9,47,13,7.7,69,Berat Badan Normal,-1.47,Pendek,-2.41,Gizi Baik,-0.36,Stunting
+L,,,13,9.5,71,Berat Badan Normal,-0.52,Pendek,-2.5,Gizi Baik,0.91,Stunting
+P,2.34,44,13,8,69,Berat Badan Normal,-1.2,Pendek,-2.23,Gizi Baik,-0.14,Stunting
+P,3.11,48,13,8.9,77,Berat Badan Normal,-1.92,Pendek,-2.37,Gizi Baik,-0.91,Stunting
+L,3.5,50,13,10.4,77.2,Berat Badan Normal,-1.32,Sangat Pendek,-3.4,Gizi Baik,0.55,Saverely Stunting
+P,3.1,49,13,8.9,76.5,Berat Badan Normal,-1.89,Pendek,-2.71,Gizi Baik,-0.65,Stunting
+P,2.8,50,13,9,75.6,Berat Badan Normal,-1.87,Pendek,-2.89,Gizi Baik,-0.47,Stunting
+P,2.9,45,13,6.1,67.5,Sangat Kurang,-3.48,Pendek,-2.79,Gizi Kurang,-2.82,Stunting
+L,2.9,47,13,8.6,78,Kurang,-2.85,Pendek,-2.66,Gizi Kurang,-2.13,Stunting
+L,3,48,13,8.3,77.5,Sangat Kurang,-3.22,Pendek,-2.96,Gizi Kurang,-2.47,Stunting
+L,3.2,50,13,10,80,Berat Badan Normal,-1.48,Pendek,-2.15,Gizi Baik,-0.53,Stunting
+L,3.2,50,13,8.9,80,Kurang,-2.46,Pendek,-2.06,Gizi Baik,-1.99,Stunting
+L,3.2,50,13,8.8,78,Kurang,-2.64,Pendek,-2.89,Gizi Baik,-1.68,Stunting
+L,1.9,44,13,8.8,78.5,Kurang,-2.61,Pendek,-2.67,Gizi Baik,-1.79,Stunting
+L,3,48,13,8.6,80.3,Kurang,-2.81,Pendek,-2.06,Gizi Kurang,-2.49,Stunting
+L,3.2,49,13,9.2,71,Berat Badan Normal,-0.75,Pendek,-2.66,Gizi Baik,0.74,Stunting
+L,3.2,50,13,10.4,81,Berat Badan Normal,-1.36,Pendek,-2.23,Gizi Baik,-0.27,Stunting
+L,3,49,13,10.4,80,Berat Badan Normal,-1.31,Pendek,-2.46,Gizi Baik,-0.05,Stunting
+P,3,49,13,9.2,77,Berat Badan Normal,-1.69,Pendek,-2.69,Gizi Baik,-0.38,Stunting
+P,3,49,13,7.5,77.5,Sangat Kurang,-3.34,Pendek,-2.36,Gizi Kurang,-2.9,Stunting
+L,3,49,13,8.2,79.4,Sangat Kurang,-3.27,Pendek,-2.48,Gizi Kurang,-2.9,Stunting
+L,3,47,13,8.9,75,Kurang,-2.64,Sangat Pendek,-3.82,Gizi Baik,-0.98,Saverely Stunting
+L,3,50,13,9,74.5,Kurang,-2.36,Sangat Pendek,-3.7,Gizi Baik,-0.71,Saverely Stunting
+L,3.2,50,13,9.6,78,Berat Badan Normal,-1.99,Sangat Pendek,-3.08,Gizi Baik,-0.59,Saverely Stunting
+P,3,48,13,6.8,67,Kurang,-2.63,Sangat Pendek,-3.33,Gizi Baik,-1.14,Saverely Stunting
+P,3.3,52,13,9,73,Berat Badan Normal,-1.85,Sangat Pendek,-3.91,Gizi Baik,0.29,Saverely Stunting
+L,4,50,13,9.8,79,Berat Badan Normal,-1.74,Pendek,-2.4,Gizi Baik,-0.71,Stunting
+L,4,50,13,7.7,70,Kurang,-2.36,Pendek,-2.77,Gizi Baik,-1.34,Stunting
+P,4,50,13,8.2,69,Berat Badan Normal,-1.1,Pendek,-2.45,Gizi Baik,0.13,Stunting
+P,3.3,50,13,9.2,77,Berat Badan Normal,-1.59,Pendek,-2.31,Gizi Baik,-0.53,Stunting
+P,4,50,13,7,69,Kurang,-2.37,Pendek,-2.31,Gizi Baik,-1.66,Stunting
+P,4,50,13,9.2,77.4,Berat Badan Normal,-1.78,Pendek,-2.47,Gizi Baik,-0.62,Stunting
+P,4,50,13,8.7,76,Kurang,-2.18,Pendek,-2.79,Gizi Baik,-0.95,Stunting
+L,4,50,13,10,78,Berat Badan Normal,-1.54,Pendek,-2.7,Gizi Baik,-0.25,Stunting
+L,4,50,13,8.9,80,Kurang,-2.6,Pendek,-2.1,Gizi Kurang,-2.15,Stunting
+P,3.1,50,13,7.2,68,Kurang,-2.15,Pendek,-2.73,Gizi Baik,-1.03,Stunting
+L,2.5,48,13,11,79,Berat Badan Normal,-0.66,Pendek,-2.29,Gizi Baik,0.68,Stunting
+P,2.8,50,13,9.5,75.5,Berat Badan Normal,-1.3,Pendek,-2.75,Gizi Baik,0.15,Stunting
+L,3.5,49,13,9.9,70,Berat Badan Normal,0.01,Pendek,-2.58,Risiko Gizi Lebih,1.69,Stunting
+L,3,50,13,10.7,77,Berat Badan Normal,-0.88,Pendek,-2.93,Gizi Baik,0.77,Stunting
+L,3,48,13,9,78,Kurang,-2.4,Pendek,-2.57,Gizi Baik,-1.55,Stunting
+P,2.9,51,13,8.8,76,Kurang,-2.05,Pendek,-2.75,Gizi Baik,-0.82,Stunting
+L,3.5,50,13,9.4,79.4,Kurang,-2.16,Pendek,-2.37,Gizi Baik,-1.32,Stunting
+L,4,50,13,8.3,77.5,Sangat Kurang,-3.27,Sangat Pendek,-3.29,Gizi Kurang,-2.3,Saverely Stunting
+P,2.9,50,13,8.4,76,Kurang,-2.63,Sangat Pendek,-3.22,Gizi Baik,-1.2,Saverely Stunting
+L,2.4,47,13,8,68,Berat Badan Normal,-1.95,Sangat Pendek,-3.47,Gizi Baik,-0.19,Saverely Stunting
+P,2,49,13,8.9,75,Kurang,-2.05,Sangat Pendek,-3.21,Gizi Baik,-0.47,Saverely Stunting
+P,3,50,13,10.7,73,Berat Badan Normal,-0.5,Sangat Pendek,-3.83,Risiko Gizi Lebih,1.97,Saverely Stunting
+P,2.7,48,13,9.3,73,Berat Badan Normal,-1.63,Sangat Pendek,-3.78,Gizi Baik,0.48,Saverely Stunting
+L,2.9,48,14,8.7,72,Berat Badan Normal,-1.49,Pendek,-2.44,Gizi Baik,-0.44,Stunting
+L,3,50,14,7.6,73,Kurang,-2.73,Pendek,-2.37,Gizi Kurang,-2.23,Stunting
+P,3,48,14,8.3,70.5,Berat Badan Normal,-1.11,Pendek,-2.13,Gizi Baik,-0.14,Stunting
+L,3.2,49,14,8.3,71.2,Berat Badan Normal,-1.92,Sangat Pendek,-3.06,Gizi Baik,-0.57,Saverely Stunting
+L,2.8,48,14,8.5,72,Berat Badan Normal,-1.71,Pendek,-2.74,Gizi Baik,-0.52,Stunting
+P,3,49,14,8.3,69,Berat Badan Normal,-1.05,Pendek,-2.82,Gizi Baik,0.46,Stunting
+L,2.8,50,14,8.6,72.1,Berat Badan Normal,-1.55,Pendek,-2.59,Gizi Baik,-0.41,Stunting
+L,3.3,50,14,8,73,Kurang,-2.2,Pendek,-2.23,Gizi Baik,-1.58,Stunting
+P,4,50,14,8.5,70,Berat Badan Normal,-0.96,Pendek,-2.41,Gizi Baik,0.25,Stunting
+L,3.9,51,14,8.5,72,Berat Badan Normal,-1.62,Pendek,-2.28,Gizi Baik,-0.73,Stunting
+P,2,47,14,8,70,Berat Badan Normal,-1.43,Pendek,-2.32,Gizi Baik,-0.42,Stunting
+L,4,50,14,7.5,68,Kurang,-2.79,Sangat Pendek,-3.96,Gizi Baik,-0.99,Saverely Stunting
+L,3,49,14,10,68.5,Berat Badan Normal,-0.1,Sangat Pendek,-3.88,Gizi Lebih,2.5,Saverely Stunting
+P,2.3,48,15,8.2,70.5,Berat Badan Normal,-1.4,Pendek,-2.72,Gizi Baik,-0.09,Stunting
+P,2.6,47,15,8.3,70,Berat Badan Normal,-1.4,Pendek,-3,Gizi Baik,0.12,Stunting
+L,3.2,50,15,8.7,73.2,Berat Badan Normal,-1.68,Pendek,-2.63,Gizi Baik,-0.59,Stunting
+P,2.8,49,15,7.7,72,Kurang,-2.01,Pendek,-2.33,Gizi Baik,-1.21,Stunting
+L,2.8,49,15,10,71.7,Berat Badan Normal,-0.41,Pendek,-2.92,Risiko Gizi Lebih,1.31,Stunting
+L,2.5,50,15,7.2,73,Sangat Kurang,-3.36,Pendek,-2.46,Gizi Buruk,-3.13,Stunting
+P,2.1,41,15,6.8,69,Kurang,-2.96,Sangat Pendek,-3.17,Gizi Baik,-1.78,Saverely Stunting
+L,2.5,47,15,7,71,Sangat Kurang,-3.45,Sangat Pendek,-3.22,Gizi Kurang,-2.66,Saverely Stunting
+L,3,50,15,11.2,72,Berat Badan Normal,0.67,Pendek,-2.98,Gizi Lebih,2.71,Stunting
+L,3,50,15,7.5,70.5,Kurang,-2.96,Sangat Pendek,-3.59,Gizi Baik,-1.61,Saverely Stunting
+P,3,50,15,8,69,Berat Badan Normal,-1.63,Sangat Pendek,-3.31,Gizi Baik,0.06,Saverely Stunting
+P,3,50,15,8.1,65,Berat Badan Normal,-1.43,Sangat Pendek,-4.59,Risiko Gizi Lebih,1.44,Saverely Stunting
+L,3,50,15,8.7,73.2,Berat Badan Normal,-1.64,Pendek,-2.55,Gizi Baik,-0.59,Stunting
+L,3.5,49,15,8.1,73.8,Kurang,-2.28,Pendek,-2.33,Gizi Baik,-1.65,Stunting
+P,3.5,50,15,7,71,Kurang,-2.7,Pendek,-2.43,Gizi Kurang,-2.04,Stunting
+L,2.8,50,15,8,73,Kurang,-2.46,Pendek,-2.77,Gizi Baik,-1.58,Stunting
+L,2.8,50,15,7.8,74.3,Kurang,-2.58,Pendek,-2.03,Gizi Kurang,-2.27,Stunting
+L,2.8,50,15,7.5,71.9,Kurang,-2.97,Sangat Pendek,-3.06,Gizi Kurang,-2.06,Saverely Stunting
+P,2.8,47,15,7.6,66.8,Kurang,-2.11,Sangat Pendek,-4.18,Gizi Baik,0.17,Saverely Stunting
+L,3,48,15,9.8,73.2,Berat Badan Normal,-0.59,Pendek,-2.61,Gizi Baik,0.85,Stunting
+P,3.3,49,15,7.1,72,Kurang,-2.58,Pendek,-2.08,Gizi Kurang,-2.15,Stunting
+L,3.2,50,15,8,74,Kurang,-2.34,Pendek,-2.13,Gizi Baik,-1.86,Stunting
+L,4,50,15,9.5,73,Berat Badan Normal,-0.84,Pendek,-2.34,Gizi Baik,0.34,Stunting
+L,3.3,50,15,7.5,72,Kurang,-2.97,Pendek,-2.76,Gizi Kurang,-2.31,Stunting
+P,3.2,50,15,7.4,70,Kurang,-2.2,Pendek,-2.51,Gizi Baik,-1.3,Stunting
+P,2.8,48,15,7.2,70,Kurang,-2.58,Pendek,-2.76,Gizi Baik,-1.62,Stunting
+P,4,50,15,7.7,68,Berat Badan Normal,-1.94,Sangat Pendek,-3.4,Gizi Baik,-0.27,Saverely Stunting
+L,3,49,15,8.2,71,Kurang,-2.19,Sangat Pendek,-3.18,Gizi Baik,-0.87,Saverely Stunting
+P,5.3,50,16,8.5,73,Berat Badan Normal,-1.24,Pendek,-2.11,Gizi Baik,-0.34,Stunting
+P,2.9,48,16,7.4,72,Kurang,-2.45,Pendek,-2.5,Gizi Baik,-1.67,Stunting
+P,3,50,16,7.5,71.5,Kurang,-2.26,Pendek,-2.55,Gizi Baik,-1.37,Stunting
+P,3,50,16,7.6,70,Kurang,-2.22,Pendek,-2.96,Gizi Baik,-1,Stunting
+L,3,50,16,8.4,74,Kurang,-2.13,Pendek,-2.33,Gizi Baik,-1.44,Stunting
+P,1.7,40,16,7,71.5,Sangat Kurang,-3.04,Pendek,-2.85,Gizi Kurang,-2.18,Stunting
+P,3.1,47,16,8.7,73.2,Berat Badan Normal,-1.12,Pendek,-2.17,Gizi Baik,-0.13,Stunting
+L,3,49,16,8.3,74.4,Kurang,-2.29,Pendek,-2.29,Gizi Baik,-1.7,Stunting
+P,3,49,16,7.9,70.4,Berat Badan Normal,-1.82,Pendek,-2.71,Gizi Baik,-0.67,Stunting
+P,3,50,16,7.8,72,Kurang,-2.04,Pendek,-2.33,Gizi Baik,-1.24,Stunting
+L,3,50,16,9,74,Berat Badan Normal,-1.44,Pendek,-2.18,Gizi Baik,-0.58,Stunting
+P,3.1,53,16,7.9,73,Berat Badan Normal,-1.83,Pendek,-2.05,Gizi Baik,-1.18,Stunting
+L,3,50,16,14.7,74,Risiko Lebih,03.04,Pendek,-2.41,Obesitas,5.56,Stunting
+P,2.5,48,16,8.7,72,Berat Badan Normal,-1.13,Pendek,-2.37,Gizi Baik,-0.01,Stunting
+L,3,50,16,9.7,73.4,Berat Badan Normal,-0.83,Pendek,-2.56,Gizi Baik,0.48,Stunting
+P,3,50,16,7.4,68,Kurang,-2.42,Sangat Pendek,-3.87,Gizi Baik,-0.51,Saverely Stunting
+L,3.5,50,16,7.6,74.2,Kurang,-3,Pendek,-2.48,Gizi Kurang,-2.58,Stunting
+P,3.6,46,16,7.5,72,Kurang,-2.34,Pendek,-2.51,Gizi Baik,-1.51,Stunting
+P,3.5,50,16,7.8,73,Kurang,-2.1,Pendek,-2.33,Gizi Baik,-1.32,Stunting
+L,3,50,16,8.1,72.4,Kurang,-2.43,Sangat Pendek,-3.15,Gizi Baik,-1.24,Saverely Stunting
+P,3.1,48,16,6.9,71.5,Sangat Kurang,-3.1,Pendek,-2.49,Gizi Kurang,-2.55,Stunting
+P,3,49,16,8.9,71,Berat Badan Normal,-0.93,Pendek,-2.96,Gizi Baik,0.67,Stunting
+L,2.4,44,16,6.7,72.5,Sangat Kurang,-4.08,Sangat Pendek,-3.04,Gizi Buruk,-3.86,Saverely Stunting
+L,3,48,16,7.3,71.5,Sangat Kurang,-3.29,Sangat Pendek,-3.41,Gizi Kurang,-2.28,Saverely Stunting
+P,4,50,16,9.2,71.7,Berat Badan Normal,-0.65,Pendek,-2.45,Gizi Baik,0.68,Stunting
+P,3.3,48,16,8,70,Berat Badan Normal,-1.76,Pendek,-2.94,Gizi Baik,-0.42,Stunting
+L,4,50,16,10.2,73,Berat Badan Normal,-0.43,Pendek,-2.8,Risiko Gizi Lebih,1.18,Stunting
+L,3.2,46,16,8.8,74,Berat Badan Normal,-1.61,Pendek,-2.13,Gizi Baik,-0.86,Stunting
+L,3,50,16,8.9,74,Berat Badan Normal,-1.56,Pendek,-2.24,Gizi Baik,-0.72,Stunting
+L,3,50,16,8.2,73.3,Kurang,-2.29,Pendek,-2.5,Gizi Baik,-1.55,Stunting
+L,0,0,16,7.8,73.5,Kurang,-2.77,Pendek,-2.74,Gizi Kurang,-2.04,Stunting
+L,4,50,16,6.8,69,Sangat Kurang,-3.83,Sangat Pendek,-4.07,Gizi Kurang,-2.6,Saverely Stunting
+P,3,50,17,8.1,74,Berat Badan Normal,-1.89,Pendek,-2.2,Gizi Baik,-1.14,Stunting
+P,2.9,48,17,9,74,Berat Badan Normal,-0.92,Pendek,-2.06,Gizi Baik,0.05,Stunting
+L,3,50,17,8.8,76,Berat Badan Normal,-1.92,Pendek,-2.25,Gizi Baik,-1.2,Stunting
+L,3,50,17,9,74.1,Berat Badan Normal,-1.59,Pendek,-2.46,Gizi Baik,-0.61,Stunting
+L,2.8,49,17,9.5,74.5,Berat Badan Normal,-1.18,Pendek,-2.45,Gizi Baik,-0.06,Stunting
+P,2.5,49,17,9.5,73.2,Berat Badan Normal,-0.58,Pendek,-2.54,Gizi Baik,0.83,Stunting
+P,2.8,49,17,8.2,72.5,Berat Badan Normal,-1.81,Pendek,-2.76,Gizi Baik,-0.62,Stunting
+L,2.9,47,17,7.8,76,Kurang,-3,Pendek,-2.26,Gizi Kurang,-2.73,Stunting
+L,2.9,49,17,8,72,Kurang,-2.7,Sangat Pendek,-3.61,Gizi Baik,-1.27,Saverely Stunting
+P,2.8,49,17,7.8,68.6,Kurang,-2.26,Sangat Pendek,-4.13,Gizi Baik,-0.1,Saverely Stunting
+L,3,48,17,7.5,74,Sangat Kurang,-3.26,Pendek,-2.86,Gizi Kurang,-2.69,Stunting
+L,3,49,17,8,74,Kurang,-2.67,Pendek,-2.54,Gizi Kurang,-2.06,Stunting
+L,3,50,17,10,76,Berat Badan Normal,-0.8,Pendek,-2.05,Gizi Baik,0.19,Stunting
+L,2.5,48,17,10,75,Berat Badan Normal,-0.76,Pendek,-2.34,Gizi Baik,0.43,Stunting
+L,1.85,43,17,9.4,75.2,Berat Badan Normal,-1.32,Pendek,-2.54,Gizi Baik,-0.18,Stunting
+P,3,50,17,7.4,70.5,Kurang,-2.73,Sangat Pendek,-3.49,Gizi Baik,-1.25,Saverely Stunting
+P,3,49,17,8.3,70,Berat Badan Normal,-1.73,Sangat Pendek,-3.42,Gizi Baik,-0.01,Saverely Stunting
+L,3.9,50,17,7.8,75.9,Kurang,-2.89,Pendek,-2.08,Gizi Kurang,-2.71,Stunting
+L,2.9,49,17,8.6,73.8,Berat Badan Normal,-2,Pendek,-2.83,Gizi Baik,-0.9,Stunting
+L,2.8,49,17,6.5,73.8,Sangat Kurang,-4.37,Pendek,-2.98,Gizi Buruk,-4.36,Stunting
+L,3,49,17,7.9,74,Kurang,-2.86,Pendek,-2.96,Gizi Kurang,-2.02,Stunting
+L,3,50,17,8.8,75,Berat Badan Normal,-1.92,Pendek,-2.62,Gizi Baik,-0.94,Stunting
+L,2.8,50,17,8,76.5,Kurang,-2.79,Pendek,-2.12,Gizi Kurang,-2.53,Stunting
+P,2.5,0,17,8,67,Berat Badan Normal,-1.9,Sangat Pendek,-4.47,Gizi Baik,0.66,Saverely Stunting
+L,2.1,46,17,9.1,71.8,Berat Badan Normal,-1.54,Sangat Pendek,-3.68,Gizi Baik,0.37,Saverely Stunting
+L,3.4,50,17,7.8,75.7,Kurang,-3,Pendek,-2.11,Gizi Kurang,-2.84,Stunting
+L,2.2,46,17,9.5,75,Berat Badan Normal,-1.2,Pendek,-2.57,Gizi Baik,0,Stunting
+P,2.2,45,17,7.2,72.5,Kurang,-2.86,Pendek,-2.61,Gizi Kurang,-2.13,Stunting
+P,1.8,43,17,7.3,72.5,Kurang,-2.83,Pendek,-2.77,Gizi Baik,-1.96,Stunting
+P,3.2,50,17,8,72,Berat Badan Normal,-1.97,Pendek,-2.84,Gizi Baik,-0.77,Stunting
+L,3.2,50,17,8.7,74,Berat Badan Normal,-1.93,Pendek,-2.83,Gizi Baik,-0.81,Stunting
+L,3.2,50,17,8.9,74,Berat Badan Normal,-1.82,Sangat Pendek,-3.01,Gizi Baik,-0.53,Saverely Stunting
+P,4,50,17,9.3,72,Berat Badan Normal,-0.72,Pendek,-2.64,Gizi Baik,0.72,Stunting
+L,4,50,17,9.5,74,Berat Badan Normal,-1.14,Pendek,-2.55,Gizi Baik,0.07,Stunting
+P,3,49,17,9.2,72,Berat Badan Normal,-0.82,Pendek,-2.9,Gizi Baik,0.78,Stunting
+L,3,46,17,9.2,75.2,Berat Badan Normal,-1.45,Pendek,-2.15,Gizi Baik,-0.62,Stunting
+L,2.9,47,17,9.5,75,Berat Badan Normal,-1.25,Pendek,-2.4,Gizi Baik,-0.18,Stunting
+L,3,50,17,8.1,75,Kurang,-2.66,Pendek,-2.37,Gizi Kurang,-2.17,Stunting
+L,0,0,17,10.3,75,Berat Badan Normal,-0.49,Pendek,-2.6,Gizi Baik,0.96,Stunting
+P,2.5,48,17,9,69.7,Berat Badan Normal,-0.93,Sangat Pendek,-3.33,Gizi Baik,0.95,Saverely Stunting
+L,2.5,47,17,8.5,71,Kurang,-2.13,Sangat Pendek,-3.67,Gizi Baik,-0.43,Saverely Stunting
+L,3,50,18,8.5,75.7,Kurang,-2.34,Pendek,-2.58,Gizi Baik,-1.56,Stunting
+P,3,47,18,7.4,73,Kurang,-2.8,Pendek,-2.74,Gizi Baik,-1.94,Stunting
+P,3,50,18,7.6,74,Kurang,-2.61,Pendek,-2.47,Gizi Baik,-1.88,Stunting
+L,3,50,18,10.3,75.7,Berat Badan Normal,-0.55,Pendek,-2.45,Gizi Baik,0.78,Stunting
+L,3,50,18,8.9,75.4,Berat Badan Normal,-1.86,Pendek,-2.56,Gizi Baik,-0.9,Stunting
+L,3,50,18,7.6,75,Sangat Kurang,-3.27,Pendek,-2.75,Gizi Kurang,-2.8,Stunting
+L,2.8,49,18,10,75,Berat Badan Normal,-0.81,Pendek,-2.43,Gizi Baik,0.43,Stunting
+L,2.8,49,18,9.3,73.8,Berat Badan Normal,-1.49,Pendek,-2.94,Gizi Baik,-0.13,Stunting
+L,3.1,47,18,8.4,76,Kurang,-2.5,Pendek,-2.32,Gizi Baik,-1.96,Stunting
+L,2.8,47,18,9,74.9,Berat Badan Normal,-1.82,Pendek,-2.6,Gizi Baik,-0.82,Stunting
+P,3.1,49,18,6.5,68,Sangat Kurang,-3.82,Sangat Pendek,-4.17,Gizi Kurang,-2.22,Saverely Stunting
+L,3,50,18,10,74,Berat Badan Normal,-0.96,Sangat Pendek,-3.34,Gizi Baik,0.87,Saverely Stunting
+P,2.7,47,18,10,70,Berat Badan Normal,-0.31,Sangat Pendek,-3.9,Gizi Lebih,2.15,Saverely Stunting
+L,2.8,48,18,8.6,75.9,Kurang,-2.2,Pendek,-2.17,Gizi Baik,-1.63,Stunting
+L,2.6,48,18,7.8,76.5,Sangat Kurang,-3.13,Pendek,-2.1,Gizi Buruk,-3.03,Stunting
+L,3,50,18,8.4,75.9,Kurang,-2.49,Pendek,-2.6,Gizi Baik,-1.76,Stunting
+P,2.5,48,18,10.8,72,Berat Badan Normal,0.31,Pendek,-2.99,Gizi Lebih,2.29,Stunting
+L,2.5,47,18,9,74,Berat Badan Normal,-1.82,Pendek,-2.93,Gizi Baik,-0.58,Stunting
+L,3,50,18,9.5,71,Berat Badan Normal,-1.35,Sangat Pendek,-4.32,Risiko Gizi Lebih,1.12,Saverely Stunting
+P,3,50,18,8.7,66,Berat Badan Normal,-1.36,Sangat Pendek,-5.08,Risiko Gizi Lebih,1.85,Saverely Stunting
+P,3,50,18,8.1,70.2,Berat Badan Normal,-1.96,Sangat Pendek,-3.62,Gizi Baik,-0.14,Saverely Stunting
+P,3.8,48,18,7.9,71.9,Kurang,-2.25,Sangat Pendek,-3.16,Gizi Baik,-0.88,Saverely Stunting
+L,2.8,48,18,10.3,76,Berat Badan Normal,-0.56,Pendek,-2.35,Gizi Baik,0.71,Stunting
+P,3.5,0,18,7.9,74.7,Kurang,-2.2,Pendek,-2.12,Gizi Baik,-1.6,Stunting
+L,3.5,49,18,9.4,76.9,Berat Badan Normal,-1.49,Pendek,-2.24,Gizi Baik,-0.6,Stunting
+L,2.6,47,18,9,75.9,Berat Badan Normal,-1.96,Pendek,-2.66,Gizi Baik,-0.96,Stunting
+P,2.4,48,18,8.1,73.8,Kurang,-2.09,Pendek,-2.37,Gizi Baik,-1.26,Stunting
+L,2.1,44,18,8.2,75.5,Kurang,-2.65,Pendek,-2.63,Gizi Baik,-1.96,Stunting
+L,3.2,50,18,8.2,76,Kurang,-2.74,Pendek,-2.62,Gizi Kurang,-2.09,Stunting
+L,3.2,50,18,8.5,75,Kurang,-2.37,Pendek,-2.9,Gizi Baik,-1.37,Stunting
+L,3.2,50,18,7.9,76,Kurang,-2.93,Pendek,-2.35,Gizi Kurang,-2.57,Stunting
+L,01.06,30,18,7.6,72.5,Sangat Kurang,-3.33,Sangat Pendek,-3.54,Gizi Kurang,-2.29,Saverely Stunting
+P,2.2,48,18,7.3,67.9,Kurang,-2.9,Sangat Pendek,-4.22,Gizi Baik,-0.84,Saverely Stunting
+P,3.2,50,18,7.9,70,Kurang,-2.23,Sangat Pendek,-3.77,Gizi Baik,-0.36,Saverely Stunting
+L,2.9,47,18,9.5,76,Berat Badan Normal,-1.29,Pendek,-2.1,Gizi Baik,-0.42,Stunting
+L,3.3,50,18,8.9,72,Berat Badan Normal,-1.97,Sangat Pendek,-3.75,Gizi Baik,-0.17,Saverely Stunting
+L,2.8,49,18,8.2,74,Kurang,-2.71,Sangat Pendek,-3.05,Gizi Baik,-1.74,Saverely Stunting
+L,2.9,49,19,9.7,77.2,Berat Badan Normal,-1.25,Pendek,-2.21,Gizi Baik,-0.29,Stunting
+P,2.6,47,19,14,74,Risiko Lebih,2.19,Pendek,-2.57,Obesitas,4.68,Stunting
+P,,,19,8,74.5,Kurang,-2.28,Pendek,-2.27,Gizi Baik,-1.58,Stunting
+L,3.4,49,19,8,75,Kurang,-2.99,Pendek,-2.8,Gizi Kurang,-2.33,Stunting
+L,,,19,9.1,75.5,Berat Badan Normal,-1.83,Pendek,-2.58,Gizi Baik,-0.83,Stunting
+L,2.5,45,19,9.7,77,Berat Badan Normal,-1.38,Pendek,-2.53,Gizi Baik,-0.24,Stunting
+L,3,47.9,19,8.4,76.8,Kurang,-2.67,Pendek,-2.37,Gizi Kurang,-2.15,Stunting
+L,2.8,49,19,7.9,77,Sangat Kurang,-3.12,Pendek,-2.37,Gizi Kurang,-2.82,Stunting
+L,3,50,19,8,72,Sangat Kurang,-3.05,Sangat Pendek,-4.24,Gizi Baik,-1.27,Saverely Stunting
+L,2.5,47,19,6.5,70.5,Sangat Kurang,-4.55,Sangat Pendek,-4.63,Gizi Buruk,-3.44,Saverely Stunting
+L,3,49,19,8,74,Sangat Kurang,-3.03,Sangat Pendek,-3.49,Gizi Baik,-1.86,Saverely Stunting
+P,2.8,49,19,7.7,72.6,Kurang,-2.67,Sangat Pendek,-3.23,Gizi Baik,-1.37,Saverely Stunting
+L,2.3,49,19,11,74,Berat Badan Normal,-0.23,Sangat Pendek,-3.3,Risiko Gizi Lebih,1.79,Saverely Stunting
+L,3.2,50,19,8.4,72,Kurang,-2.55,Sangat Pendek,-3.88,Gizi Baik,-0.88,Saverely Stunting
+P,2.9,49,19,9.3,71,Berat Badan Normal,-1.1,Sangat Pendek,-3.63,Gizi Baik,0.97,Saverely Stunting
+P,3.1,50,19,8.3,74.3,Kurang,-2.05,Pendek,-2.49,Gizi Baik,-1.1,Stunting
+P,3.1,50,19,8.9,74.3,Berat Badan Normal,-1.45,Pendek,-2.49,Gizi Baik,-0.31,Stunting
+P,3,48,19,8.1,74,Kurang,-2.23,Pendek,-2.77,Gizi Baik,-1.14,Stunting
+L,3,50,19,8.7,77.1,Kurang,-2.36,Pendek,-2.51,Gizi Baik,-1.61,Stunting
+P,3,48,19,10.2,76,Berat Badan Normal,-0.31,Pendek,-2.15,Gizi Baik,0.97,Stunting
+L,3,50,19,8.8,76,Kurang,-2.22,Pendek,-2.83,Gizi Baik,-1.2,Stunting
+L,2.5,50,19,7.6,75,Sangat Kurang,-3.43,Sangat Pendek,-3.09,Gizi Kurang,-2.8,Saverely Stunting
+L,2.9,49,19,9.1,78,Berat Badan Normal,-1.87,Pendek,-2.02,Gizi Baik,-1.26,Stunting
+L,3,48,19,9.8,77,Berat Badan Normal,-1.23,Pendek,-2.16,Gizi Baik,-0.28,Stunting
+L,3.17,49,19,8.5,75.5,Kurang,-2.51,Pendek,-2.72,Gizi Baik,-1.68,Stunting
+L,3,49,19,9,76,Berat Badan Normal,-1.92,Pendek,-2.4,Gizi Baik,-1.09,Stunting
+P,4.3,53.8,19,8.2,72.2,Kurang,-2.15,Sangat Pendek,-3.42,Gizi Baik,-0.54,Saverely Stunting
+P,2.9,49,19,8,74.4,Kurang,-2.38,Pendek,-2.46,Gizi Baik,-1.55,Stunting
+L,2.5,49,19,11.7,76.2,Berat Badan Normal,0.31,Pendek,-2.78,Gizi Lebih,2.13,Stunting
+L,3.3,47,19,11.2,77.3,Berat Badan Normal,-0.1,Pendek,-2.43,Risiko Gizi Lebih,1.39,Stunting
+L,2.8,49,19,10.2,76.1,Berat Badan Normal,-0.94,Pendek,-2.86,Gizi Baik,0.57,Stunting
+P,3.2,50,19,8,75.5,Kurang,-2.36,Pendek,-2.31,Gizi Baik,-1.65,Stunting
+P,3.2,50,19,7.9,75,Kurang,-2.37,Pendek,-2.31,Gizi Baik,-1.68,Stunting
+P,3.2,50,19,10,76,Berat Badan Normal,-0.49,Pendek,-2.19,Gizi Baik,0.76,Stunting
+L,3,49,19,9.4,76,Berat Badan Normal,-1.59,Pendek,-2.76,Gizi Baik,-0.38,Stunting
+L,3,49,19,8.1,75,Kurang,-2.92,Sangat Pendek,-3.12,Gizi Baik,-1.98,Saverely Stunting
+L,4,50,19,10.7,76.5,Berat Badan Normal,-0.46,Pendek,-2.37,Gizi Baik,0.88,Stunting
+L,3,50,19,8.5,76,Kurang,-2.46,Pendek,-2.45,Gizi Baik,-1.81,Stunting
+L,3,50,19,10.2,76.9,Berat Badan Normal,-0.82,Pendek,-2.1,Gizi Baik,0.23,Stunting
+P,4,50,19,6,70.5,Sangat Kurang,-4.56,Sangat Pendek,-3.63,Gizi Buruk,-3.87,Saverely Stunting
+P,4,50,19,8,72,Kurang,-2.27,Sangat Pendek,-3.09,Gizi Baik,-0.95,Saverely Stunting
+L,4,50,19,7.6,71,Sangat Kurang,-3.43,Sangat Pendek,-4.27,Gizi Baik,-1.83,Saverely Stunting
+L,2.6,47,19,7.5,74.2,Sangat Kurang,-3.56,Sangat Pendek,-3.16,Gizi Kurang,-2.95,Saverely Stunting
+P,2.5,47,20,8.1,75.1,Kurang,-2.32,Pendek,-2.55,Gizi Baik,-1.41,Stunting
+L,3,49,20,10.5,78,Berat Badan Normal,-0.83,Pendek,-2.46,Gizi Baik,0.48,Stunting
+P,2.8,49,20,8.5,76.2,Berat Badan Normal,-1.89,Pendek,-2.16,Gizi Baik,-1.1,Stunting
+L,,,20,8.8,75.3,Kurang,-2.29,Pendek,-2.96,Gizi Baik,-1.2,Stunting
+L,,,20,9.5,76.2,Berat Badan Normal,-1.68,Pendek,-2.78,Gizi Baik,-0.47,Stunting
+L,3.2,50,20,9,76,Kurang,-2.11,Pendek,-2.76,Gizi Baik,-1.09,Stunting
+L,2.5,46,20,8.6,78.2,Kurang,-2.57,Pendek,-2.33,Gizi Kurang,-2.01,Stunting
+P,3.2,50,20,11.6,75,Berat Badan Normal,0.56,Pendek,-2.56,Gizi Lebih,2.38,Stunting
+P,3.5,50,20,9.8,74.5,Berat Badan Normal,-0.83,Pendek,-2.74,Gizi Baik,0.71,Stunting
+L,3,50,20,9.4,75.9,Berat Badan Normal,-1.71,Pendek,-2.77,Gizi Baik,-0.53,Stunting
+P,3.2,50,20,8.2,73,Kurang,-2.29,Sangat Pendek,-3.36,Gizi Baik,-0.75,Saverely Stunting
+L,3,50,20,8.5,76,Kurang,-2.64,Sangat Pendek,-3.04,Gizi Baik,-1.63,Saverely Stunting
+L,3,50,20,9.8,75,Berat Badan Normal,-1.46,Sangat Pendek,-3.53,Gizi Baik,0.37,Saverely Stunting
+P,3,49,20,7.2,72.8,Sangat Kurang,-3.32,Sangat Pendek,-3.29,Gizi Kurang,-2.21,Saverely Stunting
+L,,,20,9,75,Kurang,-2.14,Sangat Pendek,-3.15,Gizi Baik,-0.84,Saverely Stunting
+P,3,50,20,8.7,77,Berat Badan Normal,-1.82,Pendek,-2.13,Gizi Baik,-1.02,Stunting
+L,3,50,20,10.4,77,Berat Badan Normal,-0.85,Pendek,-2.7,Gizi Baik,0.59,Stunting
+L,3,50,20,8.5,75,Kurang,-2.6,Sangat Pendek,-3.07,Gizi Baik,-1.56,Saverely Stunting
+P,3.2,49,20,12,75.9,Berat Badan Normal,0.81,Pendek,-2.29,Gizi Lebih,2.55,Stunting
+L,3.1,49,20,8.4,78.5,Kurang,-2.81,Pendek,-2.04,Gizi Kurang,-2.54,Stunting
+P,2.5,49,20,8.1,76,Kurang,-2.34,Pendek,-2.28,Gizi Baik,-1.62,Stunting
+L,3,48,20,8.7,77.8,Kurang,-2.49,Pendek,-2.52,Gizi Baik,-1.77,Stunting
+L,2.7,45,20,8.8,75.8,Kurang,-2.28,Sangat Pendek,-3.01,Gizi Baik,-1.15,Saverely Stunting
+L,2.8,50,20,8.5,76,Kurang,-2.71,Sangat Pendek,-3.16,Gizi Baik,-1.63,Saverely Stunting
+P,2.8,50,20,9.1,72,Berat Badan Normal,-1.38,Sangat Pendek,-3.61,Gizi Baik,0.6,Saverely Stunting
+L,2.8,50,20,8.5,75.5,Kurang,-2.61,Sangat Pendek,-3.16,Gizi Baik,-1.5,Saverely Stunting
+L,3.2,47,20,9.4,77,Berat Badan Normal,-1.77,Pendek,-2.49,Gizi Baik,-0.79,Stunting
+P,2.8,48,20,9,75.9,Berat Badan Normal,-1.48,Pendek,-2.41,Gizi Baik,-0.39,Stunting
+P,3.4,49,20,7.8,75.1,Kurang,-2.67,Pendek,-2.58,Gizi Baik,-1.85,Stunting
+L,3,50,20,10,78,Berat Badan Normal,-1.15,Pendek,-2.25,Gizi Baik,-0.1,Stunting
+L,3,50,20,10,78,Berat Badan Normal,-1.26,Pendek,-2.2,Gizi Baik,-0.25,Stunting
+P,1.8,43,20,7.8,74,Kurang,-2.74,Sangat Pendek,-3.05,Gizi Baik,-1.58,Saverely Stunting
+P,4,50,20,8.9,75,Berat Badan Normal,-1.63,Pendek,-2.55,Gizi Baik,-0.47,Stunting
+P,3,49,20,7.8,75,Kurang,-2.7,Pendek,-2.43,Gizi Baik,-2,Stunting
+L,4,50,20,9.3,75.2,Berat Badan Normal,-1.9,Sangat Pendek,-3.17,Gizi Baik,-0.49,Saverely Stunting
+L,2,49,20,8.6,75.3,Kurang,-2.57,Sangat Pendek,-3.1,Gizi Baik,-1.48,Saverely Stunting
+P,2.9,49,20,7.8,72,Kurang,-2.69,Sangat Pendek,-3.41,Gizi Baik,-1.24,Saverely Stunting
+L,3,50,21,9,77,Kurang,-2.3,Pendek,-2.98,Gizi Baik,-1.16,Stunting
+P,3,50,21,7.8,75,Kurang,-2.92,Pendek,-3,Gizi Baik,-1.83,Stunting
+L,2.5,48,21,8.8,78,Kurang,-2.5,Pendek,-2.65,Gizi Baik,-1.68,Stunting
+L,3,48,21,9.2,78.2,Kurang,-2.02,Pendek,-2.42,Gizi Baik,-1.16,Stunting
+L,3,48,21,10,79,Berat Badan Normal,-1.39,Pendek,-2.11,Gizi Baik,-0.47,Stunting
+L,3,50,21,8.8,77,Kurang,-2.5,Pendek,-2.98,Gizi Baik,-1.44,Stunting
+L,2.8,48,21,8.8,78.5,Kurang,-2.53,Pendek,-2.53,Gizi Baik,-1.79,Stunting
+P,,,21,8.5,76.5,Kurang,-2.14,Pendek,-2.25,Gizi Baik,-1.33,Stunting
+L,3,50,21,9.5,77,Berat Badan Normal,-1.87,Sangat Pendek,-3.06,Gizi Baik,-0.5,Saverely Stunting
+L,2.9,49,21,8.1,74.5,Sangat Kurang,-3.25,Sangat Pendek,-3.89,Gizi Baik,-1.84,Saverely Stunting
+L,3,50,21,9.6,74.5,Berat Badan Normal,-1.68,Sangat Pendek,-3.77,Gizi Baik,0.25,Saverely Stunting
+L,,,21,8.9,75,Kurang,-2.44,Sangat Pendek,-3.5,Gizi Baik,-0.98,Saverely Stunting
+P,3.2,50,21,8.5,76,Kurang,-2.12,Pendek,-2.38,Gizi Baik,-1.22,Stunting
+L,2.9,50,21,12,77,Berat Badan Normal,0.32,Pendek,-2.62,Gizi Lebih,02.09,Stunting
+L,0,0,21,10.1,78.6,Berat Badan Normal,-1.25,Pendek,-2.14,Gizi Baik,-0.26,Stunting
+P,3,50,21,9,76,Berat Badan Normal,-1.68,Pendek,-2.69,Gizi Baik,-0.41,Stunting
+L,3,50,21,10.6,78.5,Berat Badan Normal,-0.86,Pendek,-2.24,Gizi Baik,0.34,Stunting
+L,3.4,49,21,8.8,79.3,Kurang,-2.53,Pendek,-2.02,Gizi Kurang,-2.13,Stunting
+L,3.2,49,21,9.7,76.7,Berat Badan Normal,-1.47,Pendek,-2.56,Gizi Baik,-0.33,Stunting
+L,3,0,21,10.5,77,Berat Badan Normal,-0.92,Pendek,-2.96,Gizi Baik,0.7,Stunting
+P,3,50,21,8.9,74,Berat Badan Normal,-1.75,Sangat Pendek,-3.31,Gizi Baik,-0.07,Saverely Stunting
+L,2.9,48,21,8.4,75,Kurang,-2.87,Sangat Pendek,-3.36,Gizi Baik,-1.7,Saverely Stunting
+L,2.5,45,21,8.5,76,Kurang,-2.79,Sangat Pendek,-3.29,Gizi Baik,-1.63,Saverely Stunting
+L,3.3,50,21,9.1,76,Kurang,-2.22,Sangat Pendek,-3.36,Gizi Baik,-0.78,Saverely Stunting
+L,3,50,21,8.9,76.2,Kurang,-2.32,Sangat Pendek,-3.12,Gizi Baik,-1.11,Saverely Stunting
+P,3.1,50,21,9.6,77,Berat Badan Normal,-1.05,Pendek,-2.02,Gizi Baik,-0.05,Stunting
+L,2.7,48,21,9.5,76.8,Berat Badan Normal,-1.76,Pendek,-2.95,Gizi Baik,-0.45,Stunting
+L,3,49,21,9,79,Kurang,-2.35,Pendek,-2.15,Gizi Baik,-1.78,Stunting
+L,3.2,50,21,11.8,78,Berat Badan Normal,0.15,Pendek,-2.55,Risiko Gizi Lebih,1.84,Stunting
+L,3,50,21,10.9,79,Berat Badan Normal,-0.57,Pendek,-2.23,Gizi Baik,0.71,Stunting
+L,3,50,21,10.3,79,Berat Badan Normal,-1.12,Pendek,-2.33,Gizi Baik,0.04,Stunting
+L,3.5,47,21,9,71,Kurang,-2.33,Sangat Pendek,-4.85,Gizi Baik,0.27,Saverely Stunting
+L,2.9,48,21,9.1,75.5,Kurang,-2.13,Sangat Pendek,-3.14,Gizi Baik,-0.83,Saverely Stunting
+L,3,50,21,7.8,77,Sangat Kurang,-3.53,Sangat Pendek,-3.01,Gizi Kurang,-2.99,Saverely Stunting
+L,2.6,48,21,10,77,Berat Badan Normal,-1.36,Pendek,-2.72,Gizi Baik,-0.03,Stunting
+P,3,48,21,9.3,75.4,Berat Badan Normal,-1.33,Pendek,-2.77,Gizi Baik,0.09,Stunting
+P,2.9,48,21,8.2,77,Kurang,-2.49,Pendek,-2.15,Gizi Baik,-1.87,Stunting
+L,3,50,21,10.6,79.6,Berat Badan Normal,-0.82,Pendek,-2.04,Gizi Baik,0.26,Stunting
+P,3,50,21,8.7,77,Berat Badan Normal,-1.92,Pendek,-2.29,Gizi Baik,-1.02,Stunting
+L,4,50,21,9.5,75,Berat Badan Normal,-1.84,Sangat Pendek,-3.46,Gizi Baik,-0.18,Saverely Stunting
+P,3.5,49,21,8.8,73.5,Berat Badan Normal,-1.89,Sangat Pendek,-3.31,Gizi Baik,-0.25,Saverely Stunting
+P,1.8,42,21,7.1,72,Sangat Kurang,-3.61,Sangat Pendek,-3.86,Gizi Kurang,-2.15,Saverely Stunting
+L,3.1,49,24,10,81,Berat Badan Normal,-1.78,Pendek,-2.35,Gizi Baik,-0.75,Stunting
+L,3,50,24,9.5,80,Kurang,-2.21,Pendek,-2.42,Gizi Baik,-1.32,Stunting
+P,3,50,24,10.2,80,Berat Badan Normal,-1.1,Pendek,-2.19,Gizi Baik,0.12,Stunting
+P,3,50,24,8.5,77,Kurang,-2.55,Pendek,-2.94,Gizi Baik,-1.29,Stunting
+L,2.4,46,24,10,78.5,Berat Badan Normal,-1.75,Pendek,-2.9,Gizi Baik,-0.36,Stunting
+L,3,50,24,9.3,79,Kurang,-2.4,Pendek,-2.76,Gizi Baik,-1.36,Stunting
+P,2.9,50,24,10.9,79,Berat Badan Normal,-0.48,Pendek,-2.17,Gizi Baik,0.92,Stunting
+L,3,49,24,9,78.5,Kurang,-2.67,Pendek,-2.89,Gizi Baik,-1.66,Stunting
+L,,,24,9,78.5,Kurang,-2.64,Pendek,-2.84,Gizi Baik,-1.66,Stunting
+L,,,24,10.4,81,Berat Badan Normal,-1.44,Pendek,-2.14,Gizi Baik,-0.43,Stunting
+L,3,49,24,9.4,78,Kurang,-2.32,Sangat Pendek,-3.1,Gizi Baik,-1.01,Saverely Stunting
+L,2.9,49,24,9.6,78.2,Kurang,-2.12,Sangat Pendek,-3.01,Gizi Baik,-0.79,Saverely Stunting
+P,0,0,24,10,76,Berat Badan Normal,-1.28,Sangat Pendek,-3.22,Gizi Baik,0.61,Saverely Stunting
+P,2.8,49,24,9.8,76,Berat Badan Normal,-1.39,Sangat Pendek,-3.13,Gizi Baik,0.39,Saverely Stunting
+P,3,49,24,8.9,76.7,Kurang,-2.24,Pendek,-2.95,Gizi Baik,-0.84,Stunting
+L,3,48,24,9.5,80,Kurang,-2.22,Pendek,-2.44,Gizi Baik,-1.32,Stunting
+L,2.7,47,24,9.2,80,Kurang,-2.5,Pendek,-2.43,Gizi Baik,-1.72,Stunting
+P,2.5,48,24,9.5,79.2,Berat Badan Normal,-1.58,Pendek,-2.25,Gizi Baik,-0.5,Stunting
+P,2,48,24,9,79,Kurang,-2.12,Pendek,-2.21,Gizi Baik,-1.24,Stunting
+L,3.2,50,24,7.7,74.2,Sangat Kurang,-3.97,Sangat Pendek,-4.6,Gizi Kurang,-2.41,Saverely Stunting
+L,3.2,50,24,8.2,74.3,Sangat Kurang,-3.48,Sangat Pendek,-4.31,Gizi Baik,-1.83,Saverely Stunting
+L,3.5,50,24,9.5,81.7,Kurang,-2.21,Pendek,-2.1,Gizi Baik,-1.55,Stunting
+L,2.7,45,24,9.9,79,Berat Badan Normal,-1.86,Pendek,-2.76,Gizi Baik,-0.59,Stunting
+L,3.4,49,24,9.6,81,Kurang,-2.19,Pendek,-2.23,Gizi Baik,-1.42,Stunting
+P,3,50,24,9.1,78.5,Berat Badan Normal,-2,Pendek,-2.33,Gizi Baik,-0.99,Stunting
+P,3.9,50,24,8.4,79.9,Kurang,-2.76,Pendek,-2.21,Gizi Kurang,-2.1,Stunting
+P,3,49,24,8.7,77.9,Kurang,-2.47,Pendek,-2.63,Gizi Baik,-1.38,Stunting
+P,3,50,24,9,79,Kurang,-2.06,Pendek,-2.33,Gizi Baik,-1.07,Stunting
+L,2.8,50,24,10.5,82,Berat Badan Normal,-1.39,Pendek,-2.1,Gizi Baik,-0.38,Stunting
+L,3.1,50,24,10.1,79.5,Berat Badan Normal,-1.76,Pendek,-2.89,Gizi Baik,-0.36,Stunting
+P,2.8,47,24,8.1,76,Sangat Kurang,-3.06,Sangat Pendek,-3.15,Gizi Baik,-1.78,Saverely Stunting
+L,3,50,24,8.7,77,Kurang,-2.97,Sangat Pendek,-3.61,Gizi Baik,-1.59,Saverely Stunting
+L,,,24,8.9,79,Kurang,-2.76,Pendek,-2.71,Gizi Baik,-1.92,Stunting
+P,2.8,49,24,8.6,79,Kurang,-2.53,Pendek,-2.22,Gizi Baik,-1.77,Stunting
+P,3.5,48,24,8.5,76,Kurang,-2.59,Sangat Pendek,-3.09,Gizi Baik,-1.22,Saverely Stunting
+L,2.95,48,24,10.4,80,Berat Badan Normal,-1.46,Pendek,-2.48,Gizi Baik,-0.21,Stunting
+L,3.6,50,24,9.5,80.1,Kurang,-2.2,Pendek,-2.38,Gizi Baik,-1.34,Stunting
+P,2.9,49,24,9.4,78.3,Berat Badan Normal,-1.77,Pendek,-2.68,Gizi Baik,-0.42,Stunting
+L,2.1,48,24,9.1,74.4,Kurang,-2.63,Sangat Pendek,-4.3,Gizi Baik,-0.55,Saverely Stunting
+L,3,49,24,9.2,78.7,Kurang,-2.47,Pendek,-2.81,Gizi Baik,-1.43,Stunting
+L,2.5,46,24,9.6,81,Kurang,-2.09,Pendek,-2.05,Gizi Baik,-1.42,Stunting
+P,3.1,49,24,9.1,77.8,Berat Badan Normal,-1.95,Pendek,-2.47,Gizi Baik,-0.83,Stunting
+P,2.6,42,24,9.1,78,Berat Badan Normal,-1.95,Pendek,-2.63,Gizi Baik,-0.72,Stunting
+L,3.6,49,24,9.3,79.5,Kurang,-2.46,Pendek,-2.92,Gizi Baik,-1.32,Stunting
+P,3,47,24,9.5,78,Berat Badan Normal,-1.62,Pendek,-2.68,Gizi Baik,-0.24,Stunting
+P,3.2,50,24,8.5,77,Kurang,-2.59,Pendek,-3,Gizi Baik,-1.29,Stunting
+L,3,49,24,10.2,79,Berat Badan Normal,-1.58,Pendek,-2.96,Gizi Baik,-0.08,Stunting
+P,3,48,24,9.5,77.2,Berat Badan Normal,-1.7,Sangat Pendek,-3.04,Gizi Baik,-0.06,Saverely Stunting
+P,3,49,24,8.4,75.7,Kurang,-2.67,Sangat Pendek,-3.36,Gizi Baik,-1.13,Saverely Stunting
+L,2.4,48,24,8.4,78,Sangat Kurang,-3.24,Sangat Pendek,-3.24,Gizi Kurang,-2.27,Saverely Stunting
+P,3.2,50,24,7.6,75,Sangat Kurang,-3.55,Sangat Pendek,-3.65,Gizi Kurang,-2.13,Saverely Stunting
+P,3,50,24,8.2,76,Kurang,-2.95,Sangat Pendek,-3.15,Gizi Baik,-1.64,Saverely Stunting
+L,4,50,24,10.2,80,Berat Badan Normal,-1.6,Pendek,-2.44,Gizi Baik,-0.44,Stunting
+L,4,50,24,12,79,Berat Badan Normal,-0.12,Pendek,-2.68,Risiko Gizi Lebih,1.69,Stunting
+P,3.2,48,24,9.7,79.5,Berat Badan Normal,-1.44,Pendek,-2.01,Gizi Baik,-0.49,Stunting
+P,3.5,49,24,9.8,78.5,Berat Badan Normal,-1.43,Pendek,-2.43,Gizi Baik,-0.15,Stunting
+P,2.5,46,24,9.5,78,Berat Badan Normal,-1.66,Pendek,-2.52,Gizi Baik,-0.39,Stunting
+P,2.8,48,24,10.5,78,Berat Badan Normal,-0.83,Pendek,-2.55,Gizi Baik,0.72,Stunting
+L,3,50,24,9.5,80.5,Kurang,-2.2,Pendek,-2.47,Gizi Baik,-1.28,Stunting
+P,3.3,60,24,10.5,76.5,Berat Badan Normal,-0.83,Sangat Pendek,-3.01,Risiko Gizi Lebih,01.03,Saverely Stunting
+P,4,50,24,8.6,74.8,Kurang,-2.58,Sangat Pendek,-3.58,Gizi Baik,-0.81,Saverely Stunting
+L,4,50,24,10,78,Berat Badan Normal,-1.76,Sangat Pendek,-3.07,Gizi Baik,-0.25,Saverely Stunting
+L,4,50,24,9.8,75,Berat Badan Normal,-1.94,Sangat Pendek,-4.05,Gizi Baik,0.19,Saverely Stunting
+P,0,0,24,7.2,72,Sangat Kurang,-3.89,Sangat Pendek,-4.25,Gizi Kurang,-2.18,Saverely Stunting
+L,3.8,50,25,10.7,87.8,Kurang,-2.4,Pendek,-2.16,Gizi Baik,-1.83,Stunting
+L,2.4,49,25,11,82,Berat Badan Normal,-1.12,Pendek,-2.1,Gizi Baik,0.03,Stunting
+L,3,50,25,11,86,Kurang,-2.06,Pendek,-2.47,Gizi Baik,-1,Stunting
+P,3.8,50,25,9.8,84,Kurang,-2.78,Pendek,-2.82,Gizi Baik,-1.48,Stunting
+L,2.8,49,25,11.1,87,Kurang,-2.06,Pendek,-2.32,Gizi Baik,-1.15,Stunting
+P,3.1,49,25,11.7,86,Berat Badan Normal,-1.14,Pendek,-2.07,Gizi Baik,0.05,Stunting
+P,2.2,46,25,8.5,78,Kurang,-2.78,Pendek,-2.75,Gizi Baik,-1.67,Stunting
+L,2.9,48,25,10.6,86,Kurang,-2.45,Pendek,-2.6,Gizi Baik,-1.47,Stunting
+P,2.7,46,25,13.8,84.5,Berat Badan Normal,0,Pendek,-2.73,Gizi Lebih,2.19,Stunting
+L,2.9,46,25,10.7,84.9,Kurang,-2.35,Pendek,-2.88,Gizi Baik,-1.05,Stunting
+L,2.7,50,25,11.1,86.7,Berat Badan Normal,-1.99,Pendek,-2.29,Gizi Baik,-1.07,Stunting
+P,2.8,47,25,11.4,83.5,Berat Badan Normal,-1.38,Pendek,-2.79,Gizi Baik,0.37,Stunting
+P,3.2,51,25,11,83.4,Berat Badan Normal,-1.66,Pendek,-2.78,Gizi Baik,0,Stunting
+P,3,49,25,10.5,80,Berat Badan Normal,-1,Pendek,-2.2,Gizi Baik,0.29,Stunting
+P,3,49.5,25,11.2,85.9,Berat Badan Normal,-1.53,Pendek,-2.14,Gizi Baik,-0.42,Stunting
+P,3,49,25,10.5,84.8,Kurang,-2.18,Pendek,-2.61,Gizi Baik,-0.88,Stunting
+L,2.9,41,25,10.6,80.7,Berat Badan Normal,-1.42,Pendek,-2.47,Gizi Baik,-0.13,Stunting
+P,2.8,49,25,9,79,Kurang,-2.32,Pendek,-2.51,Gizi Baik,-1.24,Stunting
+L,2.9,49,25,11.7,87,Berat Badan Normal,-1.56,Pendek,-2.23,Gizi Baik,-0.48,Stunting
+L,,,25,14,86,Berat Badan Normal,-0.07,Pendek,-2.52,Risiko Gizi Lebih,1.93,Stunting
+P,3,49,25,11,85,Berat Badan Normal,-1.78,Pendek,-2.54,Gizi Baik,-0.4,Stunting
+L,0,0,25,11,87.5,Kurang,-2.07,Pendek,-2.09,Gizi Baik,-1.4,Stunting
+L,3.3,49,25,10.2,86.2,Kurang,-2.68,Pendek,-2.39,Gizi Kurang,-2.03,Stunting
+P,3.2,49,25,10.6,84.4,Kurang,-2.01,Pendek,-2.58,Gizi Baik,-0.67,Stunting
+P,2.6,45,25,8.5,78,Kurang,-2.71,Pendek,-2.65,Gizi Baik,-1.67,Stunting
+P,2.4,48,25,8.5,79,Kurang,-2.75,Pendek,-2.4,Gizi Baik,-1.91,Stunting
+L,,,25,11.5,82,Berat Badan Normal,-0.72,Pendek,-2.08,Gizi Baik,0.56,Stunting
+P,2.8,48,25,8.4,78,Kurang,-2.82,Pendek,-2.66,Gizi Baik,-1.81,Stunting
+L,3.2,49,25,10.4,85.2,Kurang,-2.67,Pendek,-2.91,Gizi Baik,-1.5,Stunting
+P,2.75,,25,9.6,83,Kurang,-2.82,Pendek,-2.89,Gizi Baik,-1.47,Stunting
+P,2.6,47,25,11,84,Berat Badan Normal,-1.65,Pendek,-2.61,Gizi Baik,-0.15,Stunting
+L,2.4,46,25,10.7,86.3,Kurang,-2.29,Pendek,-2.39,Gizi Baik,-1.43,Stunting
+P,,,25,9.7,85,Kurang,-2.72,Pendek,-2.35,Gizi Baik,-1.87,Stunting
+P,,,25,10,83.5,Kurang,-2.45,Pendek,-2.74,Gizi Baik,-1.12,Stunting
+L,,,25,12,87,Berat Badan Normal,-1.29,Pendek,-2.15,Gizi Baik,-0.17,Stunting
+P,0,0,25,10.5,84.6,Kurang,-2.18,Pendek,-2.6,Gizi Baik,-0.89,Stunting
+L,,,25,11.8,85.1,Berat Badan Normal,-1.52,Pendek,-2.8,Gizi Baik,0.11,Stunting
+L,3,50,25,11.2,85.6,Berat Badan Normal,-1.95,Pendek,-2.66,Gizi Baik,-0.67,Stunting
+P,3,48,25,9.7,81.2,Kurang,-2.82,Sangat Pendek,-3.5,Gizi Baik,-0.89,Saverely Stunting
+P,3,49,25,8.7,78,Kurang,-2.61,Sangat Pendek,-3.01,Gizi Baik,-1.24,Saverely Stunting
+L,3,49,25,10.9,84,Kurang,-2.22,Sangat Pendek,-3.15,Gizi Baik,-0.58,Saverely Stunting
+P,3.8,50,25,10.5,81,Kurang,-2.16,Sangat Pendek,-3.58,Gizi Baik,0.06,Saverely Stunting
+L,3.5,50,25,11.4,83,Berat Badan Normal,-1.76,Sangat Pendek,-3.31,Gizi Baik,0.22,Saverely Stunting
+P,3.1,50,25,11.6,82.3,Berat Badan Normal,-1.26,Sangat Pendek,-3.14,Gizi Baik,0.85,Saverely Stunting
+L,0,0,25,12,84,Berat Badan Normal,-1.35,Sangat Pendek,-3.06,Gizi Baik,0.59,Saverely Stunting
+L,2.5,45,25,9,76.5,Kurang,-2.88,Sangat Pendek,-3.87,Gizi Baik,-1.21,Saverely Stunting
+L,2.6,47,25,11.5,84,Berat Badan Normal,-1.72,Sangat Pendek,-3.08,Gizi Baik,0.08,Saverely Stunting
+P,,,25,10.5,82.1,Kurang,-2.09,Sangat Pendek,-3.18,Gizi Baik,-0.23,Saverely Stunting
+P,2.8,49,25,8.5,76,Kurang,-2.72,Sangat Pendek,-3.27,Gizi Baik,-1.22,Saverely Stunting
+L,3,49,25,12.7,85.6,Berat Badan Normal,-0.94,Pendek,-2.73,Gizi Baik,0.87,Stunting
+L,4,49,25,11,86.9,Kurang,-2.14,Pendek,-2.37,Gizi Baik,-1.24,Stunting
+L,3,49,25,11.1,86.1,Kurang,-2.03,Pendek,-2.53,Gizi Baik,-0.91,Stunting
+L,3,48,25,10,79.1,Berat Badan Normal,-1.9,Pendek,-2.95,Gizi Baik,-0.49,Stunting
+L,3,50,25,10,85,Kurang,-2.88,Pendek,-2.78,Gizi Baik,-1.95,Stunting
+P,2.9,49,25,9,80,Kurang,-2.26,Pendek,-2.12,Gizi Baik,-1.47,Stunting
+P,2.8,48,25,9,80,Kurang,-2.26,Pendek,-2.12,Gizi Baik,-1.47,Stunting
+L,3,50,25,10.8,85.6,Kurang,-2.34,Pendek,-2.78,Gizi Baik,-1.13,Stunting
+P,3,50,25,8.7,80,Kurang,-2.48,Pendek,-2.01,Gizi Baik,-1.87,Stunting
+L,3.2,50,25,10,87,Kurang,-2.85,Pendek,-2.18,Gizi Kurang,-2.51,Stunting
+L,3,50,25,10,87,Kurang,-2.88,Pendek,-2.23,Gizi Kurang,-2.51,Stunting
+L,3.2,50,25,11.1,87,Kurang,-2.11,Pendek,-2.42,Gizi Baik,-1.15,Stunting
+P,3,50,25,10.4,86,Kurang,-2.28,Pendek,-2.31,Gizi Baik,-1.3,Stunting
+L,3,50,25,12,80,Berat Badan Normal,-0.37,Pendek,-2.75,Risiko Gizi Lebih,1.49,Stunting
+P,3.2,54,25,12.4,86,Berat Badan Normal,-0.66,Pendek,-2.06,Gizi Baik,0.7,Stunting
+L,3,50,25,12,85,Berat Badan Normal,-1.3,Pendek,-2.72,Gizi Baik,0.34,Stunting
+P,3,50,25,11.7,85.3,Berat Badan Normal,-1.15,Pendek,-2.28,Gizi Baik,0.22,Stunting
+P,3,50,25,10.5,86.5,Kurang,-2.13,Pendek,-2.08,Gizi Baik,-1.31,Stunting
+L,3,50,25,10.4,85.8,Kurang,-2.56,Pendek,-2.58,Gizi Baik,-1.66,Stunting
+P,1,27,25,9.7,86.9,Kurang,-2.87,Pendek,-2.06,Gizi Kurang,-2.36,Stunting
+P,2,48,25,9.5,78,Berat Badan Normal,-1.87,Pendek,-2.83,Gizi Baik,-0.39,Stunting
+L,3,49,25,12.6,83,Berat Badan Normal,-0.9,Sangat Pendek,-3.28,Risiko Gizi Lebih,1.41,Saverely Stunting
+L,2.5,49,25,8.9,79,Kurang,-2.97,Sangat Pendek,-3.05,Gizi Baik,-1.92,Saverely Stunting
+P,3,50,25,10,80,Kurang,-2.61,Sangat Pendek,-4.08,Gizi Baik,-0.1,Saverely Stunting
+L,3,50,25,10.5,78.8,Berat Badan Normal,-1.51,Sangat Pendek,-3.09,Gizi Baik,0.17,Saverely Stunting
+L,3,50,25,12.4,84,Berat Badan Normal,-1.17,Sangat Pendek,-3.2,Gizi Baik,0.98,Saverely Stunting
+L,3,48,25,8.5,78.9,Sangat Kurang,-3.31,Sangat Pendek,-3.25,Gizi Kurang,-2.32,Saverely Stunting
+P,2.6,46,25,8.9,79.6,Kurang,-2.29,Pendek,-2.35,Gizi Baik,-1.34,Stunting
+L,3.1,49,25,13.4,86.2,Berat Badan Normal,-0.44,Pendek,-2.48,Risiko Gizi Lebih,1.37,Stunting
+L,2.7,48,25,10.6,85,Kurang,-2.38,Pendek,-2.76,Gizi Baik,-1.2,Stunting
+P,3.1,47,25,10.2,80,Berat Badan Normal,-1.12,Pendek,-2.23,Gizi Baik,0.12,Stunting
+L,3.5,48,25,12.5,85.5,Berat Badan Normal,-1.12,Pendek,-2.82,Gizi Baik,0.71,Stunting
+P,3,48,25,8.2,79,Sangat Kurang,-3.07,Pendek,-2.4,Gizi Kurang,-2.34,Stunting
+P,3.7,50,25,8.9,79.3,Kurang,-2.37,Pendek,-2.35,Gizi Baik,-1.44,Stunting
+L,3,49,25,9.6,79.8,Kurang,-2.22,Pendek,-2.67,Gizi Baik,-1.14,Stunting
+L,3,50,25,9.1,81.3,Kurang,-2.68,Pendek,-2.17,Gizi Kurang,-2.17,Stunting
+L,2.7,50,25,11.7,88.4,Berat Badan Normal,-1.69,Pendek,-2.06,Gizi Baik,-0.84,Stunting
+L,2.8,50,25,10.7,85.6,Kurang,-2.42,Pendek,-2.93,Gizi Baik,-1.11,Stunting
+L,2.3,50,25,12.2,87.5,Berat Badan Normal,-1.21,Pendek,-2.11,Gizi Baik,-0.09,Stunting
+P,2.8,50,25,9.1,79.8,Kurang,-2.27,Pendek,-2.48,Gizi Baik,-1.19,Stunting
+P,3,50,25,10,85.5,Kurang,-2.57,Pendek,-2.56,Gizi Baik,-1.45,Stunting
+P,3.8,45,25,7.3,74,Sangat Kurang,-3.98,Sangat Pendek,-4.15,Gizi Kurang,-2.36,Saverely Stunting
+L,3,50,25,12.3,84,Berat Badan Normal,-1.12,Sangat Pendek,-3.03,Gizi Baik,0.89,Saverely Stunting
+P,4,50,25,10.5,82,Kurang,-2.09,Sangat Pendek,-3.4,Gizi Baik,-0.01,Saverely Stunting
+L,3,50,25,7.3,70.5,Sangat Kurang,-4.45,Sangat Pendek,-5.87,Gizi Kurang,-2.04,Saverely Stunting
+P,3.2,49,25,11.4,86,Berat Badan Normal,-1.46,Pendek,-2.24,Gizi Baik,-0.24,Stunting
+L,2.2,47,25,10.6,87,Kurang,-2.42,Pendek,-2.29,Gizi Baik,-1.74,Stunting
+L,3,49,25,11,86,Kurang,-2.11,Pendek,-2.57,Gizi Baik,-1,Stunting
+L,3,48,25,11.2,86.3,Berat Badan Normal,-1.98,Pendek,-2.52,Gizi Baik,-0.85,Stunting
+L,3.6,48,25,10.5,80,Berat Badan Normal,-1.45,Pendek,-2.62,Gizi Baik,-0.09,Stunting
+L,2.5,47,25,12,87,Berat Badan Normal,-1.37,Pendek,-2.27,Gizi Baik,-0.17,Stunting
+P,3,49,25,10,79,Berat Badan Normal,-1.34,Pendek,-2.4,Gizi Baik,-0.03,Stunting
+L,2.65,48,25,10.4,86.4,Kurang,-2.56,Pendek,-2.4,Gizi Baik,-1.83,Stunting
+L,3.4,50,25,11.3,85,Berat Badan Normal,-1.89,Pendek,-2.84,Gizi Baik,-0.4,Stunting
+P,3,49,25,11,84.2,Berat Badan Normal,-1.66,Pendek,-2.57,Gizi Baik,-0.2,Stunting
+L,2.9,50,25,11.8,85.7,Berat Badan Normal,-1.52,Pendek,-2.65,Gizi Baik,-0.04,Stunting
+L,3,49,25,9.9,81,Berat Badan Normal,-2,Pendek,-2.36,Gizi Baik,-1.03,Stunting
+L,3,50,25,9.6,85.8,Sangat Kurang,-3.31,Pendek,-2.73,Gizi Kurang,-2.71,Stunting
+L,2.7,49,25,10.9,86.1,Kurang,-2.2,Pendek,-2.56,Gizi Baik,-1.14,Stunting
+P,2.4,47,25,7.9,79.2,Sangat Kurang,-3.33,Pendek,-2.28,Gizi Kurang,-2.84,Stunting
+L,3.2,48,25,10,84.4,Kurang,-2.9,Pendek,-2.97,Gizi Baik,-1.78,Stunting
+P,2.7,48,25,9.5,85.9,Kurang,-2.91,Pendek,-2.12,Gizi Kurang,-2.35,Stunting
+L,2.9,49,25,10.6,85,Kurang,-2.38,Pendek,-2.76,Gizi Baik,-1.2,Stunting
+P,3.5,47,25,10.8,84.6,Berat Badan Normal,-1.88,Pendek,-2.56,Gizi Baik,-0.51,Stunting
+L,3,48,25,10,81,Berat Badan Normal,-1.89,Pendek,-2.54,Gizi Baik,-0.75,Stunting
+L,2.9,48,25,9.6,80,Kurang,-2.28,Pendek,-2.7,Gizi Baik,-1.19,Stunting
+P,2.6,43,25,11.3,83,Berat Badan Normal,-1.51,Pendek,-3,Gizi Baik,0.4,Stunting
+L,1.8,44,25,10.5,86,Kurang,-2.5,Pendek,-2.56,Gizi Baik,-1.59,Stunting
+P,3,50,25,8,80,Sangat Kurang,-3.3,Pendek,-2.37,Gizi Kurang,-2.71,Stunting
+L,3.2,50,25,11,86,Kurang,-2.11,Pendek,-2.57,Gizi Baik,-1,Stunting
+L,3,49,25,11,85,Kurang,-2.1,Pendek,-2.82,Gizi Baik,-0.73,Stunting
+P,3,49,25,8.2,77,Sangat Kurang,-3.02,Pendek,-2.95,Gizi Baik,-1.87,Stunting
+L,3,49,25,10.4,86,Kurang,-2.67,Pendek,-2.7,Gizi Baik,-1.72,Stunting
+P,3,49,25,8.6,78,Kurang,-2.73,Pendek,-2.83,Gizi Baik,-1.54,Stunting
+P,3,50,25,10,84,Kurang,-2.57,Pendek,-2.77,Gizi Baik,-1.25,Stunting
+L,3.2,50,25,10,84,Kurang,-2.83,Pendek,-2.98,Gizi Baik,-1.67,Stunting
+L,3,48,25,9.4,77,Sangat Kurang,-3.44,Sangat Pendek,-5.08,Gizi Baik,-0.79,Saverely Stunting
+P,3,50,25,9,82,Sangat Kurang,-3.39,Sangat Pendek,-3.23,Gizi Baik,-1.98,Saverely Stunting
+L,3,49,25,10,84.4,Kurang,-2.94,Sangat Pendek,-3.03,Gizi Baik,-1.78,Saverely Stunting
+P,4,50,25,11,85,Berat Badan Normal,-1.84,Pendek,-2.62,Gizi Baik,-0.4,Stunting
+P,4,50,25,8.8,77,Kurang,-2.4,Pendek,-2.95,Gizi Baik,-1.04,Stunting
+L,4,50,25,12.9,86,Berat Badan Normal,-0.73,Pendek,-2.49,Gizi Baik,0.96,Stunting
+P,4,50,25,9,84,Sangat Kurang,-3.44,Pendek,-2.78,Gizi Kurang,-2.5,Stunting
+P,4,50,25,11.6,85,Berat Badan Normal,-1.22,Pendek,-2.36,Gizi Baik,0.2,Stunting
+P,4,50,25,11.9,86,Berat Badan Normal,-1.13,Pendek,-2.26,Gizi Baik,0.24,Stunting
+L,3.5,50,25,10,85,Kurang,-2.97,Pendek,-2.93,Gizi Baik,-1.95,Stunting
+P,3,48,25,11,80,Berat Badan Normal,-0.58,Pendek,-2.36,Gizi Baik,0.95,Stunting
+L,4,50,25,12.4,85.5,Berat Badan Normal,-1.12,Pendek,-2.72,Gizi Baik,0.61,Stunting
+L,3,48,25,11.3,87,Berat Badan Normal,-1.96,Pendek,-2.41,Gizi Baik,-0.92,Stunting
+P,3.1,50,25,11.6,86.5,Berat Badan Normal,-1.26,Pendek,-2.02,Gizi Baik,-0.16,Stunting
+P,3,50,25,9.6,80,Berat Badan Normal,-1.68,Pendek,-2.09,Gizi Baik,-0.72,Stunting
+L,3.5,52,25,8.8,85,Sangat Kurang,-3.94,Pendek,-2.94,Gizi Buruk,-3.59,Stunting
+L,1.6,38,25,10.6,84,Kurang,-2.34,Pendek,-2.98,Gizi Baik,-0.93,Stunting
+L,1.3,38,25,10.4,84.2,Kurang,-2.5,Pendek,-2.92,Gizi Baik,-1.22,Stunting
+L,3.6,50,25,11.7,87.5,Berat Badan Normal,-1.55,Pendek,-2.08,Gizi Baik,-0.61,Stunting
+L,2.8,50,25,11,81,Berat Badan Normal,-1.06,Pendek,-2.32,Gizi Baik,0.25,Stunting
+P,,,25,8.8,77.7,Kurang,-2.39,Pendek,-2.72,Gizi Baik,-1.2,Stunting
+L,3.2,48,25,11.6,87,Berat Badan Normal,-1.68,Pendek,-2.31,Gizi Baik,-0.59,Stunting
+P,2.5,45,25,9.2,84,Sangat Kurang,-3.3,Pendek,-2.82,Gizi Kurang,-2.24,Stunting
+L,3,50,25,12.1,85,Berat Badan Normal,-1.3,Pendek,-2.83,Gizi Baik,0.44,Stunting
+P,3.3,51,25,10.2,85,Kurang,-2.42,Pendek,-2.54,Gizi Baik,-1.27,Stunting
+L,2.8,49,25,9.8,80.5,Kurang,-2.1,Pendek,-2.53,Gizi Baik,-1.05,Stunting
+L,3.4,50,25,11,84,Kurang,-2.06,Sangat Pendek,-3.03,Gizi Baik,-0.47,Saverely Stunting
+L,,,25,10,78.4,Berat Badan Normal,-1.84,Sangat Pendek,-3.07,Gizi Baik,-0.34,Saverely Stunting
+P,3.5,50,25,10.8,83,Berat Badan Normal,-1.89,Sangat Pendek,-3.01,Gizi Baik,-0.11,Saverely Stunting
+P,2.4,44,25,8.9,79,Sangat Kurang,-3.46,Sangat Pendek,-4,Gizi Baik,-1.37,Saverely Stunting
+L,3,50,25,12.2,81,Berat Badan Normal,-1.29,Sangat Pendek,-4,Risiko Gizi Lebih,1.47,Saverely Stunting
+P,2.5,48,26,8.4,78,Sangat Kurang,-3.04,Pendek,-2.98,Gizi Baik,-1.81,Stunting
+L,3,50,26,9,82.3,Kurang,-2.93,Pendek,-2.12,Gizi Kurang,-2.57,Stunting
+L,3.3,48,26,10.6,82,Berat Badan Normal,-1.59,Pendek,-2.35,Gizi Baik,-0.43,Stunting
+L,3.4,50,26,10.5,81.9,Berat Badan Normal,-1.57,Pendek,-2.21,Gizi Baik,-0.52,Stunting
+P,2.6,47,26,10.7,80.3,Berat Badan Normal,-0.87,Pendek,-2.16,Gizi Baik,0.43,Stunting
+P,3.1,47,26,9.3,79.6,Kurang,-2.07,Pendek,-2.58,Gizi Baik,-0.83,Stunting
+P,3,49,26,8.6,75,Kurang,-2.81,Sangat Pendek,-3.83,Gizi Baik,-0.86,Saverely Stunting
+L,3,48,26,10,79,Kurang,-2.08,Sangat Pendek,-3.25,Gizi Baik,-0.47,Saverely Stunting
+P,3,49,26,9,77,Kurang,-2.48,Sangat Pendek,-3.53,Gizi Baik,-0.63,Saverely Stunting
+L,2.6,47,26,9.6,78.5,Kurang,-2.42,Sangat Pendek,-3.4,Gizi Baik,-0.86,Saverely Stunting
+P,3,48,26,9,77,Kurang,-2.43,Sangat Pendek,-3.27,Gizi Baik,-0.78,Saverely Stunting
+L,2.9,49.8,26,9.9,82.9,Kurang,-2.14,Pendek,-2.22,Gizi Baik,-1.32,Stunting
+L,2,45,26,9,82,Kurang,-2.94,Pendek,-2.44,Gizi Kurang,-2.31,Stunting
+P,2.9,52,26,10,81,Berat Badan Normal,-1.56,Pendek,-2.13,Gizi Baik,-0.5,Stunting
+L,3.2,49,26,11.7,77,Berat Badan Normal,-0.66,Sangat Pendek,-3.8,Risiko Gizi Lebih,1.81,Saverely Stunting
+P,3,50,26,8,75,Sangat Kurang,-3.38,Sangat Pendek,-3.79,Gizi Baik,-1.7,Saverely Stunting
+L,2.7,48,26,9,77.5,Kurang,-2.91,Sangat Pendek,-3.6,Gizi Baik,-1.44,Saverely Stunting
+P,3,50,26,9.2,78,Kurang,-2.19,Pendek,-2.9,Gizi Baik,-0.75,Stunting
+L,2.3,40,26,9,77,Kurang,-2.91,Sangat Pendek,-3.97,Gizi Baik,-1.16,Saverely Stunting
+L,2,40,26,9.5,77,Kurang,-2.44,Sangat Pendek,-3.97,Gizi Baik,-0.5,Saverely Stunting
+P,2.1,45,26,9.2,80,Kurang,-2.19,Pendek,-2.3,Gizi Baik,-1.22,Stunting
+L,3.1,48,26,9.5,82,Kurang,-2.44,Pendek,-2.18,Gizi Baik,-1.8,Stunting
+P,3.2,49,26,10.3,81,Berat Badan Normal,-1.3,Pendek,-2.12,Gizi Baik,-0.16,Stunting
+P,0,0,26,9,79,Kurang,-2.48,Pendek,-2.74,Gizi Baik,-1.24,Stunting
+L,2.7,48,26,9.8,79.6,Kurang,-2.17,Pendek,-2.93,Gizi Baik,-0.84,Stunting
+L,3,51,26,9.5,80.7,Kurang,-2.51,Pendek,-2.71,Gizi Baik,-1.48,Stunting
+P,2.8,47,26,9.5,79,Berat Badan Normal,-1.93,Pendek,-2.62,Gizi Baik,-0.61,Stunting
+P,2.5,45,26,9.1,80.5,Kurang,-2.3,Pendek,-2.18,Gizi Baik,-1.47,Stunting
+P,2.8,48,26,10,78,Berat Badan Normal,-1.48,Pendek,-2.9,Gizi Baik,0.19,Stunting
+P,3,50,26,9.3,79.7,Kurang,-2.12,Pendek,-2.43,Gizi Baik,-1.02,Stunting
+P,3.2,50,26,9.1,79,Kurang,-2.26,Pendek,-2.57,Gizi Baik,-1.11,Stunting
+L,3,49,26,10,82,Kurang,-2.08,Pendek,-2.32,Gizi Baik,-1.15,Stunting
+L,3,48,26,10,80,Kurang,-2.08,Pendek,-2.95,Gizi Baik,-0.68,Stunting
+P,2.3,46,26,8.7,77,Kurang,-2.75,Sangat Pendek,-3.29,Gizi Baik,-1.17,Saverely Stunting
+P,3,50,26,8.8,76.5,Kurang,-2.6,Sangat Pendek,-3.37,Gizi Baik,-0.93,Saverely Stunting
+L,2.7,48,26,8,74.3,Sangat Kurang,-3.9,Sangat Pendek,-4.7,Gizi Kurang,-2.14,Saverely Stunting
+P,3.1,50,26,8.6,77,Kurang,-2.82,Sangat Pendek,-3.25,Gizi Baik,-1.31,Saverely Stunting
+P,4,50,26,9,78.9,Kurang,-2.48,Pendek,-2.76,Gizi Baik,-1.21,Stunting
+L,4,50,26,11.1,80.7,Berat Badan Normal,-1.07,Pendek,-2.56,Gizi Baik,0.43,Stunting
+P,4,50,26,10.3,79,Berat Badan Normal,-1.29,Pendek,-2.7,Gizi Baik,0.3,Stunting
+L,4,50,26,9.7,81,Kurang,-2.25,Pendek,-2.48,Gizi Baik,-1.29,Stunting
+P,4,50,26,11.4,79.5,Berat Badan Normal,-0.38,Pendek,-2.45,Risiko Gizi Lebih,1.29,Stunting
+P,3,50,26,9.1,79.1,Kurang,-2.26,Pendek,-2.54,Gizi Baik,-1.13,Stunting
+L,3,50,26,9.7,80,Kurang,-2.25,Pendek,-2.79,Gizi Baik,-1.06,Stunting
+P,4,50,26,8.9,77,Kurang,-2.55,Sangat Pendek,-3.29,Gizi Baik,-0.91,Saverely Stunting
+L,3,48,26,11.1,77,Berat Badan Normal,-1.08,Sangat Pendek,-3.75,Risiko Gizi Lebih,1.2,Saverely Stunting
+L,3.1,51,26,10.7,78.8,Berat Badan Normal,-1.45,Sangat Pendek,-3.26,Gizi Baik,0.39,Saverely Stunting
+L,3,50,27,9.6,82,Kurang,-2.47,Pendek,-2.39,Gizi Baik,-1.66,Stunting
+L,3,48,27,11,80,Berat Badan Normal,-1.28,Pendek,-2.99,Gizi Baik,0.47,Stunting
+P,2.7,48,27,9.4,80,Kurang,-2.21,Pendek,-2.6,Gizi Baik,-0.97,Stunting
+P,2.8,48,27,8.5,80,Sangat Kurang,-3.1,Pendek,-2.62,Gizi Kurang,-2.15,Stunting
+P,2.9,49,27,11.2,79,Berat Badan Normal,-0.64,Pendek,-2.77,Risiko Gizi Lebih,1.21,Stunting
+L,3.7,48,27,13,82,Berat Badan Normal,0.06,Pendek,-2.53,Risiko Gizi Lebih,1.99,Stunting
+P,3,50,27,10,78.4,Berat Badan Normal,-1.63,Pendek,-3,Gizi Baik,0.1,Stunting
+P,,,27,9.8,80,Berat Badan Normal,-1.79,Pendek,-2.52,Gizi Baik,-0.49,Stunting
+L,3.1,50,27,10.2,83,Berat Badan Normal,-1.97,Pendek,-2.13,Gizi Baik,-1.15,Stunting
+L,,,27,11.5,82,Berat Badan Normal,-0.99,Pendek,-2.52,Gizi Baik,0.56,Stunting
+L,3.2,50,27,9,78,Sangat Kurang,-3.06,Sangat Pendek,-3.89,Gizi Baik,-1.39,Saverely Stunting
+P,2.4,46,27,9.8,76,Berat Badan Normal,-1.77,Sangat Pendek,-3.66,Gizi Baik,0.39,Saverely Stunting
+L,4,50,27,8.9,79.6,Sangat Kurang,-3.13,Sangat Pendek,-3.15,Gizi Kurang,-2.05,Saverely Stunting
+L,2.9,48,27,8.4,80,Sangat Kurang,-3.6,Sangat Pendek,-3.06,Gizi Kurang,-2.89,Saverely Stunting
+L,3.3,50,27,12.3,82,Berat Badan Normal,-0.38,Pendek,-2.48,Risiko Gizi Lebih,1.35,Stunting
+P,2.9,50,27,12,81,Berat Badan Normal,-0.12,Pendek,-2.23,Risiko Gizi Lebih,1.51,Stunting
+L,3,50,27,9.8,83,Kurang,-2.27,Pendek,-2.05,Gizi Baik,-1.66,Stunting
+L,3.6,50,27,9.4,79.5,Kurang,-2.69,Sangat Pendek,-3.23,Gizi Baik,-1.34,Saverely Stunting
+L,3,45,27,9.5,78,Kurang,-2.59,Sangat Pendek,-3.68,Gizi Baik,-0.88,Saverely Stunting
+L,3.2,50,27,9.2,75.5,Kurang,-2.83,Sangat Pendek,-4.38,Gizi Baik,-0.7,Saverely Stunting
+L,2,50,27,8.9,80,Sangat Kurang,-3.21,Sangat Pendek,-3.16,Gizi Kurang,-2.15,Saverely Stunting
+P,3.2,49,27,8.8,80.3,Kurang,-2.75,Pendek,-2.46,Gizi Baik,-1.81,Stunting
+L,3.2,51,27,10,82.5,Kurang,-2.18,Pendek,-2.35,Gizi Baik,-1.27,Stunting
+P,3,50,27,9.3,82.6,Kurang,-2.37,Pendek,-2.08,Gizi Baik,-1.62,Stunting
+L,3,50,27,10.9,83.5,Berat Badan Normal,-1.37,Pendek,-2.15,Gizi Baik,-0.28,Stunting
+L,3,50,27,10.8,81,Berat Badan Normal,-1.53,Pendek,-2.83,Gizi Baik,0.03,Stunting
+L,2.3,45,27,9,80,Sangat Kurang,-3.09,Sangat Pendek,-3.11,Gizi Baik,-2,Saverely Stunting
+P,3,50,27,8.9,77.5,Kurang,-2.61,Sangat Pendek,-3.23,Gizi Baik,-1.02,Saverely Stunting
+P,3,50,27,9,77.5,Kurang,-2.54,Sangat Pendek,-3.47,Gizi Baik,-0.74,Saverely Stunting
+L,4,51,27,11,83.5,Berat Badan Normal,-1.35,Pendek,-2.02,Gizi Baik,-0.34,Stunting
+L,2.8,48,27,10.9,82,Berat Badan Normal,-1.35,Pendek,-2.36,Gizi Baik,-0.09,Stunting
+P,3,49,27,10.5,79,Berat Badan Normal,-1.25,Pendek,-2.88,Gizi Baik,0.51,Stunting
+P,3,49,27,9.2,80.5,Kurang,-2.32,Pendek,-2.34,Gizi Baik,-1.34,Stunting
+L,2.5,46,27,10.3,80.5,Berat Badan Normal,-1.85,Pendek,-2.84,Gizi Baik,-0.43,Stunting
+L,3,49,27,11,81.2,Berat Badan Normal,-1.3,Pendek,-2.65,Gizi Baik,0.21,Stunting
+P,2.6,47,27,9,79,Kurang,-2.53,Pendek,-2.81,Gizi Baik,-1.24,Stunting
+L,2.6,47,27,9.2,80.5,Kurang,-2.9,Pendek,-2.95,Gizi Baik,-1.84,Stunting
+L,2.8,49,27,10,82.2,Kurang,-2.1,Pendek,-2.3,Gizi Baik,-1.2,Stunting
+P,2,49,27,10.9,81.5,Berat Badan Normal,-0.9,Pendek,-2.08,Gizi Baik,0.35,Stunting
+L,3.2,50,27,10.5,82,Berat Badan Normal,-1.73,Pendek,-2.46,Gizi Baik,-0.54,Stunting
+L,3.2,50,27,10.3,81,Berat Badan Normal,-1.89,Pendek,-2.75,Gizi Baik,-0.55,Stunting
+L,3,49,27,10,83,Kurang,-2.18,Pendek,-2.19,Gizi Baik,-1.4,Stunting
+P,3,50,27,8.9,81.5,Kurang,-2.7,Pendek,-2.19,Gizi Baik,-1.98,Stunting
+L,3,50,27,10,82,Kurang,-2.11,Pendek,-2.38,Gizi Baik,-1.15,Stunting
+P,3.2,50,27,10,81,Berat Badan Normal,-1.68,Pendek,-2.51,Gizi Baik,-0.33,Stunting
+L,3.2,50,27,8,76,Sangat Kurang,-3.99,Sangat Pendek,-4.34,Gizi Kurang,-2.58,Saverely Stunting
+L,3,48,27,9.7,80,Kurang,-2.41,Sangat Pendek,-3.06,Gizi Baik,-1.06,Saverely Stunting
+L,4,50,27,10.4,82.5,Berat Badan Normal,-1.87,Pendek,-2.39,Gizi Baik,-0.78,Stunting
+L,4,50,27,9.7,81,Kurang,-2.45,Pendek,-2.81,Gizi Baik,-1.29,Stunting
+P,2.8,49,27,9.6,80,Berat Badan Normal,-1.99,Pendek,-2.55,Gizi Baik,-0.72,Stunting
+L,2,46,27,9.2,81,Kurang,-2.9,Pendek,-2.8,Gizi Baik,-1.96,Stunting
+L,3,50,27,9.7,77,Kurang,-2.41,Sangat Pendek,-3.97,Gizi Baik,-0.4,Saverely Stunting
+L,3,52,27,9,79,Sangat Kurang,-3.05,Sangat Pendek,-3.34,Gizi Baik,-1.78,Saverely Stunting
+L,3.1,50,28,11.3,83,Berat Badan Normal,-1.19,Pendek,-2.31,Gizi Baik,0.11,Stunting
+L,2.9,49,28,10.3,83,Berat Badan Normal,-1.98,Pendek,-2.29,Gizi Baik,-1.03,Stunting
+L,3.3,51,28,10.4,83,Berat Badan Normal,-1.91,Pendek,-2.31,Gizi Baik,-0.91,Stunting
+P,3,47,28,11.2,82,Berat Badan Normal,-0.86,Pendek,-2.22,Gizi Baik,0.54,Stunting
+P,2.8,47.5,28,9.5,81,Kurang,-2.17,Pendek,-2.39,Gizi Baik,-1.09,Stunting
+L,3.1,48,28,8.7,77.7,Sangat Kurang,-3.43,Sangat Pendek,-3.93,Gizi Baik,-1.91,Saverely Stunting
+P,2.7,48,28,10.1,79,Berat Badan Normal,-1.7,Sangat Pendek,-3.04,Gizi Baik,0.08,Saverely Stunting
+L,,,28,10.3,80,Berat Badan Normal,-1.97,Sangat Pendek,-3.18,Gizi Baik,-0.32,Saverely Stunting
+P,2.7,49,28,12,76.9,Berat Badan Normal,-0.3,Sangat Pendek,-3.7,Gizi Lebih,2.36,Saverely Stunting
+P,2.9,48,28,9.3,78.7,Kurang,-2.41,Sangat Pendek,-3.13,Gizi Baik,-0.79,Saverely Stunting
+L,3,48,28,10.3,83,Kurang,-2.05,Pendek,-2.62,Gizi Baik,-0.85,Stunting
+P,3.1,48,28,9,82,Kurang,-2.73,Pendek,-2.42,Gizi Baik,-1.8,Stunting
+L,3,50,28,10.4,81,Berat Badan Normal,-1.96,Pendek,-2.99,Gizi Baik,-0.43,Stunting
+L,3,48,28,9.5,82,Kurang,-2.7,Pendek,-2.63,Gizi Baik,-1.8,Stunting
+L,3.2,50,28,10.3,84,Kurang,-2.06,Pendek,-2.12,Gizi Baik,-1.29,Stunting
+L,3,48,28,12,82,Berat Badan Normal,-0.73,Pendek,-2.7,Risiko Gizi Lebih,01.06,Stunting
+L,3,50,28,10,80,Kurang,-2.32,Sangat Pendek,-3.33,Gizi Baik,-0.68,Saverely Stunting
+P,3.2,50,28,12.1,82,Berat Badan Normal,-0.21,Pendek,-2.19,Risiko Gizi Lebih,1.38,Stunting
+L,3,49,28,10.7,84,Berat Badan Normal,-1.7,Pendek,-2.08,Gizi Baik,-0.81,Stunting
+P,3,50,28,9.2,81,Kurang,-2.46,Pendek,-2.4,Gizi Baik,-1.46,Stunting
+P,2.9,48,28,10,82,Berat Badan Normal,-1.77,Pendek,-2.15,Gizi Baik,-0.74,Stunting
+P,2.2,46,28,8.4,81,Sangat Kurang,-3.26,Pendek,-2.43,Gizi Kurang,-2.55,Stunting
+L,0,0,28,9.5,80,Kurang,-2.75,Sangat Pendek,-3.31,Gizi Baik,-1.32,Saverely Stunting
+L,2.6,49,28,10.2,82.4,Kurang,-2.14,Pendek,-2.53,Gizi Baik,-1.06,Stunting
+P,3.1,49,28,10.7,82.5,Berat Badan Normal,-1.63,Pendek,-2.41,Gizi Baik,-0.43,Stunting
+L,2.7,52,28,10.1,84,Kurang,-2.18,Pendek,-2.03,Gizi Baik,-1.54,Stunting
+P,3.3,50,28,10.4,80,Berat Badan Normal,-1.46,Pendek,-2.76,Gizi Baik,0.18,Stunting
+L,3,50,28,11,82,Berat Badan Normal,-1.44,Pendek,-2.64,Gizi Baik,0.03,Stunting
+L,3,49,28,10,84,Kurang,-2.22,Pendek,-2.18,Gizi Baik,-1.48,Stunting
+P,4,50,28,9.5,80,Kurang,-2.21,Pendek,-2.74,Gizi Baik,-0.84,Stunting
+L,2.9,47,28,9.2,82,Kurang,-3,Pendek,-2.67,Gizi Kurang,-2.21,Stunting
+L,3.2,48,28,10,83,Kurang,-2.28,Pendek,-2.36,Gizi Baik,-1.4,Stunting
+L,3.6,50,28,11.2,82,Berat Badan Normal,-1.31,Pendek,-2.68,Gizi Baik,0.24,Stunting
+L,3,50,28,9.8,82,Kurang,-2.42,Pendek,-2.62,Gizi Baik,-1.4,Stunting
+L,3,50,28,11.2,84,Berat Badan Normal,-1.32,Pendek,-2.09,Gizi Baik,-0.25,Stunting
+P,3.2,50,29,8.8,83,Sangat Kurang,-3.02,Pendek,-2.27,Gizi Kurang,-2.32,Stunting
+L,3,50,29,12,83,Berat Badan Normal,-0.8,Pendek,-2.5,Gizi Baik,0.83,Stunting
+P,3.1,50,29,11,83,Berat Badan Normal,-1.08,Pendek,-2.04,Gizi Baik,0.1,Stunting
+P,3,50,29,10,82.6,Berat Badan Normal,-1.87,Pendek,-2.13,Gizi Baik,-0.89,Stunting
+L,3,49,29,10.7,83.5,Berat Badan Normal,-1.85,Pendek,-2.48,Gizi Baik,-0.68,Stunting
+L,2.8,48,29,9,83,Sangat Kurang,-3.3,Pendek,-2.59,Gizi Kurang,-2.76,Stunting
+L,3.1,47,29,9.8,81.7,Kurang,-2.51,Pendek,-2.84,Gizi Baik,-1.33,Stunting
+L,3,48,29,9.7,82.8,Kurang,-2.64,Pendek,-2.58,Gizi Baik,-1.74,Stunting
+L,3,49,29,11.5,84,Berat Badan Normal,-1.13,Pendek,-2.15,Gizi Baik,0.08,Stunting
+L,3,49,29,10.3,84.3,Kurang,-2.1,Pendek,-2.11,Gizi Baik,-1.37,Stunting
+L,2.9,49,29,10,84.6,Kurang,-2.38,Pendek,-2.06,Gizi Baik,-1.84,Stunting
+P,2.8,49,29,10.3,82,Berat Badan Normal,-1.61,Pendek,-2.29,Gizi Baik,-0.4,Stunting
+P,2.7,48,29,8.5,82.1,Sangat Kurang,-3.27,Pendek,-2.29,Gizi Kurang,-2.69,Stunting
+P,2.7,47,29,10,79,Berat Badan Normal,-1.97,Sangat Pendek,-3.3,Gizi Baik,-0.03,Saverely Stunting
+L,3,49,29,8.8,79,Sangat Kurang,-3.45,Sangat Pendek,-3.73,Gizi Kurang,-2.06,Saverely Stunting
+L,2.5,48,29,9.5,80,Kurang,-2.8,Sangat Pendek,-3.59,Gizi Baik,-1.16,Saverely Stunting
+L,3,49,29,9.1,78,Sangat Kurang,-3.22,Sangat Pendek,-4.07,Gizi Baik,-1.41,Saverely Stunting
+P,2.8,48,29,9.2,82,Kurang,-2.58,Pendek,-2.49,Gizi Baik,-1.54,Stunting
+P,3,50,29,12.7,83,Berat Badan Normal,0.1,Pendek,-2.01,Risiko Gizi Lebih,1.66,Stunting
+P,2.8,47,29,9.7,80.2,Kurang,-2.21,Pendek,-2.93,Gizi Baik,-0.65,Stunting
+P,3.5,50,29,9.5,80,Kurang,-2.35,Pendek,-2.93,Gizi Baik,-0.84,Stunting
+P,3,50,29,11.9,83.5,Berat Badan Normal,-0.51,Pendek,-2.21,Risiko Gizi Lebih,01.01,Stunting
+L,3,50,29,10.3,83.7,Kurang,-2.19,Pendek,-2.58,Gizi Baik,-1.09,Stunting
+L,2.9,48,29,11.7,81,Berat Badan Normal,-1.05,Sangat Pendek,-3.14,Gizi Baik,0.98,Saverely Stunting
+L,3.2,49,29,10.3,79,Kurang,-2.17,Sangat Pendek,-3.78,Gizi Baik,-0.11,Saverely Stunting
+L,3,50,29,9.8,80,Kurang,-2.59,Sangat Pendek,-3.48,Gizi Baik,-0.93,Saverely Stunting
+L,3,50,29,10.7,78,Berat Badan Normal,-1.82,Sangat Pendek,-4.19,Gizi Baik,0.65,Saverely Stunting
+P,3.4,50,29,9.9,80,Berat Badan Normal,-1.94,Pendek,-2.86,Gizi Baik,-0.37,Stunting
+P,0,0,29,6.3,74,Sangat Kurang,-5.33,Sangat Pendek,-4.6,Gizi Buruk,-4.2,Saverely Stunting
+P,3,55,29,9.2,80.5,Kurang,-2.58,Pendek,-2.72,Gizi Baik,-1.34,Stunting
+P,3,48,29,11,83,Berat Badan Normal,-1.12,Pendek,-2.1,Gizi Baik,0.1,Stunting
+L,2.9,48,29,10,81.5,Kurang,-2.38,Pendek,-2.97,Gizi Baik,-1.03,Stunting
+L,3.2,50,29,9.5,82,Kurang,-2.84,Pendek,-2.86,Gizi Baik,-1.8,Stunting
+L,3,48,29,10.5,84,Berat Badan Normal,-1.99,Pendek,-2.29,Gizi Baik,-1.05,Stunting
+P,3,50,29,10.2,81,Berat Badan Normal,-1.69,Pendek,-2.58,Gizi Baik,-0.27,Stunting
+L,3.2,50,29,10,83,Kurang,-2.38,Pendek,-2.54,Gizi Baik,-1.4,Stunting
+P,3.2,50,29,10.5,82,Berat Badan Normal,-1.55,Pendek,-2.44,Gizi Baik,-0.18,Stunting
+P,2.3,46,29,7.5,78.5,Sangat Kurang,-4.28,Sangat Pendek,-3.44,Gizi Buruk,-3.29,Saverely Stunting
+P,2.6,47,29,10.4,78.5,Berat Badan Normal,-1.55,Sangat Pendek,-3.32,Gizi Baik,0.51,Saverely Stunting
+L,4,50,29,10,83.2,Kurang,-2.36,Pendek,-2.43,Gizi Baik,-1.45,Stunting
+L,3.3,50,29,12,83,Berat Badan Normal,-0.78,Pendek,-2.48,Gizi Baik,0.83,Stunting
+P,4,50,29,8.1,80,Sangat Kurang,-3.64,Pendek,-2.88,Gizi Kurang,-2.74,Stunting
+P,3,48,29,9,81.7,Kurang,-2.89,Pendek,-2.54,Gizi Baik,-1.9,Stunting
+L,2.9,48,29,9.2,83,Sangat Kurang,-3.13,Pendek,-2.59,Gizi Kurang,-2.47,Stunting
+P,3,49,29,9.2,81,Kurang,-2.64,Pendek,-2.66,Gizi Baik,-1.46,Stunting
+L,3.1,49,29,10.5,82.3,Berat Badan Normal,-1.93,Pendek,-2.68,Gizi Baik,-0.62,Stunting
+L,4,50,29,11,79,Berat Badan Normal,-1.55,Sangat Pendek,-3.7,Gizi Baik,0.68,Saverely Stunting
+L,3,50,29,10.9,81,Berat Badan Normal,-1.63,Sangat Pendek,-3.12,Gizi Baik,0.14,Saverely Stunting
+P,2.6,47,29,9,76.4,Kurang,-2.88,Sangat Pendek,-4.03,Gizi Baik,-0.65,Saverely Stunting
+L,2.8,50,29,12,81,Berat Badan Normal,-0.83,Sangat Pendek,-3.15,Risiko Gizi Lebih,1.28,Saverely Stunting
+L,2.7,49,30,10.5,84,Kurang,-2.02,Pendek,-2.34,Gizi Baik,-1.05,Stunting
+L,3,50,30,10.6,85,Berat Badan Normal,-1.95,Pendek,-2.06,Gizi Baik,-1.2,Stunting
+P,2.8,48,30,11.3,82,Berat Badan Normal,-1.04,Pendek,-2.6,Gizi Baik,0.63,Stunting
+P,3,50,30,9.4,81.1,Kurang,-2.6,Pendek,-2.84,Gizi Baik,-1.23,Stunting
+L,3,49,30,9.5,83,Kurang,-2.94,Pendek,-2.74,Gizi Kurang,-2.06,Stunting
+P,2.9,48,30,8.5,82,Sangat Kurang,-3.37,Pendek,-2.47,Gizi Kurang,-2.67,Stunting
+L,3,49,30,11.6,82,Berat Badan Normal,-1.17,Pendek,-2.92,Gizi Baik,0.66,Stunting
+P,2.8,48,30,8.8,81.1,Sangat Kurang,-3.12,Pendek,-2.78,Gizi Kurang,-2.01,Stunting
+L,2.8,48,30,9.5,84,Kurang,-2.93,Pendek,-2.42,Gizi Kurang,-2.33,Stunting
+L,3.6,51,30,11.1,83.7,Berat Badan Normal,-1.59,Pendek,-2.5,Gizi Baik,-0.28,Stunting
+L,,,30,9.8,83,Kurang,-2.66,Pendek,-2.71,Gizi Baik,-1.66,Stunting
+L,2.5,46,30,10,85,Kurang,-2.52,Pendek,-2.18,Gizi Baik,-1.95,Stunting
+P,3,51,30,10.8,81.3,Berat Badan Normal,-1.39,Pendek,-2.75,Gizi Baik,0.3,Stunting
+P,,,30,9.5,83,Kurang,-2.56,Pendek,-2.34,Gizi Baik,-1.64,Stunting
+L,3.4,50,30,10.7,83.5,Berat Badan Normal,-1.94,Pendek,-2.61,Gizi Baik,-0.68,Stunting
+L,2.9,48,30,13.2,80,Berat Badan Normal,-0.09,Sangat Pendek,-3.74,Gizi Lebih,2.7,Saverely Stunting
+L,3,50,30,9.2,79.6,Sangat Kurang,-3.17,Sangat Pendek,-3.87,Gizi Baik,-1.48,Saverely Stunting
+L,3,49,30,7.7,75.5,Sangat Kurang,-4.49,Sangat Pendek,-5.11,Gizi Kurang,-2.77,Saverely Stunting
+P,3.4,52,30,8.8,79.3,Sangat Kurang,-3.18,Sangat Pendek,-3.37,Gizi Baik,-1.57,Saverely Stunting
+L,2.5,45,30,10.8,82,Berat Badan Normal,-1.85,Sangat Pendek,-3.04,Gizi Baik,-0.2,Saverely Stunting
+L,3.4,50,30,9.2,81.6,Sangat Kurang,-3.22,Sangat Pendek,-3.1,Gizi Kurang,-2.18,Saverely Stunting
+L,,,30,10.3,80.4,Kurang,-2.2,Sangat Pendek,-3.62,Gizi Baik,-0.26,Saverely Stunting
+P,3.2,47,30,8.9,79.4,Kurang,-2.99,Sangat Pendek,-3.2,Gizi Baik,-1.46,Saverely Stunting
+L,3,48,30,8.9,81.2,Sangat Kurang,-3.48,Sangat Pendek,-3.28,Gizi Kurang,-2.43,Saverely Stunting
+P,2.9,47,30,8.7,83,Sangat Kurang,-3.24,Pendek,-2.28,Gizi Kurang,-2.65,Stunting
+P,3.2,50,30,9.9,81,Kurang,-2.15,Pendek,-2.87,Gizi Baik,-0.61,Stunting
+P,2.9,49,30,10.8,82,Berat Badan Normal,-1.42,Pendek,-2.61,Gizi Baik,0.13,Stunting
+P,0,0,30,10.2,83,Berat Badan Normal,-1.91,Pendek,-2.33,Gizi Baik,-0.76,Stunting
+L,3,50,30,9.3,79,Sangat Kurang,-3.08,Sangat Pendek,-4.04,Gizi Baik,-1.21,Saverely Stunting
+L,2.4,50,30,10,80.3,Kurang,-2.51,Sangat Pendek,-3.53,Gizi Baik,-0.75,Saverely Stunting
+L,3.2,48,30,11.2,85,Berat Badan Normal,-1.53,Pendek,-2.14,Gizi Baik,-0.51,Stunting
+P,3.8,49,30,10.4,83.5,Berat Badan Normal,-1.69,Pendek,-2.1,Gizi Baik,-0.66,Stunting
+P,2.9,50,30,9,81.2,Kurang,-2.95,Pendek,-2.77,Gizi Baik,-1.77,Stunting
+P,2.9,50,30,9.5,80.4,Kurang,-2.47,Pendek,-2.99,Gizi Baik,-0.94,Stunting
+P,3,50,30,10.6,83.4,Berat Badan Normal,-1.57,Pendek,-2.34,Gizi Baik,-0.3,Stunting
+L,3,50,30,10.6,81.7,Kurang,-2.02,Sangat Pendek,-3.13,Gizi Baik,-0.36,Saverely Stunting
+L,3,50,30,8.7,79,Sangat Kurang,-3.59,Sangat Pendek,-3.82,Gizi Kurang,-2.21,Saverely Stunting
+L,3,50,30,9.3,82.2,Sangat Kurang,-3.07,Sangat Pendek,-3.08,Gizi Baik,-1.94,Saverely Stunting
+P,0,0,30,10.6,81,Berat Badan Normal,-1.53,Pendek,-2.82,Gizi Baik,0.16,Stunting
+L,3.2,48,30,11.3,84,Berat Badan Normal,-1.39,Pendek,-2.33,Gizi Baik,-0.14,Stunting
+L,3,48,30,10.3,82.4,Kurang,-2.29,Pendek,-2.9,Gizi Baik,-0.94,Stunting
+L,3,49,30,9.7,82,Kurang,-2.71,Pendek,-2.93,Gizi Baik,-1.53,Stunting
+L,3,50,30,12.4,84.4,Berat Badan Normal,-0.7,Pendek,-2.39,Gizi Baik,0.88,Stunting
+L,2.9,49,30,10.1,84,Kurang,-2.36,Pendek,-2.35,Gizi Baik,-1.54,Stunting
+L,3.2,50,30,10.9,83,Berat Badan Normal,-1.78,Pendek,-2.75,Gizi Baik,-0.33,Stunting
+L,2.1,45,30,10.2,82,Kurang,-2.27,Pendek,-2.92,Gizi Baik,-0.9,Stunting
+P,2.8,48,30,9,77.2,Kurang,-2.92,Sangat Pendek,-3.86,Gizi Baik,-0.83,Saverely Stunting
+L,3.3,49,30,10.4,80,Kurang,-2.2,Sangat Pendek,-3.65,Gizi Baik,-0.21,Saverely Stunting
+P,3.2,50,30,10.2,80,Berat Badan Normal,-1.86,Sangat Pendek,-3.1,Gizi Baik,-0.04,Saverely Stunting
+L,2.9,49,30,9.6,80,Kurang,-2.84,Sangat Pendek,-3.59,Gizi Baik,-1.19,Saverely Stunting
+L,4,50,30,10,82,Kurang,-2.47,Pendek,-2.98,Gizi Baik,-1.15,Stunting
+P,4,50,30,9.4,83,Kurang,-2.62,Pendek,-2.34,Gizi Baik,-1.72,Stunting
+L,3.2,48,30,11.5,84,Berat Badan Normal,-1.32,Pendek,-2.47,Gizi Baik,0.08,Stunting
+P,2.7,44,30,10.1,83.4,Berat Badan Normal,-1.96,Pendek,-2.17,Gizi Baik,-0.98,Stunting
+L,3,48,30,10.9,84.2,Berat Badan Normal,-1.78,Pendek,-2.4,Gizi Baik,-0.64,Stunting
+L,4,50,30,10.2,79,Kurang,-2.3,Sangat Pendek,-3.85,Gizi Baik,-0.23,Saverely Stunting
+P,3,50,30,9.2,80,Kurang,-2.72,Sangat Pendek,-3.05,Gizi Baik,-1.22,Saverely Stunting
+L,2.8,48,31,10.9,83.5,Berat Badan Normal,-1.82,Pendek,-2.68,Gizi Baik,-0.45,Stunting
+L,3,48,31,10,84,Kurang,-2.6,Pendek,-2.59,Gizi Baik,-1.67,Stunting
+L,3,49,31,10.4,84,Kurang,-2.3,Pendek,-2.65,Gizi Baik,-1.17,Stunting
+L,3.5,50,31,11.6,85.6,Berat Badan Normal,-1.34,Pendek,-2.15,Gizi Baik,-0.23,Stunting
+P,3,,31,11,84.5,Berat Badan Normal,-1.4,Pendek,-2.11,Gizi Baik,-0.27,Stunting
+L,2.8,50,31,12.4,83.4,Berat Badan Normal,-0.79,Pendek,-2.81,Risiko Gizi Lebih,1.13,Stunting
+L,,,31,10.2,83.2,Kurang,-2.42,Pendek,-2.81,Gizi Baik,-1.2,Stunting
+P,2.2,,31,10.2,84,Berat Badan Normal,-1.97,Pendek,-2.14,Gizi Baik,-1.01,Stunting
+L,3.5,50,31,9,82,Sangat Kurang,-3.47,Sangat Pendek,-3.19,Gizi Kurang,-2.49,Saverely Stunting
+L,3.2,49,31,11.3,82,Berat Badan Normal,-1.5,Sangat Pendek,-3.09,Gizi Baik,0.35,Saverely Stunting
+L,3,49,31,9.2,80.2,Sangat Kurang,-3.28,Sangat Pendek,-3.86,Gizi Baik,-1.62,Saverely Stunting
+L,3.3,50,31,10.8,83.7,Berat Badan Normal,-1.93,Pendek,-2.88,Gizi Baik,-0.44,Stunting
+P,3.2,50,31,12,82,Berat Badan Normal,-0.6,Pendek,-2.67,Risiko Gizi Lebih,1.29,Stunting
+P,3,50,31,12,84,Berat Badan Normal,-0.6,Pendek,-2.11,Gizi Baik,0.82,Stunting
+L,1.6,62,31,10.2,85.6,Kurang,-2.44,Pendek,-2.16,Gizi Baik,-1.86,Stunting
+L,3,50,31,8.9,82.2,Sangat Kurang,-3.54,Sangat Pendek,-3.12,Gizi Kurang,-2.69,Saverely Stunting
+L,8,54,31,8.3,76.5,Sangat Kurang,-4.03,Sangat Pendek,-4.71,Gizi Kurang,-2.23,Saverely Stunting
+P,2.8,47.5,31,9.5,83.8,Kurang,-2.6,Pendek,-2.22,Gizi Baik,-1.8,Stunting
+L,2.9,48,31,11,85,Berat Badan Normal,-1.79,Pendek,-2.31,Gizi Baik,-0.73,Stunting
+L,3.2,50,31,10.2,83.2,Kurang,-2.44,Pendek,-2.85,Gizi Baik,-1.2,Stunting
+P,3,49,31,9.5,82,Kurang,-2.59,Pendek,-2.7,Gizi Baik,-1.33,Stunting
+L,3,50,31,10.7,85.5,Kurang,-2.06,Pendek,-2.43,Gizi Baik,-1.03,Stunting
+L,3.1,48,31,9.3,80.5,Sangat Kurang,-3.22,Sangat Pendek,-3.62,Gizi Baik,-1.7,Saverely Stunting
+P,4,50,31,10.9,79.7,Berat Badan Normal,-1.41,Sangat Pendek,-3.48,Gizi Baik,0.87,Saverely Stunting
+L,3,50,31,9.4,82.2,Sangat Kurang,-3.16,Sangat Pendek,-3.31,Gizi Baik,-1.87,Saverely Stunting
+L,2.7,47,31,9.4,83,Sangat Kurang,-3.14,Pendek,-2.92,Gizi Kurang,-2.19,Stunting
+P,2.5,47,31,9.6,83,Kurang,-2.55,Pendek,-2.51,Gizi Baik,-1.47,Stunting
+P,3.3,46,31,12.5,80,Berat Badan Normal,-0.32,Sangat Pendek,-3.3,Gizi Lebih,2.16,Saverely Stunting
+L,2.9,48,31,11,84,Berat Badan Normal,-1.8,Pendek,-2.62,Gizi Baik,-0.47,Stunting
+L,3.1,50,31,10.4,81.6,Kurang,-2.26,Sangat Pendek,-3.29,Gizi Baik,-0.57,Saverely Stunting
+P,3,50,31,6.5,73.4,Sangat Kurang,-5.3,Sangat Pendek,-5.25,Gizi Buruk,-3.57,Saverely Stunting
+P,3,50,31,11.8,83.4,Berat Badan Normal,-0.73,Pendek,-2.26,Gizi Baik,0.78,Stunting
+L,3.8,53,31,11.7,82.9,Berat Badan Normal,-1.23,Pendek,-2.86,Gizi Baik,0.55,Stunting
+P,3.6,48,31,10.2,81.5,Berat Badan Normal,-1.94,Pendek,-2.8,Gizi Baik,-0.39,Stunting
+L,3.2,49,31,10.5,83.5,Kurang,-2.13,Pendek,-2.67,Gizi Baik,-0.92,Stunting
+P,3,48,31,10,82.2,Kurang,-2.1,Pendek,-2.59,Gizi Baik,-0.79,Stunting
+L,3,49,31,10.7,84.4,Kurang,-2.01,Pendek,-2.47,Gizi Baik,-0.92,Stunting
+L,3.2,50,31,10.2,84.5,Kurang,-2.38,Pendek,-2.37,Gizi Baik,-1.55,Stunting
+L,3.2,50,31,11.6,83,Berat Badan Normal,-1.36,Pendek,-2.92,Gizi Baik,0.43,Stunting
+L,3.24,52,31,11,85,Berat Badan Normal,-1.76,Pendek,-2.27,Gizi Baik,-0.73,Stunting
+L,4,50,31,12,85,Berat Badan Normal,-1.08,Pendek,-2.37,Gizi Baik,0.34,Stunting
+L,4,50,31,10.3,83,Kurang,-2.37,Pendek,-2.92,Gizi Baik,-1.03,Stunting
+L,4,50,31,10.8,85,Berat Badan Normal,-1.9,Pendek,-2.25,Gizi Baik,-0.96,Stunting
+L,4,50,31,11.5,85,Berat Badan Normal,-1.4,Pendek,-2.3,Gizi Baik,-0.18,Stunting
+L,2.8,48,31,10,84,Kurang,-2.6,Pendek,-2.61,Gizi Baik,-1.67,Stunting
+P,2.8,49,31,11,83,Berat Badan Normal,-1.3,Pendek,-2.37,Gizi Baik,0.1,Stunting
+L,3,50,31,12.2,86,Berat Badan Normal,-0.94,Pendek,-2.08,Gizi Baik,0.29,Stunting
+P,4,50,31,8.9,76.7,Sangat Kurang,-3.17,Sangat Pendek,-4.21,Gizi Baik,-0.84,Saverely Stunting
+L,2.7,45,31,10.2,81,Kurang,-2.38,Sangat Pendek,-3.39,Gizi Baik,-0.67,Saverely Stunting
+L,3,50,32,11.6,86.1,Berat Badan Normal,-1.42,Pendek,-2.14,Gizi Baik,-0.36,Stunting
+P,3,47,32,9.8,83,Kurang,-2.39,Pendek,-2.53,Gizi Baik,-1.22,Stunting
+L,3.4,51,32,11.2,84,Berat Badan Normal,-1.71,Pendek,-2.72,Gizi Baik,-0.25,Stunting
+L,3.5,50,32,11.1,85.2,Berat Badan Normal,-1.8,Pendek,-2.4,Gizi Baik,-0.67,Stunting
+P,,,32,9.8,83.7,Kurang,-2.43,Pendek,-2.4,Gizi Baik,-1.4,Stunting
+L,0,0,32,11.1,85,Berat Badan Normal,-1.83,Pendek,-2.51,Gizi Baik,-0.62,Stunting
+L,3,49,32,11.3,85.2,Berat Badan Normal,-1.65,Pendek,-2.4,Gizi Baik,-0.45,Stunting
+L,3,49,32,10.3,80,Kurang,-2.41,Sangat Pendek,-3.85,Gizi Baik,-0.32,Saverely Stunting
+P,3,49,32,9.1,81,Sangat Kurang,-3.13,Sangat Pendek,-3.23,Gizi Baik,-1.59,Saverely Stunting
+P,2.6,,32,10.1,81,Kurang,-2.13,Sangat Pendek,-3.09,Gizi Baik,-0.38,Saverely Stunting
+P,3,50,32,10.2,85,Kurang,-2.09,Pendek,-2.04,Gizi Baik,-1.27,Stunting
+L,2.5,48,32,10.6,84,Kurang,-2.23,Pendek,-2.8,Gizi Baik,-0.93,Stunting
+P,6.3,75,32,9.7,85,Kurang,-2.53,Pendek,-2.06,Gizi Baik,-1.87,Stunting
+P,2.5,48,32,9.3,81,Kurang,-2.87,Sangat Pendek,-3.11,Gizi Baik,-1.33,Saverely Stunting
+P,3,50,32,9.5,79.5,Kurang,-2.69,Sangat Pendek,-3.54,Gizi Baik,-0.73,Saverely Stunting
+P,3.3,48,32,10,85.2,Kurang,-2.28,Pendek,-2.21,Gizi Baik,-1.37,Stunting
+P,3.2,50,32,10.1,82.5,Kurang,-2.25,Pendek,-2.84,Gizi Baik,-0.75,Stunting
+L,3.1,49,32,10,85.7,Kurang,-2.71,Pendek,-2.29,Gizi Kurang,-2.14,Stunting
+P,2.6,46,32,8.9,85,Sangat Kurang,-3.27,Pendek,-2.08,Gizi Kurang,-2.91,Stunting
+L,3.4,49,32,11.3,86,Berat Badan Normal,-1.68,Pendek,-2.24,Gizi Baik,-0.66,Stunting
+P,3,50,32,10.1,84,Kurang,-2.18,Pendek,-2.33,Gizi Baik,-1.13,Stunting
+P,3,50,32,11.2,84.2,Berat Badan Normal,-1.3,Pendek,-2.26,Gizi Baik,0,Stunting
+L,2.4,50,32,9.5,80,Sangat Kurang,-3.15,Sangat Pendek,-4.13,Gizi Baik,-1.16,Saverely Stunting
+P,2.7,49,32,9.8,82,Kurang,-2.47,Pendek,-2.92,Gizi Baik,-0.97,Stunting
+L,3,49,32,11.5,84,Berat Badan Normal,-1.54,Pendek,-2.81,Gizi Baik,0.08,Stunting
+L,3,48,32,12.3,86,Berat Badan Normal,-0.96,Pendek,-2.22,Gizi Baik,0.39,Stunting
+L,3,50,32,13.4,85,Berat Badan Normal,-0.17,Pendek,-2.4,Risiko Gizi Lebih,1.65,Stunting
+P,2.4,46,32,9.6,85,Kurang,-2.6,Pendek,-2.02,Gizi Baik,-1.99,Stunting
+P,3,49,32,8.8,84,Sangat Kurang,-3.33,Pendek,-2.31,Gizi Kurang,-2.78,Stunting
+P,3.2,50,32,10.5,84,Berat Badan Normal,-1.89,Pendek,-2.38,Gizi Baik,-0.68,Stunting
+P,2.5,46,32,9.5,82,Kurang,-2.7,Pendek,-2.86,Gizi Baik,-1.33,Stunting
+P,3,48,32,10.5,83,Berat Badan Normal,-1.9,Pendek,-2.68,Gizi Baik,-0.43,Stunting
+L,3,47,32,10.8,84,Kurang,-2.07,Pendek,-2.81,Gizi Baik,-0.7,Stunting
+L,3.1,50,32,10.7,85.5,Kurang,-2.08,Pendek,-2.28,Gizi Baik,-1.22,Stunting
+P,3,49,32,8.8,82.2,Sangat Kurang,-3.36,Pendek,-2.85,Gizi Kurang,-2.3,Stunting
+P,2.1,49,32,9.1,77.5,Sangat Kurang,-3.04,Sangat Pendek,-4.06,Gizi Baik,-0.77,Saverely Stunting
+L,3,49,32,9.5,77.5,Sangat Kurang,-3.1,Sangat Pendek,-4.56,Gizi Baik,-0.77,Saverely Stunting
+P,2.8,48,32,9.7,80,Kurang,-2.55,Sangat Pendek,-3.46,Gizi Baik,-0.61,Saverely Stunting
+L,4,50,32,14,85,Berat Badan Normal,0.16,Pendek,-2.46,Gizi Lebih,2.16,Stunting
+L,4,50,32,10.5,85,Kurang,-2.24,Pendek,-2.42,Gizi Baik,-1.32,Stunting
+L,2.9,49,32,12.9,85,Berat Badan Normal,-0.5,Pendek,-2.42,Risiko Gizi Lebih,1.21,Stunting
+L,2,49,33,10.1,84.7,Kurang,-2.73,Pendek,-2.75,Gizi Baik,-1.73,Stunting
+L,3,50,33,9.7,84.2,Sangat Kurang,-3.02,Pendek,-2.8,Gizi Kurang,-2.12,Stunting
+P,3.3,49,33,10.5,82.5,Berat Badan Normal,-1.98,Pendek,-2.93,Gizi Baik,-0.3,Stunting
+P,0,0,33,10.8,86,Berat Badan Normal,-1.76,Pendek,-2.01,Gizi Baik,-0.86,Stunting
+L,2.4,45,33,10.5,85,Kurang,-2.35,Pendek,-2.59,Gizi Baik,-1.32,Stunting
+L,3,50,33,10.6,87,Kurang,-2.33,Pendek,-2.13,Gizi Baik,-1.74,Stunting
+P,,,33,10.5,84.4,Berat Badan Normal,-1.95,Pendek,-2.37,Gizi Baik,-0.78,Stunting
+L,2.7,49,33,10.6,81.8,Kurang,-2.27,Sangat Pendek,-3.49,Gizi Baik,-0.38,Saverely Stunting
+L,0,0,33,8.5,80,Sangat Kurang,-4.02,Sangat Pendek,-4.01,Gizi Kurang,-2.74,Saverely Stunting
+L,3.6,50,33,9.6,83,Sangat Kurang,-3.16,Sangat Pendek,-3.25,Gizi Baik,-1.92,Saverely Stunting
+L,,,33,10.3,81.9,Kurang,-2.55,Sangat Pendek,-3.53,Gizi Baik,-0.74,Saverely Stunting
+L,3,49,33,11.2,86,Berat Badan Normal,-1.84,Pendek,-2.37,Gizi Baik,-0.77,Stunting
+P,3.1,50,33,12.1,84,Berat Badan Normal,-0.75,Pendek,-2.44,Gizi Baik,0.91,Stunting
+P,2.8,48,33,10.6,85,Berat Badan Normal,-1.86,Pendek,-2.19,Gizi Baik,-0.82,Stunting
+L,3,50,33,11.6,85,Berat Badan Normal,-1.48,Pendek,-2.55,Gizi Baik,-0.07,Stunting
+P,3,50,33,12,86,Berat Badan Normal,-0.91,Pendek,-2.04,Gizi Baik,0.34,Stunting
+L,3,50,33,11.8,85.5,Berat Badan Normal,-1.42,Pendek,-2.54,Gizi Baik,0.01,Stunting
+L,2.8,49,33,9.4,81.9,Sangat Kurang,-3.25,Sangat Pendek,-3.42,Gizi Baik,-1.91,Saverely Stunting
+L,2.7,47,33,9.9,84.2,Kurang,-2.9,Pendek,-2.89,Gizi Baik,-1.85,Stunting
+L,3,50,33,10.2,84.4,Kurang,-2.6,Pendek,-2.77,Gizi Baik,-1.53,Stunting
+P,3,50,33,9.9,83.8,Kurang,-2.5,Pendek,-2.6,Gizi Baik,-1.31,Stunting
+P,2.8,50,33,9.7,84.5,Kurang,-2.63,Pendek,-2.53,Gizi Baik,-1.55,Stunting
+L,2.8,47,33,10.8,80.9,Kurang,-2.14,Sangat Pendek,-3.78,Gizi Baik,0.05,Saverely Stunting
+L,3.3,48,33,10.3,85,Kurang,-2.54,Pendek,-2.63,Gizi Baik,-1.57,Stunting
+L,3.1,51,33,11,85,Berat Badan Normal,-1.94,Pendek,-2.56,Gizi Baik,-0.73,Stunting
+L,3,49,33,9.6,85.4,Sangat Kurang,-3.18,Pendek,-2.54,Gizi Kurang,-2.66,Stunting
+L,2,47,33,10.4,85,Kurang,-2.47,Pendek,-2.65,Gizi Baik,-1.44,Stunting
+P,3.5,49,33,10.4,84,Kurang,-2.04,Pendek,-2.49,Gizi Baik,-0.79,Stunting
+P,3.2,50,33,10.8,84.3,Berat Badan Normal,-1.78,Pendek,-2.5,Gizi Baik,-0.43,Stunting
+L,3,50,33,9.3,84,Sangat Kurang,-3.36,Pendek,-2.88,Gizi Kurang,-2.61,Stunting
+P,3,47,33,10.3,84,Kurang,-2.08,Pendek,-2.43,Gizi Baik,-0.9,Stunting
+P,3,50,33,11.4,85,Berat Badan Normal,-1.31,Pendek,-2.28,Gizi Baik,0.01,Stunting
+P,3.2,50,33,10.2,85,Kurang,-2.19,Pendek,-2.19,Gizi Baik,-1.27,Stunting
+P,3.2,50,33,10.2,83.5,Kurang,-2.19,Pendek,-2.61,Gizi Baik,-0.89,Stunting
+L,2.5,47,33,9.3,79.2,Sangat Kurang,-3.35,Sangat Pendek,-4.21,Gizi Baik,-1.41,Saverely Stunting
+L,2.5,48,33,10.4,82.5,Kurang,-2.46,Sangat Pendek,-3.34,Gizi Baik,-0.78,Saverely Stunting
+L,3,48,33,10,83,Kurang,-2.77,Sangat Pendek,-3.15,Gizi Baik,-1.4,Saverely Stunting
+L,3,49,33,9.8,82,Kurang,-2.99,Sangat Pendek,-3.51,Gizi Baik,-1.4,Saverely Stunting
+P,3.2,50,33,8,80,Sangat Kurang,-4.12,Sangat Pendek,-3.55,Gizi Kurang,-2.89,Saverely Stunting
+P,4,50,33,11,82,Berat Badan Normal,-1.53,Pendek,-2.98,Gizi Baik,0.34,Stunting
+P,4,50,33,9.7,83,Kurang,-2.66,Pendek,-2.8,Gizi Baik,-1.35,Stunting
+P,4,50,33,11.3,82.6,Berat Badan Normal,-1.31,Pendek,-2.83,Gizi Baik,0.49,Stunting
+P,4,50,33,11.6,84,Berat Badan Normal,-1.17,Pendek,-2.55,Gizi Baik,0.45,Stunting
+L,4,50,33,13,85.1,Berat Badan Normal,-0.52,Pendek,-2.52,Risiko Gizi Lebih,1.27,Stunting
+L,3,50,33,11.7,87,Berat Badan Normal,-1.42,Pendek,-2.01,Gizi Baik,-0.48,Stunting
+P,3,48,33,12.8,85,Berat Badan Normal,-0.34,Pendek,-2.22,Risiko Gizi Lebih,1.28,Stunting
+P,2.8,48,33,10,85.5,Kurang,-2.42,Pendek,-2.15,Gizi Baik,-1.63,Stunting
+L,2.8,49,33,10.7,85,Kurang,-2.21,Pendek,-2.62,Gizi Baik,-1.08,Stunting
+L,2.8,49,33,11,85,Berat Badan Normal,-1.94,Pendek,-2.56,Gizi Baik,-0.73,Stunting
+P,3.2,46,33,10.1,80.6,Kurang,-2.29,Sangat Pendek,-3.41,Gizi Baik,-0.29,Saverely Stunting
+L,3,49,36,11,88.1,Kurang,-2.3,Pendek,-2.3,Gizi Baik,-1.55,Stunting
+L,2.9,48,36,11,86,Kurang,-2.27,Pendek,-2.82,Gizi Baik,-1,Stunting
+P,2.8,48,36,11,87.5,Berat Badan Normal,-1.88,Pendek,-2.03,Gizi Baik,-1.02,Stunting
+P,2.8,48,36,10.5,85.5,Kurang,-2.24,Pendek,-2.51,Gizi Baik,-1.06,Stunting
+L,3,48,36,12,87.3,Berat Badan Normal,-1.51,Pendek,-2.42,Gizi Baik,-0.24,Stunting
+P,2.8,48,36,10.2,86.4,Kurang,-2.58,Pendek,-2.4,Gizi Baik,-1.63,Stunting
+L,2.8,48,36,10.6,86,Kurang,-2.54,Pendek,-2.74,Gizi Baik,-1.47,Stunting
+L,1.9,45,36,12,86.6,Berat Badan Normal,-1.56,Pendek,-2.68,Gizi Baik,-0.07,Stunting
+L,,,36,12,88.1,Berat Badan Normal,-1.53,Pendek,-2.23,Gizi Baik,-0.44,Stunting
+P,3,48,36,11.5,87.5,Berat Badan Normal,-1.57,Pendek,-2.12,Gizi Baik,-0.5,Stunting
+P,2.3,46,36,10.5,85.9,Kurang,-2.32,Pendek,-2.52,Gizi Baik,-1.16,Stunting
+P,2.7,47,36,9.9,84,Kurang,-2.75,Pendek,-2.92,Gizi Baik,-1.36,Stunting
+P,2.8,48,36,10.8,87.2,Kurang,-2.11,Pendek,-2.22,Gizi Baik,-1.16,Stunting
+P,3,49,36,10.2,80,Kurang,-2.52,Sangat Pendek,-3.99,Gizi Baik,-0.04,Saverely Stunting
+L,2.8,50,36,11,88,Kurang,-2.22,Pendek,-2.2,Gizi Baik,-1.53,Stunting
+L,2.6,47,36,11.7,87,Berat Badan Normal,-1.74,Pendek,-2.53,Gizi Baik,-0.48,Stunting
+P,2.8,49,36,8.8,84,Sangat Kurang,-3.72,Pendek,-2.98,Gizi Kurang,-2.78,Stunting
+P,2.5,48,36,12,86,Berat Badan Normal,-1.2,Pendek,-2.48,Gizi Baik,0.34,Stunting
+L,3,50,36,14,88,Berat Badan Normal,-0.24,Pendek,-2.24,Risiko Gizi Lebih,1.46,Stunting
+P,3,50,36,10,79,Kurang,-2.67,Sangat Pendek,-4.41,Gizi Baik,0.12,Saverely Stunting
+L,3.2,50,36,10.8,85,Kurang,-2.41,Sangat Pendek,-3.06,Gizi Baik,-0.96,Saverely Stunting
+P,2.9,54,36,11,83,Berat Badan Normal,-1.88,Sangat Pendek,-3.2,Gizi Baik,0.1,Saverely Stunting
+L,2.9,48,36,11.3,86.5,Berat Badan Normal,-2,Pendek,-2.61,Gizi Baik,-0.79,Stunting
+P,3,50,36,11,87,Berat Badan Normal,-1.97,Pendek,-2.23,Gizi Baik,-0.95,Stunting
+L,3,50,36,10.3,86.3,Kurang,-2.84,Pendek,-2.95,Gizi Baik,-1.73,Stunting
+L,3.4,50,36,10.4,89,Kurang,-2.7,Pendek,-2.13,Gizi Kurang,-2.34,Stunting
+P,3,50,36,12,82.5,Berat Badan Normal,-1.21,Sangat Pendek,-3.4,Risiko Gizi Lebih,1.17,Saverely Stunting
+L,3.5,52,36,12.7,87,Berat Badan Normal,-1.02,Pendek,-2.47,Gizi Baik,0.53,Stunting
+L,3.4,49,36,10.9,85.8,Kurang,-2.31,Pendek,-2.8,Gizi Baik,-1.06,Stunting
+L,3.4,51,36,12.1,88,Berat Badan Normal,-1.43,Pendek,-2.21,Gizi Baik,-0.31,Stunting
+L,3,48,36,10.5,87,Kurang,-2.67,Pendek,-2.56,Gizi Baik,-1.87,Stunting
+L,2.5,47,36,13,87.3,Berat Badan Normal,-0.87,Pendek,-2.46,Gizi Baik,0.74,Stunting
+L,3.2,50,36,11.5,88,Berat Badan Normal,-1.89,Pendek,-2.26,Gizi Baik,-0.96,Stunting
+L,3.2,50,36,12,87,Berat Badan Normal,-1.54,Pendek,-2.54,Gizi Baik,-0.17,Stunting
+L,3.2,50,36,12.4,86.5,Berat Badan Normal,-1.23,Pendek,-2.62,Gizi Baik,0.36,Stunting
+L,2.9,50,36,9.7,80.2,Sangat Kurang,-3.27,Sangat Pendek,-4.31,Gizi Baik,-1.11,Saverely Stunting
+L,4,50,36,12,87,Berat Badan Normal,-1.56,Pendek,-2.57,Gizi Baik,-0.17,Stunting
+P,0,0,36,10.8,85.3,Kurang,-2.09,Pendek,-2.68,Gizi Baik,-0.68,Stunting
+P,3,48,36,11.4,85.5,Berat Badan Normal,-1.63,Pendek,-2.61,Gizi Baik,-0.12,Stunting
+P,3,48,36,13.1,87.3,Berat Badan Normal,-0.51,Pendek,-2.15,Gizi Baik,0.99,Stunting
+L,3,48,36,10.5,83,Kurang,-2.65,Sangat Pendek,-3.6,Gizi Baik,-0.79,Saverely Stunting
+L,1.7,47,36,8.4,84,Sangat Kurang,-4.29,Sangat Pendek,-3.27,Gizi Buruk,-3.88,Saverely Stunting
+P,3,50,37,11.7,90.8,Kurang,-2.38,Pendek,-2.73,Gizi Baik,-1.07,Stunting
+L,3.1,47,37,13.5,91,Berat Badan Normal,-1.43,Pendek,-2.81,Gizi Baik,0.35,Stunting
+L,3.8,50,37,12.1,87,Berat Badan Normal,-1.54,Pendek,-2.64,Gizi Baik,-0.07,Stunting
+P,2.7,47,37,12.8,91,Berat Badan Normal,-1.6,Pendek,-2.57,Gizi Baik,-0.08,Stunting
+L,2.9,47,37,10.4,86,Kurang,-2.79,Pendek,-2.89,Gizi Baik,-1.72,Stunting
+P,3.6,53,37,10.6,93,Sangat Kurang,-3.19,Pendek,-2.24,Gizi Kurang,-2.73,Stunting
+P,2.9,49,37,10.5,87,Kurang,-2.38,Pendek,-2.33,Gizi Baik,-1.44,Stunting
+P,2.2,45,37,12,90,Kurang,-2.16,Pendek,-2.89,Gizi Baik,-0.59,Stunting
+P,2.9,50,37,12,86,Berat Badan Normal,-1.25,Pendek,-2.54,Gizi Baik,0.34,Stunting
+P,3,49,37,12,88,Berat Badan Normal,-1.28,Pendek,-2.07,Gizi Baik,-0.14,Stunting
+L,2.2,47,37,10.5,89,Kurang,-2.74,Pendek,-2.15,Gizi Kurang,-2.39,Stunting
+L,2.3,46,37,10.5,87,Kurang,-2.74,Pendek,-2.68,Gizi Baik,-1.87,Stunting
+P,3,49,37,10.9,85,Kurang,-2.07,Pendek,-2.85,Gizi Baik,-0.5,Stunting
+P,2.8,48,37,12,93.9,Kurang,-2.18,Pendek,-2.01,Gizi Baik,-1.44,Stunting
+P,3.1,51,37,10.8,86,Kurang,-2.19,Pendek,-2.66,Gizi Baik,-0.86,Stunting
+L,3.8,49.6,37,11.1,93,Kurang,-2.97,Pendek,-2.25,Gizi Kurang,-2.61,Stunting
+L,3.7,50,37,11.8,93.4,Kurang,-2.52,Pendek,-2.24,Gizi Baik,-1.89,Stunting
+L,3,50,37,10.6,88.9,Kurang,-2.62,Pendek,-2.1,Gizi Kurang,-2.24,Stunting
+L,3,50,37,12.2,88,Berat Badan Normal,-1.44,Pendek,-2.33,Gizi Baik,-0.21,Stunting
+P,2.9,48,37,11.1,86,Berat Badan Normal,-1.88,Pendek,-2.53,Gizi Baik,-0.54,Stunting
+L,2.8,47,37,11.6,90.2,Kurang,-2.65,Pendek,-2.99,Gizi Baik,-1.38,Stunting
+L,3,49,37,12,91,Kurang,-2.38,Pendek,-2.81,Gizi Baik,-1.13,Stunting
+P,3,49,37,13.1,92.5,Berat Badan Normal,-1.44,Pendek,-2.25,Gizi Baik,-0.14,Stunting
+L,3.1,49,37,10.7,87.7,Kurang,-2.61,Pendek,-2.53,Gizi Baik,-1.81,Stunting
+P,2.8,48,37,13,92.2,Berat Badan Normal,-1.47,Pendek,-2.27,Gizi Baik,-0.16,Stunting
+P,,,37,10,86,Kurang,-2.84,Pendek,-2.65,Gizi Baik,-1.76,Stunting
+P,2.8,48,37,11.6,93.2,Kurang,-2.38,Pendek,-2.06,Gizi Baik,-1.69,Stunting
+P,2.8,48,37,11.3,88.3,Berat Badan Normal,-1.8,Pendek,-2.04,Gizi Baik,-0.9,Stunting
+P,2.6,47,37,11.5,91.5,Kurang,-2.46,Pendek,-2.47,Gizi Baik,-1.42,Stunting
+L,2.5,47,37,12.7,93.5,Berat Badan Normal,-1.93,Pendek,-2.22,Gizi Baik,-0.96,Stunting
+P,1.9,46,37,11.7,92.9,Kurang,-2.27,Pendek,-2.07,Gizi Baik,-1.53,Stunting
+L,3,50,37,8.5,75,Sangat Kurang,-4.28,Sangat Pendek,-5.81,Gizi Baik,-1.56,Saverely Stunting
+L,2.9,49,37,12.7,90,Berat Badan Normal,-1.93,Sangat Pendek,-3.06,Gizi Baik,-0.18,Saverely Stunting
+L,3,49,37,11.5,90,Kurang,-2.79,Sangat Pendek,-3.14,Gizi Baik,-1.45,Saverely Stunting
+L,2.5,44,37,11.3,83.1,Kurang,-2.11,Sangat Pendek,-3.68,Gizi Baik,0.09,Saverely Stunting
+L,3,48,37,12.3,89.8,Kurang,-2.13,Sangat Pendek,-3.03,Gizi Baik,-0.54,Saverely Stunting
+L,3.1,48,37,13,82,Berat Badan Normal,-0.96,Sangat Pendek,-3.99,Risiko Gizi Lebih,1.99,Saverely Stunting
+P,3.1,49,37,12,88.4,Kurang,-2.12,Sangat Pendek,-3.2,Gizi Baik,-0.23,Saverely Stunting
+L,2.9,49,37,11.2,89.9,Kurang,-2.99,Sangat Pendek,-3.14,Gizi Baik,-1.77,Saverely Stunting
+P,2.8,44,37,11,84,Berat Badan Normal,-2,Sangat Pendek,-3.12,Gizi Baik,-0.15,Saverely Stunting
+P,3,49,37,11.3,86.6,Berat Badan Normal,-1.81,Pendek,-2.48,Gizi Baik,-0.49,Stunting
+P,3,50,37,15,92,Berat Badan Normal,-0.4,Pendek,-2.34,Risiko Gizi Lebih,1.44,Stunting
+P,3,50,37,11.8,88.1,Berat Badan Normal,-1.45,Pendek,-2.1,Gizi Baik,-0.35,Stunting
+P,3,50,37,11,81.5,Kurang,-2.03,Sangat Pendek,-3.8,Gizi Baik,0.46,Saverely Stunting
+L,2.9,52,37,11.2,88,Kurang,-2.95,Sangat Pendek,-3.54,Gizi Baik,-1.29,Saverely Stunting
+P,3.2,49,37,11,90.3,Kurang,-2.85,Pendek,-2.79,Gizi Baik,-1.68,Stunting
+P,3.2,50,37,11.1,88.2,Berat Badan Normal,-1.92,Pendek,-2.03,Gizi Baik,-1.08,Stunting
+P,2.9,48,37,11.2,90.4,Kurang,-2.75,Pendek,-2.85,Gizi Baik,-1.49,Stunting
+P,3,48,37,11.6,92,Kurang,-2.36,Pendek,-2.3,Gizi Baik,-1.43,Stunting
+L,2.9,48,37,13.5,91.1,Berat Badan Normal,-1.37,Pendek,-2.7,Gizi Baik,0.33,Stunting
+L,3,50,37,11.2,88.4,Kurang,-2.2,Pendek,-2.31,Gizi Baik,-1.4,Stunting
+P,3.1,48,37,10.7,92,Sangat Kurang,-3.11,Pendek,-2.46,Gizi Kurang,-2.39,Stunting
+L,3.6,50,37,12.7,92.2,Berat Badan Normal,-1.99,Pendek,-2.63,Gizi Baik,-0.68,Stunting
+P,3,50,37,10.5,88,Kurang,-2.4,Pendek,-2.1,Gizi Baik,-1.68,Stunting
+L,2.6,48,37,12.6,89.6,Berat Badan Normal,-1.24,Pendek,-2.02,Gizi Baik,-0.19,Stunting
+P,3,50,37,12.8,92.7,Berat Badan Normal,-1.56,Pendek,-2.12,Gizi Baik,-0.44,Stunting
+L,3,50,37,10.7,85,Kurang,-2.55,Sangat Pendek,-3.16,Gizi Baik,-1.08,Saverely Stunting
+L,3,50,37,11.1,88,Sangat Kurang,-3.05,Sangat Pendek,-3.58,Gizi Baik,-1.41,Saverely Stunting
+P,2.7,48,37,11.9,90,Kurang,-2.24,Sangat Pendek,-3.06,Gizi Baik,-0.53,Saverely Stunting
+P,3.2,48,37,11.2,91,Kurang,-2.67,Pendek,-2.58,Gizi Baik,-1.62,Stunting
+P,3.1,0,37,12.2,90,Kurang,-2.03,Pendek,-2.88,Gizi Baik,-0.41,Stunting
+L,2.8,49,37,10.3,87,Kurang,-2.93,Pendek,-2.72,Gizi Kurang,-2.12,Stunting
+L,2.7,47,37,12.1,93,Kurang,-2.36,Pendek,-2.4,Gizi Baik,-1.47,Stunting
+L,0,0,37,13.4,89,Berat Badan Normal,-0.74,Pendek,-2.19,Gizi Baik,0.71,Stunting
+P,3,50,37,13.7,93,Berat Badan Normal,-1.04,Pendek,-2.05,Gizi Baik,0.26,Stunting
+P,3.2,49,37,13.5,92,Berat Badan Normal,-1.14,Pendek,-2.26,Gizi Baik,0.3,Stunting
+P,3.3,49,37,10.5,86,Kurang,-2.37,Pendek,-2.57,Gizi Baik,-1.19,Stunting
+L,3,51,37,11.3,89,Kurang,-2.15,Pendek,-2.19,Gizi Baik,-1.43,Stunting
+L,3,50,37,10.2,86,Kurang,-2.95,Pendek,-2.89,Gizi Baik,-1.97,Stunting
+P,2.5,48,37,13,90,Berat Badan Normal,-1.57,Pendek,-2.95,Gizi Baik,0.31,Stunting
+L,3,49,37,12.8,90.4,Berat Badan Normal,-1.87,Pendek,-2.93,Gizi Baik,-0.22,Stunting
+L,3,50,37,13.4,91.2,Berat Badan Normal,-1.45,Pendek,-2.71,Gizi Baik,0.22,Stunting
+P,3,50,37,11.3,93.4,Kurang,-2.67,Pendek,-2.13,Gizi Kurang,-2.05,Stunting
+L,2.8,48,37,11.7,90,Kurang,-2.54,Pendek,-2.98,Gizi Baik,-1.22,Stunting
+P,2.8,49,37,10.8,89.3,Kurang,-2.97,Pendek,-2.98,Gizi Baik,-1.66,Stunting
+P,3.6,51,37,11.1,93,Kurang,-2.81,Pendek,-2.22,Gizi Kurang,-2.17,Stunting
+P,1.6,46,37,10.7,87,Kurang,-2.26,Pendek,-2.38,Gizi Baik,-1.22,Stunting
+L,2,52.1,37,12.3,93,Kurang,-2.25,Pendek,-2.44,Gizi Baik,-1.26,Stunting
+L,3,48,37,10.2,88,Kurang,-2.94,Pendek,-2.33,Gizi Kurang,-2.52,Stunting
+P,2.5,48,37,11.7,93.5,Kurang,-2.38,Pendek,-2.09,Gizi Baik,-1.66,Stunting
+L,2.7,48,37,12.5,93.5,Kurang,-2.02,Pendek,-2.16,Gizi Baik,-1.16,Stunting
+P,3.5,50,37,12.3,88,Berat Badan Normal,-1.13,Pendek,-2.14,Gizi Baik,0.14,Stunting
+P,3,50,37,12.2,93.4,Kurang,-2.03,Pendek,-2.09,Gizi Baik,-1.14,Stunting
+L,3.2,50,37,12,93,Kurang,-2.35,Pendek,-2.28,Gizi Baik,-1.58,Stunting
+L,3,50,37,11.3,90,Kurang,-2.82,Pendek,-2.97,Gizi Baik,-1.67,Stunting
+P,3.2,50,37,12.9,93.5,Berat Badan Normal,-1.61,Pendek,-2.1,Gizi Baik,-0.52,Stunting
+L,2.7,48,37,9.5,84,Sangat Kurang,-3.49,Sangat Pendek,-3.41,Gizi Kurang,-2.33,Saverely Stunting
+P,3.1,49,37,11,81,Kurang,-2.04,Sangat Pendek,-3.93,Gizi Baik,0.57,Saverely Stunting
+L,2.7,45,37,10.5,89,Sangat Kurang,-3.44,Sangat Pendek,-3.31,Gizi Kurang,-2.39,Saverely Stunting
+L,4,50,37,11.4,86.9,Berat Badan Normal,-2,Pendek,-2.62,Gizi Baik,-0.79,Stunting
+P,4,50,37,10.4,86,Kurang,-2.43,Pendek,-2.53,Gizi Baik,-1.3,Stunting
+L,4,50,37,12,87,Berat Badan Normal,-1.59,Pendek,-2.62,Gizi Baik,-0.17,Stunting
+P,4,50,37,12,85,Berat Badan Normal,-1.33,Pendek,-2.92,Gizi Baik,0.58,Stunting
+P,3.8,50,37,14,90,Berat Badan Normal,-0.87,Pendek,-2.75,Risiko Gizi Lebih,1.12,Stunting
+L,3,49,37,12.2,91,Kurang,-2.24,Pendek,-2.8,Gizi Baik,-0.92,Stunting
+L,3.1,48,37,13.9,93,Berat Badan Normal,-1.24,Pendek,-2.4,Gizi Baik,0.28,Stunting
+L,3.1,48,37,13,93,Berat Badan Normal,-1.79,Pendek,-2.42,Gizi Baik,-0.55,Stunting
+L,3.5,48,37,12.8,88.5,Berat Badan Normal,-1.09,Pendek,-2.28,Gizi Baik,0.26,Stunting
+L,2.8,50,37,12.5,91,Berat Badan Normal,-1.99,Pendek,-2.72,Gizi Baik,-0.61,Stunting
+P,2.3,48,37,11.2,90,Kurang,-2.75,Pendek,-2.93,Gizi Baik,-1.39,Stunting
+L,3,50,37,12.2,90,Kurang,-2.33,Sangat Pendek,-3.17,Gizi Baik,-0.69,Saverely Stunting
+L,2.3,50,37,12,89.7,Kurang,-2.34,Sangat Pendek,-3.06,Gizi Baik,-0.83,Saverely Stunting
+P,2,49,37,10.7,83,Kurang,-2.23,Sangat Pendek,-3.37,Gizi Baik,-0.21,Saverely Stunting
+P,2.8,48,37,10.4,85,Sangat Kurang,-3.25,Sangat Pendek,-3.99,Gizi Baik,-1.04,Saverely Stunting
+P,3,50,38,10.4,88,Kurang,-2.6,Pendek,-2.27,Gizi Baik,-1.8,Stunting
+L,2.7,47,38,12,89,Berat Badan Normal,-1.67,Pendek,-2.21,Gizi Baik,-0.66,Stunting
+P,2.8,50,38,10.1,87,Kurang,-2.78,Pendek,-2.43,Gizi Baik,-1.9,Stunting
+L,3.4,49,38,11.3,88,Kurang,-2.25,Pendek,-2.6,Gizi Baik,-1.18,Stunting
+P,3,49,38,11.2,88,Berat Badan Normal,-2,Pendek,-2.31,Gizi Baik,-0.93,Stunting
+L,3,49,38,11.7,88,Berat Badan Normal,-1.93,Pendek,-2.56,Gizi Baik,-0.74,Stunting
+L,2.8,48,38,11.1,87.6,Kurang,-2.33,Pendek,-2.61,Gizi Baik,-1.31,Stunting
+P,3,48,38,10.7,85.5,Kurang,-2.29,Pendek,-2.8,Gizi Baik,-0.84,Stunting
+P,,,38,10.5,86.9,Kurang,-2.49,Pendek,-2.52,Gizi Baik,-1.41,Stunting
+L,2.9,49,38,11.2,89,Kurang,-2.25,Pendek,-2.22,Gizi Baik,-1.55,Stunting
+P,2.8,49,38,10.7,85,Kurang,-2.3,Pendek,-2.93,Gizi Baik,-0.74,Stunting
+L,3.1,48,38,11.5,88.5,Kurang,-2.06,Pendek,-2.41,Gizi Baik,-1.08,Stunting
+L,3.5,48,38,11.9,88.4,Berat Badan Normal,-1.82,Pendek,-2.5,Gizi Baik,-0.62,Stunting
+P,2.8,47,38,12,88,Berat Badan Normal,-1.39,Pendek,-2.24,Gizi Baik,-0.14,Stunting
+P,2.3,46,38,10.7,80,Kurang,-2.3,Sangat Pendek,-4.23,Gizi Baik,0.5,Saverely Stunting
+L,2.6,45,38,10.5,85,Kurang,-2.81,Sangat Pendek,-3.32,Gizi Baik,-1.32,Saverely Stunting
+P,2.7,46,38,8.8,84.4,Sangat Kurang,-3.92,Sangat Pendek,-3.22,Gizi Kurang,-2.89,Saverely Stunting
+L,3,50,38,8.3,87.2,Sangat Kurang,-4.5,Pendek,-2.9,Gizi Buruk,-4.65,Stunting
+P,2.8,48.6,38,9.9,85.5,Kurang,-2.95,Pendek,-2.81,Gizi Baik,-1.75,Stunting
+L,2.8,48,38,11.5,88.9,Kurang,-2.08,Pendek,-2.34,Gizi Baik,-1.18,Stunting
+P,3,51,38,12,89,Berat Badan Normal,-1.42,Pendek,-2.03,Gizi Baik,-0.37,Stunting
+P,3.3,50,38,9.5,86.8,Sangat Kurang,-3.33,Pendek,-2.57,Gizi Kurang,-2.59,Stunting
+P,3,50,38,10.3,88.4,Kurang,-2.68,Pendek,-2.17,Gizi Kurang,-2.01,Stunting
+L,3,50,38,13.2,87.8,Berat Badan Normal,-0.92,Pendek,-2.54,Gizi Baik,0.76,Stunting
+P,2.4,48,38,10.5,88,Kurang,-2.53,Pendek,-2.47,Gizi Baik,-1.51,Stunting
+P,3,50,38,9.4,88.7,Sangat Kurang,-3.39,Pendek,-2.23,Gizi Buruk,-3.03,Stunting
+P,3.6,50,38,12,88.5,Berat Badan Normal,-1.34,Pendek,-2.04,Gizi Baik,-0.25,Stunting
+P,3.2,52,38,10,88,Kurang,-2.94,Pendek,-2.29,Gizi Kurang,-2.27,Stunting
+P,2.9,47,38,11,87,Kurang,-2.1,Pendek,-2.49,Gizi Baik,-0.89,Stunting
+L,3,50,38,10.9,87.5,Kurang,-2.5,Pendek,-2.65,Gizi Baik,-1.51,Stunting
+P,3,50,38,9.6,84,Sangat Kurang,-3.26,Sangat Pendek,-3.3,Gizi Baik,-1.73,Saverely Stunting
+L,3,50,38,9.2,82.1,Sangat Kurang,-3.87,Sangat Pendek,-4.09,Gizi Kurang,-2.3,Saverely Stunting
+L,2.9,48,38,10.9,88.8,Kurang,-2.53,Pendek,-2.37,Gizi Baik,-1.85,Stunting
+P,2.6,46,38,10,88.8,Kurang,-2.89,Pendek,-2.01,Gizi Kurang,-2.47,Stunting
+L,3.1,49,38,11.3,87,Kurang,-2.22,Pendek,-2.83,Gizi Baik,-0.92,Stunting
+L,3.2,48,38,11.2,87.6,Kurang,-2.25,Pendek,-2.6,Gizi Baik,-1.19,Stunting
+P,3.1,49,38,11.2,87,Berat Badan Normal,-1.97,Pendek,-2.51,Gizi Baik,-0.69,Stunting
+P,2.6,48,38,10.9,87,Kurang,-2.23,Pendek,-2.56,Gizi Baik,-1,Stunting
+P,3.2,50,38,10.5,82.5,Kurang,-2.54,Sangat Pendek,-3.7,Gizi Baik,-0.3,Saverely Stunting
+L,3,51,38,11.6,84,Berat Badan Normal,-1.98,Sangat Pendek,-3.57,Gizi Baik,0.18,Saverely Stunting
+P,2.9,48,38,11.4,87.2,Berat Badan Normal,-1.8,Pendek,-2.43,Gizi Baik,-0.53,Stunting
+L,3,48,38,12,86.8,Berat Badan Normal,-1.71,Pendek,-2.85,Gizi Baik,-0.12,Stunting
+L,3.1,45,38,13.8,87.8,Berat Badan Normal,-0.54,Pendek,-2.57,Risiko Gizi Lebih,1.34,Stunting
+L,3.1,49,38,9.9,88,Sangat Kurang,-3.31,Pendek,-2.57,Gizi Kurang,-2.92,Stunting
+L,3,49,38,12.5,89,Berat Badan Normal,-1.39,Pendek,-2.3,Gizi Baik,-0.15,Stunting
+P,3,49,38,9.8,83,Sangat Kurang,-3.08,Sangat Pendek,-3.52,Gizi Baik,-1.22,Saverely Stunting
+L,2.8,49,38,10.2,85,Sangat Kurang,-3.07,Sangat Pendek,-3.33,Gizi Baik,-1.69,Saverely Stunting
+L,3.4,49,39,12,90,Berat Badan Normal,-1.82,Pendek,-2.19,Gizi Baik,-0.9,Stunting
+P,3,49,39,10.8,88,Kurang,-2.35,Pendek,-2.38,Gizi Baik,-1.35,Stunting
+L,3,48,39,10.6,89,Kurang,-2.85,Pendek,-2.45,Gizi Kurang,-2.27,Stunting
+P,2.2,46,39,10.5,87.4,Kurang,-2.62,Pendek,-2.57,Gizi Baik,-1.54,Stunting
+P,3,49,39,11.1,87.5,Kurang,-2.17,Pendek,-2.57,Gizi Baik,-0.91,Stunting
+L,3.2,50,39,12.1,88,Berat Badan Normal,-1.77,Pendek,-2.74,Gizi Baik,-0.31,Stunting
+P,0,0,39,10.5,86.3,Kurang,-2.55,Pendek,-2.75,Gizi Baik,-1.26,Stunting
+P,2.8,48,39,11.5,88.1,Berat Badan Normal,-1.86,Pendek,-2.39,Gizi Baik,-0.65,Stunting
+L,3,49,39,10.7,86.7,Kurang,-2.72,Pendek,-2.97,Gizi Baik,-1.54,Stunting
+L,3,50,39,11.9,88,Berat Badan Normal,-1.87,Pendek,-2.68,Gizi Baik,-0.52,Stunting
+L,3,50,39,11.1,89.4,Kurang,-2.48,Pendek,-2.37,Gizi Baik,-1.76,Stunting
+L,2.7,49,39,10.5,88.3,Kurang,-2.94,Pendek,-2.65,Gizi Kurang,-2.21,Stunting
+L,2.9,49,39,11,89.3,Kurang,-2.53,Pendek,-2.37,Gizi Baik,-1.85,Stunting
+P,3,50,39,9.2,85,Sangat Kurang,-3.61,Sangat Pendek,-3.09,Gizi Kurang,-2.5,Saverely Stunting
+P,2.8,48,39,12.2,84.2,Berat Badan Normal,-1.4,Sangat Pendek,-3.58,Risiko Gizi Lebih,1.12,Saverely Stunting
+L,3,49,39,10.8,88.5,Kurang,-2.67,Pendek,-2.73,Gizi Baik,-1.71,Stunting
+P,2.35,44,39,11.9,89,Berat Badan Normal,-1.55,Pendek,-2.12,Gizi Baik,-0.46,Stunting
+L,2.6,49,39,10.6,88.1,Kurang,-2.81,Pendek,-2.61,Gizi Kurang,-2.04,Stunting
+P,3.1,48,39,11.5,86.1,Berat Badan Normal,-1.83,Pendek,-2.86,Gizi Baik,-0.17,Stunting
+P,3,49,39,9.8,81.8,Sangat Kurang,-3.17,Sangat Pendek,-3.95,Gizi Baik,-0.92,Saverely Stunting
+L,2.8,48,39,10.4,89.6,Kurang,-2.98,Pendek,-2.26,Gizi Kurang,-2.67,Stunting
+P,3,50,39,10.4,86.1,Kurang,-2.71,Pendek,-2.92,Gizi Baik,-1.32,Stunting
+L,3,48,39,10.2,88.4,Sangat Kurang,-3.15,Pendek,-2.59,Gizi Kurang,-2.62,Stunting
+P,2.4,45,39,12,87,Berat Badan Normal,-1.46,Pendek,-2.59,Gizi Baik,0.1,Stunting
+L,3,50,39,11.2,90,Kurang,-2.36,Pendek,-2.15,Gizi Baik,-1.79,Stunting
+L,2.7,51,39,10.9,88,Kurang,-2.59,Pendek,-2.67,Gizi Baik,-1.65,Stunting
+L,3.3,49,39,12.1,87.3,Berat Badan Normal,-1.71,Pendek,-2.84,Gizi Baik,-0.14,Stunting
+P,3.2,49,39,10.8,87,Kurang,-2.36,Pendek,-2.65,Gizi Baik,-1.11,Stunting
+P,3,50,39,11.4,86.7,Berat Badan Normal,-1.94,Pendek,-2.75,Gizi Baik,-0.41,Stunting
+P,3,49,39,10.3,87.4,Kurang,-2.72,Pendek,-2.49,Gizi Baik,-1.77,Stunting
+L,3.2,50,39,10,82.5,Sangat Kurang,-3.27,Sangat Pendek,-4.06,Gizi Baik,-1.27,Saverely Stunting
+L,2.2,44,39,8.3,78,Sangat Kurang,-4.58,Sangat Pendek,-5.46,Gizi Kurang,-2.42,Saverely Stunting
+L,2.8,48,39,13,90,Berat Badan Normal,-1.17,Pendek,-2.22,Gizi Baik,0.11,Stunting
+P,3,50,40,11.3,87.5,Kurang,-2.06,Pendek,-2.63,Gizi Baik,-0.7,Stunting
+L,3,50,40,10.5,87.5,Kurang,-2.99,Pendek,-2.94,Gizi Baik,-2,Stunting
+P,3,50,40,10.7,88.1,Kurang,-2.54,Pendek,-2.52,Gizi Baik,-1.49,Stunting
+P,2,49,40,11.3,87.6,Kurang,-2.08,Pendek,-2.63,Gizi Baik,-0.73,Stunting
+L,3,49,40,12,89,Berat Badan Normal,-1.86,Pendek,-2.52,Gizi Baik,-0.66,Stunting
+L,2.9,49,40,13.5,90.5,Berat Badan Normal,-0.93,Pendek,-2.18,Gizi Baik,0.46,Stunting
+L,3.5,49,40,12,90,Berat Badan Normal,-1.88,Pendek,-2.29,Gizi Baik,-0.9,Stunting
+L,3,49,40,11.8,90,Berat Badan Normal,-1.99,Pendek,-2.25,Gizi Baik,-1.11,Stunting
+P,2.9,48,40,11,87.5,Kurang,-2.27,Pendek,-2.62,Gizi Baik,-1.02,Stunting
+P,2.8,48,40,11.8,89.2,Berat Badan Normal,-1.73,Pendek,-2.24,Gizi Baik,-0.61,Stunting
+P,3.6,51,40,12.5,88.6,Berat Badan Normal,-1.29,Pendek,-2.43,Gizi Baik,0.18,Stunting
+P,2.3,47,40,9,79.2,Sangat Kurang,-3.87,Sangat Pendek,-4.72,Gizi Baik,-1.28,Saverely Stunting
+P,2.6,47,40,9,78,Sangat Kurang,-3.87,Sangat Pendek,-5.02,Gizi Baik,-1.01,Saverely Stunting
+L,2,46,40,10.4,86.3,Sangat Kurang,-3.08,Sangat Pendek,-3.27,Gizi Baik,-1.8,Saverely Stunting
+P,2.8,49,40,10.7,84.9,Kurang,-2.51,Sangat Pendek,-3.28,Gizi Baik,-0.69,Saverely Stunting
+P,3,50,40,12.3,87,Berat Badan Normal,-1.39,Pendek,-2.78,Gizi Baik,0.37,Stunting
+L,3,47,40,13,89.1,Berat Badan Normal,-1.26,Pendek,-2.58,Gizi Baik,0.31,Stunting
+L,3,50,40,13.7,90,Berat Badan Normal,-0.79,Pendek,-2.3,Gizi Baik,0.75,Stunting
+P,2.7,48,40,11,85,Kurang,-2.3,Sangat Pendek,-3.28,Gizi Baik,-0.4,Saverely Stunting
+P,8,69,40,12.5,88,Berat Badan Normal,-1.23,Pendek,-2.48,Gizi Baik,0.32,Stunting
+P,3,10,40,10.8,89.5,Kurang,-2.42,Pendek,-2.11,Gizi Baik,-1.71,Stunting
+P,3,50,40,11,87.5,Kurang,-2.32,Pendek,-2.68,Gizi Baik,-1.02,Stunting
+L,3,50,40,11,89,Kurang,-2.56,Pendek,-2.48,Gizi Baik,-1.78,Stunting
+P,3.4,50,40,10.6,87.5,Kurang,-2.61,Pendek,-2.77,Gizi Baik,-1.33,Stunting
+P,3.4,50,40,10.3,88,Kurang,-2.81,Pendek,-2.65,Gizi Baik,-1.74,Stunting
+P,2.4,48,40,10.5,85,Kurang,-2.69,Sangat Pendek,-3.28,Gizi Baik,-0.93,Saverely Stunting
+P,2.4,47,40,10.2,85,Kurang,-2.94,Sangat Pendek,-3.28,Gizi Baik,-1.27,Saverely Stunting
+P,3.5,50,40,11.2,90,Kurang,-2.15,Pendek,-2.03,Gizi Baik,-1.39,Stunting
+P,3.4,49,40,13,87,Berat Badan Normal,-0.94,Pendek,-2.76,Gizi Baik,0.98,Stunting
+P,3,50,40,11,87,Kurang,-2.26,Pendek,-2.72,Gizi Baik,-0.89,Stunting
+P,2.8,48,40,11.5,88,Berat Badan Normal,-1.91,Pendek,-2.5,Gizi Baik,-0.62,Stunting
+P,3.2,50,40,13.5,87,Berat Badan Normal,-0.67,Pendek,-2.8,Risiko Gizi Lebih,1.39,Stunting
+L,3.4,48,40,11,89,Kurang,-2.64,Pendek,-2.6,Gizi Baik,-1.78,Stunting
+L,3.2,50,40,12.6,86,Berat Badan Normal,-1.48,Sangat Pendek,-3.32,Gizi Baik,0.68,Saverely Stunting
+L,2.8,50,40,12.1,85.7,Berat Badan Normal,-1.79,Sangat Pendek,-3.37,Gizi Baik,0.26,Saverely Stunting
+P,2.6,47,40,10.8,86,Kurang,-2.49,Sangat Pendek,-3.08,Gizi Baik,-0.86,Saverely Stunting
+P,3.2,50,40,10.5,85,Kurang,-2.64,Sangat Pendek,-3.21,Gizi Baik,-0.93,Saverely Stunting
+P,4,50,40,10.5,89.3,Kurang,-2.7,Pendek,-2.22,Gizi Baik,-2,Stunting
+L,2.9,48,40,12.2,90.5,Berat Badan Normal,-1.76,Pendek,-2.2,Gizi Baik,-0.8,Stunting
+P,2.4,47,40,10.5,89,Kurang,-2.71,Pendek,-2.32,Gizi Baik,-1.93,Stunting
+L,0,0,40,11.4,87.5,Kurang,-2.27,Pendek,-2.88,Gizi Baik,-0.94,Stunting
+P,3.6,46,40,10.4,88.4,Kurang,-2.78,Pendek,-2.45,Gizi Baik,-1.9,Stunting
+L,3.4,48,40,12,86,Berat Badan Normal,-1.88,Sangat Pendek,-3.31,Gizi Baik,0.09,Saverely Stunting
+L,4,50,40,10.5,84,Sangat Kurang,-3.02,Sangat Pendek,-3.87,Gizi Baik,-1.05,Saverely Stunting
+P,2.66,46,41,12.3,87.5,Berat Badan Normal,-1.48,Pendek,-2.79,Gizi Baik,0.26,Stunting
+P,3.2,48,41,11.7,89,Berat Badan Normal,-1.87,Pendek,-2.34,Gizi Baik,-0.71,Stunting
+L,3,50,41,12.3,90,Berat Badan Normal,-1.76,Pendek,-2.42,Gizi Baik,-0.58,Stunting
+L,3,49,41,11.7,88,Kurang,-2.2,Pendek,-2.97,Gizi Baik,-0.74,Stunting
+P,3,49,41,10.6,89,Kurang,-2.71,Pendek,-2.44,Gizi Baik,-1.81,Stunting
+L,3,50,41,13.4,88.4,Berat Badan Normal,-1.05,Pendek,-2.82,Gizi Baik,0.85,Stunting
+L,3,50,41,13.4,88.4,Berat Badan Normal,-1.05,Pendek,-2.82,Gizi Baik,0.85,Stunting
+L,3,50,41,11.8,90,Kurang,-2.12,Pendek,-2.45,Gizi Baik,-1.11,Stunting
+L,3,49,41,11.3,90,Kurang,-2.47,Pendek,-2.44,Gizi Baik,-1.67,Stunting
+L,3,50,41,12.7,90,Berat Badan Normal,-1.48,Pendek,-2.4,Gizi Baik,-0.18,Stunting
+P,2.8,48,41,14,89,Berat Badan Normal,-0.47,Pendek,-2.42,Risiko Gizi Lebih,1.33,Stunting
+L,2.8,49,41,14,89.6,Berat Badan Normal,-0.73,Pendek,-2.57,Risiko Gizi Lebih,1.11,Stunting
+L,2.8,48,41,14,90.1,Berat Badan Normal,-0.66,Pendek,-2.34,Gizi Baik,1,Stunting
+L,2.8,48,41,12.2,88.5,Berat Badan Normal,-1.84,Pendek,-2.82,Gizi Baik,-0.33,Stunting
+P,2.7,48,41,9.3,85,Sangat Kurang,-3.73,Sangat Pendek,-3.44,Gizi Kurang,-2.37,Saverely Stunting
+P,2.4,46,41,10,86,Sangat Kurang,-3.14,Sangat Pendek,-3.09,Gizi Baik,-1.76,Saverely Stunting
+P,3,49,41,11.6,85,Berat Badan Normal,-1.94,Sangat Pendek,-3.38,Gizi Baik,0.2,Saverely Stunting
+P,2.8,48,41,9.7,82,Sangat Kurang,-3.38,Sangat Pendek,-4.11,Gizi Baik,-1.09,Saverely Stunting
+L,2.7,46,41,11.5,85.2,Kurang,-2.33,Sangat Pendek,-3.67,Gizi Baik,-0.23,Saverely Stunting
+P,3,49,41,12.8,90,Berat Badan Normal,-1.16,Pendek,-2.16,Gizi Baik,0.14,Stunting
+P,3,48,41,13,90,Berat Badan Normal,-1.04,Pendek,-2.17,Gizi Baik,0.31,Stunting
+P,2.8,49,41,14,89,Berat Badan Normal,-0.45,Pendek,-2.38,Risiko Gizi Lebih,1.33,Stunting
+P,0,0,41,12.5,90,Berat Badan Normal,-1.34,Pendek,-2.15,Gizi Baik,-0.13,Stunting
+P,3,50,41,11.9,87,Berat Badan Normal,-1.78,Pendek,-2.96,Gizi Baik,0,Stunting
+P,3,50,41,10.6,88,Kurang,-2.68,Pendek,-2.63,Gizi Baik,-1.57,Stunting
+L,3,50,41,11.2,83.6,Kurang,-2.53,Sangat Pendek,-4.04,Gizi Baik,-0.15,Saverely Stunting
+L,3,50,41,12,85.9,Berat Badan Normal,-1.99,Sangat Pendek,-3.5,Gizi Baik,0.11,Saverely Stunting
+P,3,54,41,13,78,Berat Badan Normal,-1.06,Sangat Pendek,-5.15,Gizi Lebih,2.96,Saverely Stunting
+L,3.2,49,41,11.3,91.3,Kurang,-2.47,Pendek,-2.12,Gizi Baik,-1.98,Stunting
+L,3.1,51,41,12.7,89.5,Berat Badan Normal,-1.51,Pendek,-2.58,Gizi Baik,-0.07,Stunting
+P,2.9,49,41,11.3,89.1,Kurang,-2.18,Pendek,-2.41,Gizi Baik,-1.08,Stunting
+L,2.9,48,41,12.6,89,Berat Badan Normal,-1.52,Pendek,-2.62,Gizi Baik,-0.05,Stunting
+P,3,50,41,13.1,90,Berat Badan Normal,-1,Pendek,-2.19,Gizi Baik,0.39,Stunting
+P,2.7,47,41,9.9,83,Sangat Kurang,-3.21,Sangat Pendek,-3.83,Gizi Baik,-1.11,Saverely Stunting
+P,3,50,41,11.2,86.2,Kurang,-2.26,Sangat Pendek,-3.31,Gizi Baik,-0.32,Saverely Stunting
+L,3.1,47,41,11.4,90,Kurang,-2.4,Pendek,-2.44,Gizi Baik,-1.56,Stunting
+P,3,50,41,12,90,Berat Badan Normal,-1.64,Pendek,-2.11,Gizi Baik,-0.59,Stunting
+L,3.57,51,41,13.1,90,Berat Badan Normal,-1.21,Pendek,-2.37,Gizi Baik,0.2,Stunting
+L,3.3,49,41,11.3,89,Kurang,-2.45,Pendek,-2.67,Gizi Baik,-1.43,Stunting
+L,2.9,47,41,12.1,88,Berat Badan Normal,-1.91,Pendek,-2.95,Gizi Baik,-0.31,Stunting
+P,2.3,45,41,10.8,89,Kurang,-2.57,Pendek,-2.45,Gizi Baik,-1.59,Stunting
+P,3.1,51,41,12,89,Berat Badan Normal,-1.65,Pendek,-2.38,Gizi Baik,-0.37,Stunting
+L,3,50,41,11.3,84,Kurang,-2.43,Sangat Pendek,-3.91,Gizi Baik,-0.14,Saverely Stunting
+L,2.7,48,41,12.2,91,Berat Badan Normal,-1.82,Pendek,-2.16,Gizi Baik,-0.92,Stunting
+L,2.8,49,41,12.5,88.5,Berat Badan Normal,-1.61,Pendek,-2.78,Gizi Baik,-0.03,Stunting
+P,2.9,45,41,11.3,83,Kurang,-2.2,Sangat Pendek,-3.94,Gizi Baik,0.4,Saverely Stunting
+P,2.7,48,41,10.7,83.8,Kurang,-2.57,Sangat Pendek,-3.63,Gizi Baik,-0.41,Saverely Stunting
+L,4,50,41,13,90,Berat Badan Normal,-1.31,Pendek,-2.42,Gizi Baik,0.11,Stunting
+P,4,50,41,12.6,89,Berat Badan Normal,-1.31,Pendek,-2.44,Gizi Baik,0.18,Stunting
+P,3.4,49,41,12.6,90,Berat Badan Normal,-1.29,Pendek,-2.17,Gizi Baik,-0.04,Stunting
+L,3.5,49,41,12.7,91.1,Berat Badan Normal,-1.53,Pendek,-2.2,Gizi Baik,-0.43,Stunting
+L,3.4,48,41,13.4,89,Berat Badan Normal,-1.07,Pendek,-2.69,Gizi Baik,0.71,Stunting
+P,3.9,50,41,10.2,89,Sangat Kurang,-3.01,Pendek,-2.39,Gizi Kurang,-2.28,Stunting
+L,2.7,48,41,12.6,90.9,Berat Badan Normal,-1.52,Pendek,-2.13,Gizi Baik,-0.49,Stunting
+P,3,46,41,10.2,87,Kurang,-2.97,Pendek,-2.84,Gizi Baik,-1.78,Stunting
+P,4,50,42,11.4,87.5,Kurang,-2.19,Pendek,-2.92,Gizi Baik,-0.6,Stunting
+L,2.9,47,42,11.3,89,Kurang,-2.55,Pendek,-2.81,Gizi Baik,-1.43,Stunting
+P,2.2,45,42,10.5,90,Kurang,-2.89,Pendek,-2.34,Gizi Kurang,-2.16,Stunting
+L,3,49,42,10.7,89,Kurang,-2.95,Pendek,-2.74,Gizi Kurang,-2.14,Stunting
+P,2.7,49,42,11.1,90.7,Kurang,-2.39,Pendek,-2.11,Gizi Baik,-1.66,Stunting
+P,3,49,42,12.2,88,Berat Badan Normal,-1.63,Pendek,-2.79,Gizi Baik,0.05,Stunting
+L,2.8,48,42,12.4,90.1,Berat Badan Normal,-1.77,Pendek,-2.52,Gizi Baik,-0.51,Stunting
+P,3,49,42,12.6,91,Berat Badan Normal,-1.37,Pendek,-2.05,Gizi Baik,-0.26,Stunting
+L,2.9,49,42,12.5,92,Berat Badan Normal,-1.7,Pendek,-2.03,Gizi Baik,-0.83,Stunting
+L,2.9,49,42,12.1,91.5,Berat Badan Normal,-1.95,Pendek,-2.13,Gizi Baik,-1.14,Stunting
+P,2.8,48,42,10.8,87.6,Kurang,-2.59,Pendek,-2.83,Gizi Baik,-1.25,Stunting
+L,3,49,42,10.7,84.7,Kurang,-2.99,Sangat Pendek,-3.87,Gizi Baik,-1,Saverely Stunting
+P,2,49,42,11,85,Kurang,-2.43,Sangat Pendek,-3.46,Gizi Baik,-0.4,Saverely Stunting
+P,3.5,48,42,11.5,85.8,Kurang,-2.13,Sangat Pendek,-3.36,Gizi Baik,-0.09,Saverely Stunting
+L,2.9,49,42,12,87,Kurang,-2.05,Sangat Pendek,-3.31,Gizi Baik,-0.17,Saverely Stunting
+P,3,50,42,11.5,90.5,Kurang,-2.13,Pendek,-2.21,Gizi Baik,-1.2,Stunting
+L,2.8,48,42,11.8,92,Kurang,-2.2,Pendek,-2.07,Gizi Baik,-1.58,Stunting
+L,3,50,42,12,92,Kurang,-2.05,Pendek,-2.06,Gizi Baik,-1.36,Stunting
+L,3,48,42,11.1,91,Kurang,-2.72,Pendek,-2.35,Gizi Kurang,-2.15,Stunting
+P,3,50,42,12.7,89,Berat Badan Normal,-1.35,Pendek,-2.6,Gizi Baik,0.27,Stunting
+L,3,50,42,12,91.3,Kurang,-2.03,Pendek,-2.2,Gizi Baik,-1.2,Stunting
+L,2.6,47,42,12.9,81.5,Berat Badan Normal,-1.44,Sangat Pendek,-4.67,Gizi Lebih,02.01,Saverely Stunting
+L,2.8,48,42,13.8,90,Berat Badan Normal,-0.93,Pendek,-2.58,Gizi Baik,0.84,Stunting
+P,0,0,42,12.2,89.7,Berat Badan Normal,-1.59,Pendek,-2.31,Gizi Baik,-0.34,Stunting
+L,3,50,42,10.3,90,Sangat Kurang,-3.27,Pendek,-2.52,Gizi Kurang,-2.9,Stunting
+L,2.4,45,42,12.7,91.8,Berat Badan Normal,-1.57,Pendek,-2.08,Gizi Baik,-0.59,Stunting
+L,3,50,42,11.5,89,Kurang,-2.41,Pendek,-2.82,Gizi Baik,-1.2,Stunting
+P,2.5,48,42,11.6,90.5,Kurang,-2.02,Pendek,-2.15,Gizi Baik,-1.1,Stunting
+L,3,48,42,11.3,90.3,Kurang,-2.56,Pendek,-2.51,Gizi Baik,-1.75,Stunting
+L,2.8,46,42,10,85,Sangat Kurang,-3.53,Sangat Pendek,-3.85,Gizi Baik,-1.95,Saverely Stunting
+P,4,50,42,11.9,89,Berat Badan Normal,-1.87,Pendek,-2.6,Gizi Baik,-0.46,Stunting
+L,4,50,42,10.5,89,Sangat Kurang,-3.11,Pendek,-2.75,Gizi Kurang,-2.39,Stunting
+L,4,50,42,14,91,Berat Badan Normal,-0.78,Pendek,-2.28,Gizi Baik,0.8,Stunting
+P,3.1,48,42,10.5,91,Kurang,-2.9,Pendek,-2.11,Gizi Kurang,-2.4,Stunting
+P,3,50,42,10.5,89,Kurang,-2.85,Pendek,-2.52,Gizi Baik,-1.93,Stunting
+L,2.8,48,42,11.7,91,Kurang,-2.22,Pendek,-2.24,Gizi Baik,-1.46,Stunting
+P,2.9,49,42,11.9,88,Berat Badan Normal,-1.85,Pendek,-2.81,Gizi Baik,-0.23,Stunting
+L,3,48,42,11.2,90,Kurang,-2.63,Pendek,-2.57,Gizi Baik,-1.79,Stunting
+P,4,50,42,11,85,Kurang,-2.47,Sangat Pendek,-3.52,Gizi Baik,-0.4,Saverely Stunting
+P,3,48,42,8,76,Sangat Kurang,-4.74,Sangat Pendek,-5.69,Gizi Baik,-1.93,Saverely Stunting
+P,4,50,42,13.5,87,Berat Badan Normal,-0.87,Sangat Pendek,-3.08,Risiko Gizi Lebih,1.39,Saverely Stunting
+L,2.9,49,43,11.7,90,Kurang,-2.3,Pendek,-2.62,Gizi Baik,-1.22,Stunting
+L,2.7,47,43,13.5,92,Berat Badan Normal,-1.14,Pendek,-2.13,Gizi Baik,0.14,Stunting
+P,3,50,43,12,91,Berat Badan Normal,-1.89,Pendek,-2.24,Gizi Baik,-0.82,Stunting
+L,3,50,43,12.2,92,Berat Badan Normal,-1.98,Pendek,-2.16,Gizi Baik,-1.14,Stunting
+P,3.7,50,43,11.8,90.4,Berat Badan Normal,-1.99,Pendek,-2.34,Gizi Baik,-0.88,Stunting
+L,2.9,49,43,11.5,89,Kurang,-2.45,Pendek,-2.89,Gizi Baik,-1.2,Stunting
+P,2.8,48,43,11.8,89,Kurang,-2.02,Pendek,-2.71,Gizi Baik,-0.56,Stunting
+P,2.5,49,43,10.5,91.2,Kurang,-2.91,Pendek,-2.08,Gizi Kurang,-2.44,Stunting
+P,2,47,43,11.8,86.9,Berat Badan Normal,-1.94,Sangat Pendek,-3.12,Gizi Baik,-0.07,Saverely Stunting
+P,3,49,43,9.7,86,Sangat Kurang,-3.54,Sangat Pendek,-3.39,Gizi Kurang,-2.13,Saverely Stunting
+L,2.5,45,43,11.8,88,Kurang,-2.27,Sangat Pendek,-3.17,Gizi Baik,-0.63,Saverely Stunting
+L,3,49,43,10.4,86.2,Sangat Kurang,-3.3,Sangat Pendek,-3.64,Gizi Baik,-1.77,Saverely Stunting
+L,2.8,47,43,11.1,87.8,Kurang,-2.75,Sangat Pendek,-3.2,Gizi Baik,-1.36,Saverely Stunting
+P,3,49,43,13.2,89.4,Berat Badan Normal,-1.13,Pendek,-2.62,Gizi Baik,0.61,Stunting
+L,2.6,49,43,11.5,89.5,Kurang,-2.45,Pendek,-2.76,Gizi Baik,-1.33,Stunting
+P,0,0,43,12.7,90.3,Berat Badan Normal,-1.4,Pendek,-2.36,Gizi Baik,-0.02,Stunting
+P,2.8,50,43,11.2,89.7,Kurang,-2.43,Pendek,-2.52,Gizi Baik,-1.33,Stunting
+L,3,50,43,14,89,Berat Badan Normal,-0.89,Pendek,-2.95,Risiko Gizi Lebih,1.24,Stunting
+P,3,50,43,10.6,89,Kurang,-2.85,Pendek,-2.64,Gizi Baik,-1.81,Stunting
+L,3.1,50,43,12,92,Kurang,-2.14,Pendek,-2.19,Gizi Baik,-1.36,Stunting
+L,2.9,48,43,12.2,92,Berat Badan Normal,-1.95,Pendek,-2.11,Gizi Baik,-1.14,Stunting
+P,3.2,50,43,10.7,91,Kurang,-2.82,Pendek,-2.23,Gizi Kurang,-2.17,Stunting
+L,1.3,40,43,11.2,88.5,Kurang,-2.68,Sangat Pendek,-3.03,Gizi Baik,-1.42,Saverely Stunting
+L,2.8,48,43,11.5,88,Kurang,-2.47,Sangat Pendek,-3.11,Gizi Baik,-1.01,Saverely Stunting
+L,3,52,43,12.4,90.2,Berat Badan Normal,-1.85,Pendek,-2.61,Gizi Baik,-0.53,Stunting
+P,2.9,48,43,12,88,Berat Badan Normal,-1.85,Pendek,-2.91,Gizi Baik,-0.14,Stunting
+L,3.4,49,43,12.6,90,Berat Badan Normal,-1.76,Pendek,-2.72,Gizi Baik,-0.28,Stunting
+L,3,50,43,11,89.5,Kurang,-2.81,Pendek,-2.75,Gizi Baik,-1.9,Stunting
+L,2.7,47,43,11.2,91,Kurang,-2.72,Pendek,-2.46,Gizi Kurang,-2.03,Stunting
+P,2.9,49,43,11.4,89.3,Kurang,-2.29,Pendek,-2.64,Gizi Baik,-1.03,Stunting
+P,3,47,43,11.9,89.5,Berat Badan Normal,-1.92,Pendek,-2.55,Gizi Baik,-0.58,Stunting
+L,3.7,49,43,12.6,89,Berat Badan Normal,-1.75,Pendek,-2.95,Gizi Baik,-0.05,Stunting
+P,3.8,56,43,13.2,90,Berat Badan Normal,-1.13,Pendek,-2.48,Gizi Baik,0.48,Stunting
+P,2.6,49.2,43,10.4,84.2,Sangat Kurang,-3.03,Sangat Pendek,-3.84,Gizi Baik,-0.84,Saverely Stunting
+P,4,50,43,11.6,90,Kurang,-2.15,Pendek,-2.46,Gizi Baik,-0.99,Stunting
+P,4,50,43,12,88,Berat Badan Normal,-1.83,Pendek,-2.88,Gizi Baik,-0.14,Stunting
+P,3,50,43,12.1,88.5,Berat Badan Normal,-1.79,Pendek,-2.79,Gizi Baik,-0.16,Stunting
+P,1.8,45,43,12.2,90,Berat Badan Normal,-1.7,Pendek,-2.4,Gizi Baik,-0.41,Stunting
+L,3,50,43,11.2,92,Kurang,-2.69,Pendek,-2.16,Gizi Kurang,-2.26,Stunting
+P,2.9,49,43,10.7,86,Kurang,-2.77,Sangat Pendek,-3.37,Gizi Baik,-0.97,Saverely Stunting
+L,3,52,43,12.7,82,Berat Badan Normal,-1.69,Sangat Pendek,-4.7,Risiko Gizi Lebih,1.72,Saverely Stunting
+L,2.5,47,44,11.6,90,Kurang,-2.5,Pendek,-2.82,Gizi Baik,-1.33,Stunting
+P,3,49,44,12.5,91,Berat Badan Normal,-1.58,Pendek,-2.27,Gizi Baik,-0.35,Stunting
+P,2.7,47,44,13,90,Berat Badan Normal,-1.28,Pendek,-2.51,Gizi Baik,0.31,Stunting
+P,2.3,44,44,10,88.8,Sangat Kurang,-3.39,Pendek,-2.84,Gizi Kurang,-2.47,Stunting
+L,3,50,44,11.8,91.9,Kurang,-2.32,Pendek,-2.28,Gizi Baik,-1.55,Stunting
+P,3,48,44,12.6,90.6,Berat Badan Normal,-1.56,Pendek,-2.43,Gizi Baik,-0.17,Stunting
+L,3,50,44,12,90.6,Kurang,-2.24,Pendek,-2.69,Gizi Baik,-1.04,Stunting
+L,0,0,44,12.3,91.6,Kurang,-2.04,Pendek,-2.45,Gizi Baik,-0.95,Stunting
+P,2.9,49,44,10,89,Sangat Kurang,-3.37,Pendek,-2.75,Gizi Kurang,-2.52,Stunting
+P,2.7,47,44,12.6,90.9,Berat Badan Normal,-1.55,Pendek,-2.34,Gizi Baik,-0.24,Stunting
+L,3.1,49,44,11.1,89,Kurang,-2.85,Sangat Pendek,-3.05,Gizi Baik,-1.66,Saverely Stunting
+P,3,49,44,10.3,86,Sangat Kurang,-3.18,Sangat Pendek,-3.52,Gizi Baik,-1.41,Saverely Stunting
+P,3,49,44,11.3,87.1,Kurang,-2.38,Sangat Pendek,-3.19,Gizi Baik,-0.61,Saverely Stunting
+L,3,50,44,11.6,91,Kurang,-2.5,Pendek,-2.56,Gizi Baik,-1.57,Stunting
+P,3,49,44,11.7,90.5,Kurang,-2.13,Pendek,-2.42,Gizi Baik,-1,Stunting
+L,3,50,44,12.5,90,Berat Badan Normal,-1.87,Pendek,-2.78,Gizi Baik,-0.38,Stunting
+L,3,50,44,12.5,90,Berat Badan Normal,-1.87,Pendek,-2.79,Gizi Baik,-0.38,Stunting
+P,3,48,44,12,92,Berat Badan Normal,-1.9,Pendek,-2.02,Gizi Baik,-1.04,Stunting
+P,3,50,44,13,90,Berat Badan Normal,-1.34,Pendek,-2.61,Gizi Baik,0.31,Stunting
+L,3,50,44,11.8,90,Kurang,-2.3,Pendek,-2.73,Gizi Baik,-1.11,Stunting
+L,3,50,44,10,82.3,Sangat Kurang,-3.63,Sangat Pendek,-4.68,Gizi Baik,-1.22,Saverely Stunting
+L,2.5,47,44,10.9,92.9,Kurang,-2.99,Pendek,-2.06,Gizi Kurang,-2.83,Stunting
+L,2.9,48,44,12,92,Kurang,-2.17,Pendek,-2.24,Gizi Baik,-1.36,Stunting
+L,2.9,48,44,12.8,92.5,Berat Badan Normal,-1.71,Pendek,-2.22,Gizi Baik,-0.64,Stunting
+L,2.9,48,44,12.9,92.4,Berat Badan Normal,-1.58,Pendek,-2.14,Gizi Baik,-0.52,Stunting
+P,3.5,50,44,11.8,90.1,Kurang,-2.07,Pendek,-2.53,Gizi Baik,-0.81,Stunting
+L,2.7,46,44,10.5,88.5,Sangat Kurang,-3.29,Sangat Pendek,-3.18,Gizi Kurang,-2.26,Saverely Stunting
+L,3.1,49.1,44,13.3,93,Berat Badan Normal,-1.36,Pendek,-2.04,Gizi Baik,-0.27,Stunting
+P,2.7,45,44,12,90,Berat Badan Normal,-1.9,Pendek,-2.5,Gizi Baik,-0.59,Stunting
+L,0,0,44,13,91,Berat Badan Normal,-1.56,Pendek,-2.55,Gizi Baik,-0.12,Stunting
+P,2.9,48,44,11.2,90,Kurang,-2.47,Pendek,-2.51,Gizi Baik,-1.39,Stunting
+P,2.8,49,44,11.9,89.6,Berat Badan Normal,-1.99,Pendek,-2.59,Gizi Baik,-0.65,Stunting
+P,2.6,48,44,9.8,88.5,Sangat Kurang,-3.56,Pendek,-2.95,Gizi Kurang,-2.64,Stunting
+P,3,50,44,11.9,89.7,Berat Badan Normal,-1.99,Pendek,-2.61,Gizi Baik,-0.62,Stunting
+P,2.9,48,44,11.6,89.3,Kurang,-2.19,Pendek,-2.7,Gizi Baik,-0.83,Stunting
+L,3,50,44,14,92,Berat Badan Normal,-0.99,Pendek,-2.35,Gizi Baik,0.58,Stunting
+L,3.2,50,44,13.4,92,Berat Badan Normal,-1.27,Pendek,-2.25,Gizi Baik,0.04,Stunting
+L,3.2,49,44,11.2,92,Kurang,-2.8,Pendek,-2.35,Gizi Kurang,-2.26,Stunting
+P,1.8,40,44,9.8,89.5,Sangat Kurang,-3.56,Pendek,-2.73,Gizi Kurang,-2.89,Stunting
+L,3.4,48,44,13.2,91.8,Berat Badan Normal,-1.42,Pendek,-2.34,Gizi Baik,-0.1,Stunting
+L,3.2,50,44,12,92,Kurang,-2.21,Pendek,-2.3,Gizi Baik,-1.36,Stunting
+P,3,50,44,10.1,86.8,Sangat Kurang,-3.29,Sangat Pendek,-3.28,Gizi Baik,-1.85,Saverely Stunting
+L,2.5,47,44,11.8,89,Kurang,-2.35,Sangat Pendek,-3.05,Gizi Baik,-0.87,Saverely Stunting
+P,3.3,49,44,12.5,90,Berat Badan Normal,-1.6,Pendek,-2.54,Gizi Baik,-0.13,Stunting
+L,4,50,44,13,91,Berat Badan Normal,-1.52,Pendek,-2.5,Gizi Baik,-0.12,Stunting
+P,3,47,44,13.1,92,Berat Badan Normal,-1.24,Pendek,-2.07,Gizi Baik,-0.04,Stunting
+P,3.6,49,44,11.8,91.9,Kurang,-2.05,Pendek,-2.06,Gizi Baik,-1.21,Stunting
+P,3,50,44,14,90,Berat Badan Normal,-0.77,Pendek,-2.6,Risiko Gizi Lebih,1.12,Stunting
+L,3,50,44,12.2,91,Kurang,-2.05,Pendek,-2.51,Gizi Baik,-0.92,Stunting
+L,2.8,47,44,11.2,87.2,Kurang,-2.75,Sangat Pendek,-3.44,Gizi Baik,-1.09,Saverely Stunting
+P,2.7,46,45,11.8,91.8,Kurang,-2.16,Pendek,-2.26,Gizi Baik,-1.19,Stunting
+P,2.8,48,45,11.4,90,Kurang,-2.45,Pendek,-2.71,Gizi Baik,-1.19,Stunting
+L,2,47,45,11.6,93,Kurang,-2.53,Pendek,-2.3,Gizi Baik,-1.87,Stunting
+P,3.1,48,45,11.3,91.4,Kurang,-2.48,Pendek,-2.31,Gizi Baik,-1.61,Stunting
+L,2.9,49,45,12.4,92.4,Berat Badan Normal,-1.98,Pendek,-2.26,Gizi Baik,-1.02,Stunting
+P,3,50,45,13,89,Berat Badan Normal,-1.41,Pendek,-2.95,Gizi Baik,0.53,Stunting
+P,2.8,49,45,12.4,92,Berat Badan Normal,-1.73,Pendek,-2.16,Gizi Baik,-0.66,Stunting
+L,3.3,50,45,11.7,92.3,Kurang,-2.46,Pendek,-2.3,Gizi Baik,-1.75,Stunting
+P,3,49,45,12,91,Kurang,-2.02,Pendek,-2.44,Gizi Baik,-0.82,Stunting
+L,3,49,45,14.5,91.9,Berat Badan Normal,-0.73,Pendek,-2.41,Risiko Gizi Lebih,01.03,Stunting
+L,3,49,45,11.9,93.3,Kurang,-2.36,Pendek,-2.11,Gizi Baik,-1.76,Stunting
+L,3,50,45,12.8,89.2,Berat Badan Normal,-1.76,Sangat Pendek,-3.1,Gizi Baik,0.1,Saverely Stunting
+P,2.9,48,45,12.4,87,Berat Badan Normal,-1.77,Sangat Pendek,-3.41,Gizi Baik,0.46,Saverely Stunting
+L,3.5,50,45,11.3,87.5,Kurang,-2.8,Sangat Pendek,-3.56,Gizi Baik,-1.05,Saverely Stunting
+P,0,0,45,10.4,90,Sangat Kurang,-3.14,Pendek,-2.62,Gizi Kurang,-2.28,Stunting
+L,3,50,45,12.4,93,Kurang,-2.02,Pendek,-2.19,Gizi Baik,-1.16,Stunting
+P,3,50,45,15.3,91,Berat Badan Normal,-0.18,Pendek,-2.48,Risiko Gizi Lebih,1.86,Stunting
+P,3,50,45,10,90,Sangat Kurang,-3.45,Pendek,-2.66,Gizi Kurang,-2.76,Stunting
+P,2.6,45,45,11,84,Kurang,-2.74,Sangat Pendek,-4.12,Gizi Baik,-0.15,Saverely Stunting
+L,3,49,45,11.6,92.9,Kurang,-2.58,Pendek,-2.23,Gizi Baik,-2,Stunting
+L,3.4,48.2,45,11.4,92.5,Kurang,-2.7,Pendek,-2.29,Gizi Kurang,-2.14,Stunting
+P,2.9,48,45,13.3,92,Berat Badan Normal,-1.24,Pendek,-2.25,Gizi Baik,0.13,Stunting
+L,3,50,45,11.5,90.7,Kurang,-2.64,Pendek,-2.76,Gizi Baik,-1.61,Stunting
+L,3,47,45,12.2,93.3,Kurang,-2.17,Pendek,-2.13,Gizi Baik,-1.43,Stunting
+L,3,50,45,11.8,92,Kurang,-2.41,Pendek,-2.41,Gizi Baik,-1.58,Stunting
+P,2.8,49,45,11.3,89.1,Kurang,-2.48,Pendek,-2.85,Gizi Baik,-1.08,Stunting
+L,2.4,45,45,11.8,93,Kurang,-2.4,Pendek,-2.14,Gizi Baik,-1.8,Stunting
+L,2.6,48,45,11.4,90.1,Kurang,-2.74,Pendek,-2.94,Gizi Baik,-1.58,Stunting
+L,3,50,45,12,91.2,Kurang,-2.25,Pendek,-2.57,Gizi Baik,-1.18,Stunting
+L,3.1,48,45,11.7,91.5,Kurang,-2.45,Pendek,-2.48,Gizi Baik,-1.57,Stunting
+L,3,48,45,11.7,92.3,Kurang,-2.45,Pendek,-2.29,Gizi Baik,-1.75,Stunting
+L,2.8,48,45,12,89.9,Kurang,-2.28,Pendek,-2.92,Gizi Baik,-0.87,Stunting
+L,2.8,47,45,11.9,92,Kurang,-2.32,Pendek,-2.38,Gizi Baik,-1.47,Stunting
+P,2.8,48,45,11.6,89.7,Kurang,-2.31,Pendek,-2.78,Gizi Baik,-0.92,Stunting
+L,2.95,49.5,45,11.5,93,Kurang,-2.63,Pendek,-2.18,Gizi Kurang,-2.14,Stunting
+P,3.3,48,45,10.8,90.4,Kurang,-2.85,Pendek,-2.71,Gizi Baik,-1.76,Stunting
+L,3.4,52,45,13,93,Berat Badan Normal,-1.6,Pendek,-2.12,Gizi Baik,-0.55,Stunting
+L,2.5,46,45,11.4,88.6,Kurang,-2.71,Sangat Pendek,-3.26,Gizi Baik,-1.22,Saverely Stunting
+P,1.9,49,45,11.5,87,Kurang,-2.36,Sangat Pendek,-3.39,Gizi Baik,-0.38,Saverely Stunting
+P,2.8,51,45,10.3,87,Sangat Kurang,-3.26,Sangat Pendek,-3.42,Gizi Baik,-1.67,Saverely Stunting
+P,3.5,48,45,12.3,90,Berat Badan Normal,-1.82,Pendek,-2.68,Gizi Baik,-0.31,Stunting
+L,2.4,43,45,11.9,91.7,Kurang,-2.36,Pendek,-2.5,Gizi Baik,-1.4,Stunting
+L,2.8,46,45,12.5,92.8,Berat Badan Normal,-1.96,Pendek,-2.24,Gizi Baik,-1.01,Stunting
+L,2.9,47,45,11,91.5,Sangat Kurang,-3.01,Pendek,-2.56,Gizi Kurang,-2.38,Stunting
+L,4,50,45,10,88,Sangat Kurang,-3.68,Sangat Pendek,-3.36,Gizi Kurang,-2.78,Saverely Stunting
+L,1.7,39,45,10.2,88,Sangat Kurang,-3.56,Sangat Pendek,-3.4,Gizi Kurang,-2.52,Saverely Stunting
+L,3,48,45,11.7,83,Kurang,-2.48,Sangat Pendek,-4.6,Gizi Baik,0.53,Saverely Stunting
+L,3,47,48,12.5,93.1,Kurang,-2.21,Pendek,-2.54,Gizi Baik,-1.08,Stunting
+L,2.6,48,48,11.5,91.8,Kurang,-2.85,Pendek,-2.81,Gizi Baik,-1.87,Stunting
+L,3.2,49,48,11.3,92.2,Kurang,-3,Pendek,-2.67,Gizi Kurang,-2.25,Stunting
+P,1.8,45,48,11.1,89,Kurang,-2.91,Sangat Pendek,-3.29,Gizi Baik,-1.27,Saverely Stunting
+P,2.8,48,48,10.5,88,Sangat Kurang,-3.27,Sangat Pendek,-3.43,Gizi Baik,-1.68,Saverely Stunting
+P,2.9,49.8,48,12.3,92.9,Kurang,-2.04,Pendek,-2.32,Gizi Baik,-0.94,Stunting
+P,2.8,49,48,14.5,93.5,Berat Badan Normal,-0.81,Pendek,-2.23,Gizi Baik,0.78,Stunting
+P,3.2,51,48,14,93,Berat Badan Normal,-1.08,Pendek,-2.36,Gizi Baik,0.49,Stunting
+P,2.5,48,48,13.5,93.5,Berat Badan Normal,-1.35,Pendek,-2.23,Gizi Baik,-0.01,Stunting
+L,0,0,48,10.5,90.5,Sangat Kurang,-3.52,Sangat Pendek,-3.09,Gizi Kurang,-2.77,Saverely Stunting
+L,3,50,48,11.9,88.4,Kurang,-2.57,Sangat Pendek,-3.62,Gizi Baik,-0.62,Saverely Stunting
+L,3,50,48,13,85,Berat Badan Normal,-1.86,Sangat Pendek,-4.43,Risiko Gizi Lebih,1.3,Saverely Stunting
+P,3.2,50,48,14,87,Berat Badan Normal,-1.03,Sangat Pendek,-3.67,Risiko Gizi Lebih,1.77,Saverely Stunting
+L,2.8,51,48,13,90,Berat Badan Normal,-1.86,Sangat Pendek,-3.23,Gizi Baik,0.11,Saverely Stunting
+P,2.8,48,48,11.2,89.7,Kurang,-2.78,Sangat Pendek,-3.05,Gizi Baik,-1.33,Saverely Stunting
+L,0,0,48,12.1,94.4,Kurang,-2.42,Pendek,-2.16,Gizi Baik,-1.78,Stunting
+L,2.8,48,48,11.5,94,Kurang,-2.82,Pendek,-2.24,Gizi Kurang,-2.36,Stunting
+L,2.9,44,48,13.7,94,Berat Badan Normal,-1.41,Pendek,-2.24,Gizi Baik,-0.11,Stunting
+P,3.2,48,48,11.5,92.5,Kurang,-2.61,Pendek,-2.46,Gizi Baik,-1.64,Stunting
+L,3.2,50,48,12.9,88,Berat Badan Normal,-1.92,Sangat Pendek,-3.71,Gizi Baik,0.48,Saverely Stunting
+L,1.77,0,48,12.6,95,Kurang,-2.14,Pendek,-2.09,Gizi Baik,-1.39,Stunting
+L,3,50,48,12,94.2,Kurang,-2.49,Pendek,-2.22,Gizi Baik,-1.85,Stunting
+L,4.3,48,48,13.3,93.5,Berat Badan Normal,-1.66,Pendek,-2.38,Gizi Baik,-0.37,Stunting
+L,0,0,48,14.4,94,Berat Badan Normal,-1.03,Pendek,-2.27,Gizi Baik,0.51,Stunting
+L,3.4,52,48,15,94,Berat Badan Normal,-0.75,Pendek,-2.32,Gizi Baik,1,Stunting
+P,3,50,48,12.3,93,Kurang,-2.06,Pendek,-2.33,Gizi Baik,-0.96,Stunting
+L,3.2,50,48,11.9,94,Kurang,-2.58,Pendek,-2.29,Gizi Baik,-1.91,Stunting
+L,2.8,48,48,11.1,90,Sangat Kurang,-3.13,Sangat Pendek,-3.23,Gizi Baik,-1.91,Saverely Stunting
+L,3.2,50,48,11.5,89.5,Kurang,-2.87,Sangat Pendek,-3.39,Gizi Baik,-1.33,Saverely Stunting
+L,3.1,50,48,12.1,90.5,Kurang,-2.4,Sangat Pendek,-3.07,Gizi Baik,-0.91,Saverely Stunting
+P,3,50,48,13.7,93.7,Berat Badan Normal,-1.19,Pendek,-2.11,Gizi Baik,0.11,Stunting
+P,3,48,48,12.8,94.5,Berat Badan Normal,-1.77,Pendek,-2.01,Gizi Baik,-0.82,Stunting
+P,3.4,50,48,13.4,91.6,Berat Badan Normal,-1.38,Pendek,-2.63,Gizi Baik,0.3,Stunting
+P,2.9,49,48,14.2,92,Berat Badan Normal,-0.96,Pendek,-2.56,Gizi Baik,0.85,Stunting
+L,3.6,52,48,13.1,88.5,Berat Badan Normal,-1.79,Sangat Pendek,-3.58,Gizi Baik,0.55,Saverely Stunting
+L,3.8,50,49,13,100,Kurang,-2.61,Pendek,-2.15,Gizi Kurang,-2.09,Stunting
+P,0,0,49,11.4,92.2,Kurang,-2.71,Pendek,-2.57,Gizi Baik,-1.68,Stunting
+L,2.3,46,49,14,95,Berat Badan Normal,-1.31,Pendek,-2.11,Gizi Baik,-0.05,Stunting
+L,3,48,49,14,96,Berat Badan Normal,-1.97,Pendek,-2.91,Gizi Baik,-0.27,Stunting
+L,3.8,50,49,12.7,98,Kurang,-2.72,Pendek,-2.45,Gizi Baik,-1.94,Stunting
+L,3,49,49,13.4,93,Berat Badan Normal,-1.66,Pendek,-2.58,Gizi Baik,-0.17,Stunting
+P,0,0,49,13.7,97,Berat Badan Normal,-1.95,Pendek,-2.47,Gizi Baik,-0.6,Stunting
+P,3.5,48,49,12.7,94.9,Kurang,-2.54,Pendek,-2.97,Gizi Baik,-1,Stunting
+L,3,50,49,13.2,96.8,Kurang,-2.39,Pendek,-2.67,Gizi Baik,-1.18,Stunting
+L,3,50,49,12.6,96.1,Kurang,-2.8,Pendek,-2.89,Gizi Baik,-1.63,Stunting
+P,3,50,49,13.2,95,Kurang,-2.18,Pendek,-2.85,Gizi Baik,-0.57,Stunting
+L,3.5,50,49,13.3,97,Kurang,-2.27,Pendek,-2.53,Gizi Baik,-1.13,Stunting
+L,2.8,48,49,12.6,93.6,Kurang,-2.2,Pendek,-2.52,Gizi Baik,-1.08,Stunting
+L,2.8,48,49,13,95,Berat Badan Normal,-1.94,Pendek,-2.18,Gizi Baik,-0.99,Stunting
+L,3.1,49,49,12,90,Kurang,-2.59,Sangat Pendek,-3.53,Gizi Baik,-0.73,Saverely Stunting
+L,3,50,49,12.2,93,Sangat Kurang,-3.04,Sangat Pendek,-3.56,Gizi Baik,-1.37,Saverely Stunting
+L,3,50,49,13,94.4,Kurang,-2.61,Sangat Pendek,-3.35,Gizi Baik,-0.86,Saverely Stunting
+P,3,50,49,12.2,93.9,Kurang,-2.85,Sangat Pendek,-3.18,Gizi Baik,-1.25,Saverely Stunting
+L,2.2,0,49,13.7,98.6,Kurang,-2.09,Pendek,-2.27,Gizi Baik,-1.11,Stunting
+P,2.8,0,49,12.5,97.4,Kurang,-2.67,Pendek,-2.46,Gizi Baik,-1.7,Stunting
+L,2.8,49,49,15,95,Berat Badan Normal,-0.76,Pendek,-2.11,Gizi Baik,0.79,Stunting
+L,3.2,53,49,14,92,Berat Badan Normal,-1.32,Pendek,-2.84,Gizi Baik,0.58,Stunting
+L,2.9,52,49,14.5,95.2,Berat Badan Normal,-1.09,Pendek,-2.16,Gizi Baik,0.34,Stunting
+P,2.7,47,49,13.7,98,Berat Badan Normal,-1.95,Pendek,-2.29,Gizi Baik,-0.77,Stunting
+P,3,50,49,13,98.1,Kurang,-2.34,Pendek,-2.26,Gizi Baik,-1.39,Stunting
+L,3.4,48,49,12.6,94.5,Kurang,-2.15,Pendek,-2.23,Gizi Baik,-1.28,Stunting
+P,8,50,49,13.2,93,Berat Badan Normal,-1.61,Pendek,-2.48,Gizi Baik,-0.16,Stunting
+P,3,50,49,13,96,Kurang,-2.36,Pendek,-2.74,Gizi Baik,-0.96,Stunting
+L,2.8,51,49,12.7,86.4,Kurang,-2.72,Sangat Pendek,-4.99,Gizi Baik,0.68,Saverely Stunting
+P,3,50,49,13.1,92.5,Kurang,-2.31,Sangat Pendek,-3.49,Gizi Baik,-0.14,Saverely Stunting
+L,3,49,49,15.5,98,Berat Badan Normal,-1.22,Pendek,-2.52,Gizi Baik,0.55,Stunting
+L,3.8,50,49,13,99.7,Kurang,-2.56,Pendek,-2.13,Gizi Kurang,-2.02,Stunting
+P,3,,49,12.2,93.9,Kurang,-2.19,Pendek,-2.22,Gizi Baik,-1.25,Stunting
+L,0,0,49,15,99.3,Berat Badan Normal,-1.4,Pendek,-2.13,Gizi Baik,-0.13,Stunting
+P,3.2,0,49,12.5,94,Berat Badan Normal,-1.97,Pendek,-2.16,Gizi Baik,-0.99,Stunting
+P,2.2,46,49,12.1,93,Kurang,-2.24,Pendek,-2.4,Gizi Baik,-1.15,Stunting
+P,2.9,0,49,12.1,92.8,Kurang,-2.26,Pendek,-2.48,Gizi Baik,-1.11,Stunting
+L,3.1,48,49,13,94.5,Berat Badan Normal,-1.91,Pendek,-2.24,Gizi Baik,-0.88,Stunting
+P,3,50,49,11.7,92.9,Kurang,-2.51,Pendek,-2.44,Gizi Baik,-1.53,Stunting
+L,3,50,49,14.5,95,Berat Badan Normal,-1.06,Pendek,-2.16,Gizi Baik,0.38,Stunting
+P,3.2,50,49,12,93.7,Kurang,-2.3,Pendek,-2.24,Gizi Baik,-1.4,Stunting
+L,3.1,0,49,12.5,98,Kurang,-2.85,Pendek,-2.47,Gizi Kurang,-2.15,Stunting
+L,3,50,49,13,93.8,Berat Badan Normal,-1.9,Pendek,-2.4,Gizi Baik,-0.73,Stunting
+L,0,0,49,15,100,Berat Badan Normal,-1.5,Pendek,-2.14,Gizi Baik,-0.29,Stunting
+L,3,50,49,15,100,Berat Badan Normal,-1.48,Pendek,-2.1,Gizi Baik,-0.29,Stunting
+L,2.8,50,49,15,100,Berat Badan Normal,-1.49,Pendek,-2.12,Gizi Baik,-0.29,Stunting
+L,3,48,49,15,100,Berat Badan Normal,-1.49,Pendek,-2.13,Gizi Baik,-0.29,Stunting
+P,2.5,0,49,12.7,95,Kurang,-2.57,Pendek,-2.99,Gizi Baik,-1.02,Stunting
+P,3,0,49,11.4,91,Sangat Kurang,-3.34,Sangat Pendek,-3.8,Gizi Baik,-1.41,Saverely Stunting
+P,2.8,50,49,11.6,85.7,Kurang,-2.61,Sangat Pendek,-4.12,Gizi Baik,0.03,Saverely Stunting
+L,3,50,49,15.9,91,Berat Badan Normal,-1.02,Sangat Pendek,-4.03,Gizi Lebih,2.31,Saverely Stunting
+P,1.6,0,49,12,93,Kurang,-2.32,Pendek,-2.43,Gizi Baik,-1.25,Stunting
+L,3,50,49,12.5,93.1,Kurang,-2.24,Pendek,-2.59,Gizi Baik,-1.08,Stunting
+L,2.6,42,49,12.3,92.7,Kurang,-2.36,Pendek,-2.68,Gizi Baik,-1.2,Stunting
+L,2.7,50,49,13.5,95.8,Berat Badan Normal,-1.66,Pendek,-2.02,Gizi Baik,-0.68,Stunting
+P,3,50,49,12.3,91.5,Kurang,-2.18,Pendek,-2.8,Gizi Baik,-0.69,Stunting
+L,2.7,48,49,12.1,93.2,Kurang,-2.5,Pendek,-2.57,Gizi Baik,-1.52,Stunting
+L,3,49,49,12.5,92.1,Kurang,-2.26,Pendek,-2.86,Gizi Baik,-0.86,Stunting
+P,2.6,47,49,11.3,92.8,Kurang,-2.79,Pendek,-2.46,Gizi Baik,-1.92,Stunting
+L,3,50,49,13,93.5,Berat Badan Normal,-1.9,Pendek,-2.47,Gizi Baik,-0.66,Stunting
+P,0,0,49,11.9,97.4,Kurang,-2.98,Pendek,-2.35,Gizi Kurang,-2.28,Stunting
+L,2.2,0,49,12,94.4,Kurang,-2.58,Pendek,-2.31,Gizi Baik,-1.89,Stunting
+L,2.5,0,49,13.2,99.9,Kurang,-2.46,Pendek,-2.12,Gizi Baik,-1.87,Stunting
+P,2.9,0,49,12,92.3,Kurang,-2.36,Pendek,-2.64,Gizi Baik,-1.1,Stunting
+L,3,,49,13.2,93.5,Berat Badan Normal,-1.79,Pendek,-2.49,Gizi Baik,-0.47,Stunting
+P,0,0,49,12,96,Kurang,-2.92,Pendek,-2.66,Gizi Baik,-1.89,Stunting
+L,3.2,0,49,14.5,98,Berat Badan Normal,-1.76,Pendek,-2.57,Gizi Baik,-0.26,Stunting
+L,2.75,48,49,11.7,94,Sangat Kurang,-3.31,Sangat Pendek,-3.3,Gizi Kurang,-2.13,Saverely Stunting
+L,2.8,48.2,49,11.4,89,Kurang,-2.97,Sangat Pendek,-3.54,Gizi Baik,-1.32,Saverely Stunting
+L,2.1,47,49,10.5,85,Sangat Kurang,-3.56,Sangat Pendek,-4.63,Gizi Baik,-1.13,Saverely Stunting
+L,2.5,0,49,11.5,94.6,Sangat Kurang,-3.49,Sangat Pendek,-3.27,Gizi Kurang,-2.5,Saverely Stunting
+L,2.98,49.5,49,12.9,92,Kurang,-2.57,Sangat Pendek,-3.72,Gizi Baik,-0.43,Saverely Stunting
+L,3.2,50,49,12,90,Kurang,-2.56,Sangat Pendek,-3.31,Gizi Baik,-0.9,Saverely Stunting
+L,3,0,49,14.2,98,Berat Badan Normal,-1.91,Pendek,-2.56,Gizi Baik,-0.52,Stunting
+L,3,0,49,14.6,98.5,Berat Badan Normal,-1.66,Pendek,-2.39,Gizi Baik,-0.29,Stunting
+L,4,50,49,12,95,Sangat Kurang,-3.14,Sangat Pendek,-3.1,Gizi Kurang,-2.02,Saverely Stunting
+P,3,50,50,12.8,92,Berat Badan Normal,-1.9,Pendek,-2.78,Gizi Baik,-0.3,Stunting
+L,3.2,50,50,14,95,Berat Badan Normal,-1.4,Pendek,-2.26,Gizi Baik,-0.05,Stunting
+P,2.6,47,50,11.6,94,Kurang,-2.65,Pendek,-2.28,Gizi Baik,-1.86,Stunting
+L,3,48,50,16.9,96,Berat Badan Normal,0.04,Pendek,-2.07,Risiko Gizi Lebih,2,Stunting
+L,2.9,47,50,11.7,93,Kurang,-2.84,Pendek,-2.72,Gizi Baik,-1.91,Stunting
+L,2.7,49,50,12.6,95.4,Kurang,-2.22,Pendek,-2.13,Gizi Baik,-1.47,Stunting
+L,3,50,50,11,94.3,Sangat Kurang,-3.32,Pendek,-2.44,Gizi Buruk,-3.02,Stunting
+L,3,49,50,13.6,95,Berat Badan Normal,-1.68,Pendek,-2.32,Gizi Baik,-0.42,Stunting
+P,2.5,48,50,13,95,Berat Badan Normal,-1.74,Pendek,-2.03,Gizi Baik,-0.75,Stunting
+L,3,50,50,15.2,94,Berat Badan Normal,-0.77,Pendek,-2.51,Risiko Gizi Lebih,1.16,Stunting
+P,2.8,,50,13,92.5,Berat Badan Normal,-1.75,Pendek,-2.63,Gizi Baik,-0.23,Stunting
+P,2.5,48,50,11.5,91.9,Kurang,-2.72,Pendek,-2.77,Gizi Baik,-1.51,Stunting
+L,3.2,48,50,13,94.5,Berat Badan Normal,-1.98,Pendek,-2.35,Gizi Baik,-0.88,Stunting
+L,4,50,50,12.8,95,Kurang,-2.15,Pendek,-2.31,Gizi Baik,-1.18,Stunting
+P,2.8,50,50,11.2,83,Kurang,-2.97,Sangat Pendek,-4.83,Gizi Baik,0.3,Saverely Stunting
+L,0,0,50,13,93,Berat Badan Normal,-2,Pendek,-2.73,Gizi Baik,-0.55,Stunting
+P,3.4,48,50,17.1,92,Berat Badan Normal,0.22,Pendek,-2.79,Gizi Lebih,2.8,Stunting
+P,2.8,0,50,13.6,93,Berat Badan Normal,-1.43,Pendek,-2.54,Gizi Baik,0.17,Stunting
+L,3,0,50,12.7,93,Kurang,-2.22,Pendek,-2.78,Gizi Baik,-0.85,Stunting
+L,2.5,47,50,10,93.5,Sangat Kurang,-3.96,Pendek,-2.59,Gizi Buruk,-4.03,Stunting
+L,3,49,50,12.5,93.9,Kurang,-2.3,Pendek,-2.51,Gizi Baik,-1.25,Stunting
+P,2.4,46,50,12,93,Kurang,-2.37,Pendek,-2.51,Gizi Baik,-1.25,Stunting
+P,2.4,46,50,12,92.7,Kurang,-2.37,Pendek,-2.57,Gizi Baik,-1.19,Stunting
+L,2.5,47,50,12.4,93.2,Kurang,-2.34,Pendek,-2.64,Gizi Baik,-1.2,Stunting
+L,2.7,0,50,13.7,95,Berat Badan Normal,-1.58,Pendek,-2.26,Gizi Baik,-0.32,Stunting
+L,2.5,0,50,12,94,Kurang,-2.66,Pendek,-2.52,Gizi Baik,-1.8,Stunting
+L,3,48,50,14,93.8,Berat Badan Normal,-1.43,Pendek,-2.58,Gizi Baik,0.2,Stunting
+L,3.2,50,50,13,96,Kurang,-2.03,Pendek,-2.08,Gizi Baik,-1.2,Stunting
+L,3,50,50,12.5,95,Kurang,-2.29,Pendek,-2.23,Gizi Baik,-1.49,Stunting
+P,4,50,50,12.8,94,Berat Badan Normal,-1.9,Pendek,-2.32,Gizi Baik,-0.72,Stunting
+P,4,50,50,12.8,93.2,Berat Badan Normal,-1.89,Pendek,-2.5,Gizi Baik,-0.55,Stunting
+L,4,50,50,13,94.6,Berat Badan Normal,-1.99,Pendek,-2.34,Gizi Baik,-0.9,Stunting
+P,2.9,49,50,16.3,95,Berat Badan Normal,-0.08,Pendek,-2.06,Risiko Gizi Lebih,1.73,Stunting
+L,3,50,50,12.5,94,Kurang,-2.3,Pendek,-2.47,Gizi Baik,-1.27,Stunting
+L,2.6,50,50,12.1,92,Kurang,-2.61,Sangat Pendek,-3.02,Gizi Baik,-1.25,Saverely Stunting
+L,4,50,51,10.9,95,Sangat Kurang,-3.45,Pendek,-2.39,Gizi Buruk,-3.28,Stunting
+P,3,48,51,10.5,93,Sangat Kurang,-3.46,Pendek,-2.61,Gizi Kurang,-2.85,Stunting
+P,3,49,51,11.4,93,Kurang,-2.88,Pendek,-2.65,Gizi Baik,-1.86,Stunting
+P,3.3,49,51,12,94.7,Kurang,-2.47,Pendek,-2.26,Gizi Baik,-1.61,Stunting
+P,2.8,47,51,12,91.8,Kurang,-2.5,Pendek,-2.97,Gizi Baik,-0.99,Stunting
+L,2.8,48,51,12.9,94.2,Kurang,-2.16,Pendek,-2.56,Gizi Baik,-0.96,Stunting
+P,3,49,51,11.2,92.3,Sangat Kurang,-3.01,Pendek,-2.79,Gizi Baik,-1.91,Stunting
+L,3,49,51,14,95.5,Berat Badan Normal,-1.49,Pendek,-2.27,Gizi Baik,-0.16,Stunting
+L,3.3,50,51,12.4,93.5,Kurang,-2.44,Pendek,-2.71,Gizi Baik,-1.27,Stunting
+P,2.7,48,51,12.2,89,Kurang,-2.34,Sangat Pendek,-3.55,Gizi Baik,-0.18,Saverely Stunting
+L,2.8,50,51,11.7,96,Kurang,-2.95,Pendek,-2.2,Gizi Kurang,-2.58,Stunting
+P,0,0,51,11.6,92,Kurang,-2.77,Pendek,-2.91,Gizi Baik,-1.43,Stunting
+L,3,0,51,11.3,95,Sangat Kurang,-3.19,Pendek,-2.4,Gizi Kurang,-2.82,Stunting
+L,3.2,52,51,15.2,95,Berat Badan Normal,-0.81,Pendek,-2.34,Gizi Baik,0.95,Stunting
+L,3.1,52,51,15.2,95,Berat Badan Normal,-0.81,Pendek,-2.34,Gizi Baik,0.95,Stunting
+L,2.9,43,51,15,93.1,Berat Badan Normal,-0.91,Pendek,-2.77,Risiko Gizi Lebih,1.19,Stunting
+L,3,50,51,13.1,95.5,Berat Badan Normal,-1.98,Pendek,-2.22,Gizi Baik,-1,Stunting
+P,2.9,50,51,13.3,92,Berat Badan Normal,-1.71,Pendek,-2.92,Gizi Baik,0.13,Stunting
+L,0,0,51,13.5,94.5,Berat Badan Normal,-1.8,Pendek,-2.53,Gizi Baik,-0.4,Stunting
+L,3,50,51,12.2,92.7,Kurang,-2.56,Pendek,-2.88,Gizi Baik,-1.3,Stunting
+P,2.9,48,51,11.7,91.5,Kurang,-2.7,Pendek,-2.98,Gizi Baik,-1.27,Stunting
+P,2,47,51,13.4,93,Berat Badan Normal,-1.61,Pendek,-2.64,Gizi Baik,0.01,Stunting
+L,2.9,48.8,51,12.2,94.5,Kurang,-2.56,Pendek,-2.47,Gizi Baik,-1.7,Stunting
+P,3.5,0,51,10.9,92.2,Sangat Kurang,-3.19,Pendek,-2.79,Gizi Kurang,-2.22,Stunting
+P,3.2,50,51,13.1,95,Berat Badan Normal,-1.8,Pendek,-2.21,Gizi Baik,-0.66,Stunting
+P,3.4,52,51,12.1,95,Kurang,-2.4,Pendek,-2.2,Gizi Baik,-1.58,Stunting
+L,3.2,50,51,11.4,96,Sangat Kurang,-3.11,Pendek,-2.14,Gizi Kurang,-2.92,Stunting
+P,3.3,49,51,13.9,92,Berat Badan Normal,-1.33,Pendek,-2.86,Gizi Baik,0.62,Stunting
+P,3,50,51,13.6,93,Berat Badan Normal,-1.52,Pendek,-2.67,Gizi Baik,0.17,Stunting
+L,3.2,50,51,11.9,90,Kurang,-2.79,Sangat Pendek,-3.55,Gizi Baik,-1.01,Saverely Stunting
+L,4,50,51,11.4,95.1,Sangat Kurang,-3.14,Pendek,-2.41,Gizi Kurang,-2.72,Stunting
+L,3.3,47,51,13,95,Kurang,-2.07,Pendek,-2.38,Gizi Baik,-0.99,Stunting
+L,3,47,51,14.5,95,Berat Badan Normal,-1.24,Pendek,-2.42,Gizi Baik,0.38,Stunting
+L,2.7,48,51,13.5,93,Berat Badan Normal,-1.77,Pendek,-2.84,Gizi Baik,-0.08,Stunting
+P,4,50,51,13.4,89.8,Berat Badan Normal,-1.63,Sangat Pendek,-3.38,Gizi Baik,0.69,Saverely Stunting
+L,4.2,49,51,15.1,91.3,Berat Badan Normal,-0.91,Sangat Pendek,-3.27,Risiko Gizi Lebih,1.64,Saverely Stunting
+L,3.7,50,52,13.7,94,Berat Badan Normal,-1.73,Pendek,-2.73,Gizi Baik,-0.11,Stunting
+P,2.9,49,52,12.5,95,Kurang,-2.2,Pendek,-2.28,Gizi Baik,-1.2,Stunting
+L,3,49,52,12.6,95.2,Kurang,-2.38,Pendek,-2.42,Gizi Baik,-1.43,Stunting
+L,3,48,52,13.1,93,Kurang,-2.08,Pendek,-2.95,Gizi Baik,-0.46,Stunting
+P,3.6,51,52,13.8,92.3,Berat Badan Normal,-1.48,Pendek,-2.94,Gizi Baik,0.48,Stunting
+L,2.9,40,52,12.6,94.6,Kurang,-2.42,Pendek,-2.63,Gizi Baik,-1.3,Stunting
+P,3.1,,52,11.3,93,Kurang,-2.99,Pendek,-2.71,Gizi Baik,-1.96,Stunting
+P,3.7,47,52,11.9,96.1,Kurang,-2.64,Pendek,-2.11,Gizi Kurang,-2.01,Stunting
+P,2.8,50,52,14.5,93.6,Berat Badan Normal,-1.07,Pendek,-2.59,Gizi Baik,0.76,Stunting
+P,2.9,48,52,11.8,93,Kurang,-2.67,Pendek,-2.75,Gizi Baik,-1.45,Stunting
+L,2.9,48,52,11.6,90,Sangat Kurang,-3.04,Sangat Pendek,-3.63,Gizi Baik,-1.33,Saverely Stunting
+L,3.8,50,52,13,90,Kurang,-2.16,Sangat Pendek,-3.67,Gizi Baik,0.11,Saverely Stunting
+P,2.8,48,52,13.2,96,Berat Badan Normal,-1.8,Pendek,-2.09,Gizi Baik,-0.78,Stunting
+P,2.5,45,52,12.1,91,Kurang,-2.46,Sangat Pendek,-3.18,Gizi Baik,-0.72,Saverely Stunting
+P,3.1,50,52,11,90,Sangat Kurang,-3.19,Sangat Pendek,-3.38,Gizi Baik,-1.61,Saverely Stunting
+P,2.9,47,52,11.8,92.5,Kurang,-2.71,Pendek,-2.91,Gizi Baik,-1.34,Stunting
+P,3,49,52,13.1,95.4,Berat Badan Normal,-1.86,Pendek,-2.22,Gizi Baik,-0.74,Stunting
+P,3,50,52,11.5,95,Kurang,-2.88,Pendek,-2.31,Gizi Kurang,-2.18,Stunting
+L,2.9,48,52,11.8,90.4,Kurang,-2.9,Sangat Pendek,-3.52,Gizi Baik,-1.21,Saverely Stunting
+L,0,0,52,13.5,96,Berat Badan Normal,-1.82,Pendek,-2.22,Gizi Baik,-0.72,Stunting
+P,0,0,52,14,96,Berat Badan Normal,-1.37,Pendek,-2.1,Gizi Baik,-0.12,Stunting
+L,2.6,49,52,12.4,93.8,Kurang,-2.5,Pendek,-2.74,Gizi Baik,-1.33,Stunting
+P,3.1,50,52,12,94.6,Kurang,-2.56,Pendek,-2.43,Gizi Baik,-1.59,Stunting
+L,2.6,49,52,12.1,93.2,Kurang,-2.71,Pendek,-2.89,Gizi Baik,-1.52,Stunting
+L,2.8,48,52,12.5,93,Kurang,-2.47,Pendek,-2.97,Gizi Baik,-1.05,Stunting
+L,2.8,48,52,12.5,95,Kurang,-2.47,Pendek,-2.52,Gizi Baik,-1.49,Stunting
+P,3,50,52,12.8,94.2,Kurang,-2.01,Pendek,-2.44,Gizi Baik,-0.76,Stunting
+L,2.6,46,52,13.5,94,Berat Badan Normal,-1.82,Pendek,-2.69,Gizi Baik,-0.29,Stunting
+L,3.2,50,52,11.3,90.5,Sangat Kurang,-3.24,Sangat Pendek,-3.52,Gizi Baik,-1.79,Saverely Stunting
+L,2.9,0,52,11.5,90.4,Sangat Kurang,-3.11,Sangat Pendek,-3.55,Gizi Baik,-1.54,Saverely Stunting
+P,3,50,52,13,92,Berat Badan Normal,-1.94,Sangat Pendek,-3.01,Gizi Baik,-0.12,Saverely Stunting
+P,4,50,52,12,93.8,Kurang,-2.57,Pendek,-2.62,Gizi Baik,-1.42,Stunting
+P,2.3,50,52,13.2,93.5,Berat Badan Normal,-1.83,Pendek,-2.68,Gizi Baik,-0.26,Stunting
+P,3.6,47,52,11.5,93.5,Kurang,-2.87,Pendek,-2.62,Gizi Baik,-1.86,Stunting
+P,3,50,52,13.2,92.5,Berat Badan Normal,-1.83,Pendek,-2.9,Gizi Baik,-0.06,Stunting
+P,3,48,52,13.2,93,Berat Badan Normal,-1.83,Pendek,-2.79,Gizi Baik,-0.16,Stunting
+L,0,0,52,12.6,96,Kurang,-2.39,Pendek,-2.26,Gizi Baik,-1.6,Stunting
+P,3.8,48,52,12.3,90,Kurang,-2.38,Sangat Pendek,-3.47,Gizi Baik,-0.31,Saverely Stunting
+L,3,49,52,11.7,91.3,Kurang,-2.98,Sangat Pendek,-3.33,Gizi Baik,-1.53,Saverely Stunting
+L,0,0,53,11.3,95.5,Sangat Kurang,-3.29,Pendek,-2.47,Gizi Kurang,-2.93,Stunting
+P,3,48,53,12.5,94,Kurang,-2.3,Pendek,-2.65,Gizi Baik,-0.99,Stunting
+P,2.8,48,53,13,96,Berat Badan Normal,-2,Pendek,-2.2,Gizi Baik,-0.96,Stunting
+L,3.1,48,53,14,93.9,Berat Badan Normal,-1.61,Pendek,-2.83,Gizi Baik,0.18,Stunting
+L,2.9,49,53,12.5,95,Kurang,-2.54,Pendek,-2.63,Gizi Baik,-1.49,Stunting
+P,3.1,49,53,13.6,96,Berat Badan Normal,-1.66,Pendek,-2.21,Gizi Baik,-0.44,Stunting
+L,2.3,46,53,12.8,96,Kurang,-2.36,Pendek,-2.41,Gizi Baik,-1.4,Stunting
+L,3,48,53,13.8,97,Berat Badan Normal,-1.7,Pendek,-2.08,Gizi Baik,-0.66,Stunting
+L,3.4,48,53,12.8,95.7,Kurang,-2.34,Pendek,-2.45,Gizi Baik,-1.34,Stunting
+P,3.2,49,53,13.5,91.4,Berat Badan Normal,-1.73,Sangat Pendek,-3.24,Gizi Baik,0.43,Saverely Stunting
+L,3.1,52,53,14.5,95,Berat Badan Normal,-1.32,Pendek,-2.56,Gizi Baik,0.38,Stunting
+L,3,50,53,15,96,Berat Badan Normal,-1.1,Pendek,-2.39,Gizi Baik,0.58,Stunting
+L,2.6,48,53,13,97.2,Kurang,-2.22,Pendek,-2.11,Gizi Baik,-1.46,Stunting
+P,1.4,60,53,15,93,Berat Badan Normal,-0.92,Pendek,-2.86,Risiko Gizi Lebih,1.24,Stunting
+L,3,50,53,12,96,Kurang,-2.82,Pendek,-2.32,Gizi Kurang,-2.24,Stunting
+P,2.3,48,53,11.2,94.2,Sangat Kurang,-3.16,Pendek,-2.61,Gizi Kurang,-2.33,Stunting
+P,3,50,53,12.5,95.6,Kurang,-2.31,Pendek,-2.3,Gizi Baik,-1.33,Stunting
+P,2.2,,53,11.7,89.8,Kurang,-2.82,Sangat Pendek,-3.57,Gizi Baik,-0.84,Saverely Stunting
+L,2,41,53,12.6,96.5,Kurang,-2.48,Pendek,-2.29,Gizi Baik,-1.71,Stunting
+P,0,0,53,11.5,93,Kurang,-2.93,Pendek,-2.83,Gizi Baik,-1.75,Stunting
+L,3,50,53,12.4,93.8,Kurang,-2.57,Pendek,-2.85,Gizi Baik,-1.33,Stunting
+P,3,49,53,13.4,95,Berat Badan Normal,-1.73,Pendek,-2.37,Gizi Baik,-0.4,Stunting
+P,0,0,53,12.5,96,Kurang,-2.31,Pendek,-2.22,Gizi Baik,-1.41,Stunting
+L,2.9,42,53,12.5,97.6,Kurang,-2.54,Pendek,-2.04,Gizi Kurang,-2.06,Stunting
+L,3.4,50,53,13.4,95,Berat Badan Normal,-1.94,Pendek,-2.54,Gizi Baik,-0.6,Stunting
+P,3.4,52,53,12.4,96,Kurang,-2.33,Pendek,-2.15,Gizi Baik,-1.5,Stunting
+P,3.2,50,53,12,93,Kurang,-2.64,Pendek,-2.9,Gizi Baik,-1.25,Stunting
+L,3.4,52,53,11.7,96,Sangat Kurang,-3.03,Pendek,-2.34,Gizi Kurang,-2.58,Stunting
+P,4,50,53,14,95,Berat Badan Normal,-1.4,Pendek,-2.38,Gizi Baik,0.09,Stunting
+P,0,0,53,13.6,95.3,Berat Badan Normal,-1.66,Pendek,-2.37,Gizi Baik,-0.3,Stunting
+L,3,52,53,14,96,Berat Badan Normal,-1.65,Pendek,-2.4,Gizi Baik,-0.27,Stunting
+L,2.8,48,54,12.7,96,Kurang,-2.48,Pendek,-2.51,Gizi Baik,-1.5,Stunting
+L,2.7,48,54,12.6,95,Kurang,-2.52,Pendek,-2.68,Gizi Baik,-1.41,Stunting
+L,3.3,49,54,12.9,96,Kurang,-2.35,Pendek,-2.5,Gizi Baik,-1.3,Stunting
+L,4,49,54,13.6,97,Berat Badan Normal,-1.93,Pendek,-2.26,Gizi Baik,-0.85,Stunting
+P,3.1,49,54,11.3,94.3,Sangat Kurang,-3.14,Pendek,-2.67,Gizi Kurang,-2.24,Stunting
+P,3.8,49.6,54,13.5,95,Berat Badan Normal,-1.76,Pendek,-2.5,Gizi Baik,-0.32,Stunting
+P,3.6,50,54,13.1,96,Berat Badan Normal,-1.98,Pendek,-2.26,Gizi Baik,-0.87,Stunting
+P,3,48,54,11.6,94.2,Kurang,-2.93,Pendek,-2.66,Gizi Baik,-1.91,Stunting
+L,3,49,54,13.8,97.7,Berat Badan Normal,-1.83,Pendek,-2.13,Gizi Baik,-0.82,Stunting
+P,2.7,49,54,12.6,89.5,Kurang,-2.28,Sangat Pendek,-3.69,Gizi Baik,0.07,Saverely Stunting
+L,0,0,54,10.2,89,Sangat Kurang,-4.04,Sangat Pendek,-4.04,Gizi Kurang,-2.78,Saverely Stunting
+P,3,50,54,10.2,91.9,Sangat Kurang,-3.82,Sangat Pendek,-3.16,Gizi Kurang,-2.96,Saverely Stunting
+P,3,49,54,13.5,92,Berat Badan Normal,-1.79,Sangat Pendek,-3.19,Gizi Baik,0.3,Saverely Stunting
+L,3.4,52,54,12.4,97.4,Kurang,-2.64,Pendek,-2.14,Gizi Kurang,-2.12,Stunting
+P,2.7,47,54,12.7,95.6,Kurang,-2.22,Pendek,-2.35,Gizi Baik,-1.14,Stunting
+P,2.8,0,54,12.8,96.6,Kurang,-2.19,Pendek,-2.18,Gizi Baik,-1.26,Stunting
+L,3,50,54,12.8,96.5,Kurang,-2.37,Pendek,-2.32,Gizi Baik,-1.51,Stunting
+L,3,50,54,13.1,95.1,Kurang,-2.23,Pendek,-2.71,Gizi Baik,-0.91,Stunting
+P,3,50,54,9.5,87,Sangat Kurang,-4.27,Sangat Pendek,-4.25,Gizi Kurang,-2.64,Saverely Stunting
+P,2.5,46,54,12.9,93,Kurang,-2.12,Pendek,-2.96,Gizi Baik,-0.42,Stunting
+P,0,0,54,13.7,96,Berat Badan Normal,-1.68,Pendek,-2.32,Gizi Baik,-0.36,Stunting
+P,3.2,49,54,11.8,95,Kurang,-2.79,Pendek,-2.47,Gizi Baik,-1.88,Stunting
+P,2.8,49,54,12.3,96.6,Kurang,-2.5,Pendek,-2.19,Gizi Baik,-1.72,Stunting
+L,3,50,54,11.6,95,Sangat Kurang,-3.14,Pendek,-2.65,Gizi Kurang,-2.47,Stunting
+P,3,50,54,12.5,96,Kurang,-2.38,Pendek,-2.33,Gizi Baik,-1.41,Stunting
+P,3,50,54,12.6,96.5,Kurang,-2.3,Pendek,-2.18,Gizi Baik,-1.42,Stunting
+P,3,50,54,12.9,97,Kurang,-2.12,Pendek,-2.08,Gizi Baik,-1.25,Stunting
+L,2.85,48.2,54,12,97.6,Kurang,-2.89,Pendek,-2.07,Gizi Kurang,-2.6,Stunting
+L,3,52,54,12.7,96,Kurang,-2.46,Pendek,-2.48,Gizi Baik,-1.5,Stunting
+P,3,50,54,13.9,97,Berat Badan Normal,-1.56,Pendek,-2.08,Gizi Baik,-0.4,Stunting
+P,2,45,54,13.3,94.6,Berat Badan Normal,-1.89,Pendek,-2.61,Gizi Baik,-0.41,Stunting
+P,3.1,0,54,11.7,90.5,Kurang,-2.88,Sangat Pendek,-3.51,Gizi Baik,-1,Saverely Stunting
+L,3.1,0,54,11.6,92.4,Sangat Kurang,-3.16,Sangat Pendek,-3.27,Gizi Baik,-1.89,Saverely Stunting
+L,2.9,50,54,12.5,97,Kurang,-2.56,Pendek,-2.21,Gizi Baik,-1.93,Stunting
+L,2.8,51,54,13,98,Kurang,-2.27,Pendek,-2.02,Gizi Baik,-1.64,Stunting
+P,3.2,50,54,12,97,Kurang,-2.68,Pendek,-2.08,Gizi Kurang,-2.1,Stunting
+P,2.7,49,55,13,94,Kurang,-2.15,Pendek,-2.86,Gizi Baik,-0.54,Stunting
+L,3.1,50,55,13,98,Kurang,-2.32,Pendek,-2.11,Gizi Baik,-1.64,Stunting
+P,3.2,50,55,13.2,96,Kurang,-2.03,Pendek,-2.43,Gizi Baik,-0.78,Stunting
+P,2.7,48,55,12.6,95,Kurang,-2.37,Pendek,-2.61,Gizi Baik,-1.11,Stunting
+P,3,48,55,12,95.4,Kurang,-2.78,Pendek,-2.57,Gizi Baik,-1.76,Stunting
+P,3.9,50,55,12.9,94,Kurang,-2.2,Pendek,-2.85,Gizi Baik,-0.63,Stunting
+P,3.3,50,55,11.5,95,Sangat Kurang,-3.07,Pendek,-2.61,Gizi Kurang,-2.18,Stunting
+L,3.8,50,55,12.5,96,Kurang,-2.62,Pendek,-2.53,Gizi Baik,-1.71,Stunting
+L,2.8,47,55,15.3,97.7,Berat Badan Normal,-1.07,Pendek,-2.19,Gizi Baik,0.46,Stunting
+P,3.2,0,55,12.3,94,Kurang,-2.52,Pendek,-2.79,Gizi Baik,-1.18,Stunting
+L,3.2,0,55,12.8,97.2,Kurang,-2.47,Pendek,-2.26,Gizi Baik,-1.71,Stunting
+P,2.13,0,55,13,95.7,Kurang,-2.14,Pendek,-2.47,Gizi Baik,-0.89,Stunting
+L,3,49,55,12.1,94,Kurang,-2.92,Sangat Pendek,-3.04,Gizi Baik,-1.69,Saverely Stunting
+P,3.2,50,55,11.8,90.5,Kurang,-2.91,Sangat Pendek,-3.63,Gizi Baik,-0.9,Saverely Stunting
+P,2,46,55,13,91,Kurang,-2.12,Sangat Pendek,-3.47,Gizi Baik,0.09,Saverely Stunting
+L,2.6,,55,14.5,97.5,Berat Badan Normal,-1.48,Pendek,-2.23,Gizi Baik,-0.15,Stunting
+P,3,50,55,13,97,Kurang,-2.1,Pendek,-2.14,Gizi Baik,-1.16,Stunting
+P,3.1,52,55,13,97,Kurang,-2.13,Pendek,-2.18,Gizi Baik,-1.16,Stunting
+P,2.8,52,55,15.1,95,Berat Badan Normal,-1.03,Pendek,-2.64,Gizi Baik,0.91,Stunting
+L,3,50,55,13,98.1,Kurang,-2.33,Pendek,-2.09,Gizi Baik,-1.66,Stunting
+P,3,50,55,12.5,94.1,Kurang,-2.44,Pendek,-2.82,Gizi Baik,-1.01,Stunting
+P,2.9,49,55,11.9,96.1,Kurang,-2.84,Pendek,-2.41,Gizi Kurang,-2.01,Stunting
+P,3.3,50,55,12.4,93.6,Kurang,-2.49,Pendek,-2.91,Gizi Baik,-1,Stunting
+L,3,50,55,13.3,97.8,Kurang,-2.19,Pendek,-2.22,Gizi Baik,-1.3,Stunting
+P,2.8,0,55,14,96.2,Berat Badan Normal,-1.58,Pendek,-2.33,Gizi Baik,-0.2,Stunting
+P,2.3,0,55,12.1,96,Kurang,-2.68,Pendek,-2.39,Gizi Baik,-1.79,Stunting
+L,3.1,50,55,12.7,93.5,Kurang,-2.49,Sangat Pendek,-3.09,Gizi Baik,-0.96,Saverely Stunting
+P,3,49,55,12.5,93.5,Kurang,-2.45,Pendek,-2.97,Gizi Baik,-0.88,Stunting
+P,2.5,0,55,12.8,93.2,Kurang,-2.24,Pendek,-2.99,Gizi Baik,-0.55,Stunting
+L,2.8,45,55,13.7,96,Berat Badan Normal,-1.91,Pendek,-2.54,Gizi Baik,-0.54,Stunting
+L,2.8,48.6,55,12.9,95.5,Kurang,-2.41,Pendek,-2.71,Gizi Baik,-1.19,Stunting
+P,3.2,50,55,13.7,96.6,Berat Badan Normal,-1.71,Pendek,-2.24,Gizi Baik,-0.48,Stunting
+P,5,0,55,15,97,Berat Badan Normal,-1.08,Pendek,-2.21,Gizi Baik,0.44,Stunting
+L,2.5,46,55,13.3,96.5,Kurang,-2.19,Pendek,-2.51,Gizi Baik,-1.02,Stunting
+L,3.2,50,55,13.7,97,Berat Badan Normal,-1.91,Pendek,-2.32,Gizi Baik,-0.75,Stunting
+P,2.8,48,55,12.5,94,Kurang,-2.41,Pendek,-2.81,Gizi Baik,-0.99,Stunting
+L,3.1,50,55,13,93.5,Kurang,-2.35,Sangat Pendek,-3.16,Gizi Baik,-0.66,Saverely Stunting
+P,3,50,55,17.2,94,Berat Badan Normal,-0.1,Pendek,-2.84,Gizi Lebih,2.48,Stunting
+L,2.6,47,55,13.7,97.3,Berat Badan Normal,-1.94,Pendek,-2.3,Gizi Baik,-0.82,Stunting
+L,3,49,55,14.2,95,Berat Badan Normal,-1.62,Pendek,-2.75,Gizi Baik,0.12,Stunting
+L,2.9,49,55,14.5,98,Berat Badan Normal,-1.47,Pendek,-2.11,Gizi Baik,-0.26,Stunting
+P,2.8,50,56,12,95,Kurang,-2.84,Pendek,-2.75,Gizi Baik,-1.68,Stunting
+P,2.8,47,56,11.9,95.3,Kurang,-2.85,Pendek,-2.6,Gizi Baik,-1.84,Stunting
+L,2.9,49,56,13.5,97.4,Kurang,-2.11,Pendek,-2.38,Gizi Baik,-1.03,Stunting
+P,3,,56,13,98,Kurang,-2.22,Pendek,-2.11,Gizi Baik,-1.37,Stunting
+L,3,48,56,13.5,96.7,Kurang,-2.11,Pendek,-2.53,Gizi Baik,-0.87,Stunting
+P,3,0,56,12.3,97.2,Kurang,-2.6,Pendek,-2.2,Gizi Baik,-1.85,Stunting
+L,0,0,56,11.9,95.1,Sangat Kurang,-3.07,Pendek,-2.83,Gizi Kurang,-2.15,Stunting
+P,3,50,56,16,98,Berat Badan Normal,-0.66,Pendek,-2.05,Gizi Baik,0.94,Stunting
+P,3,50,56,13.4,96.1,Berat Badan Normal,-1.96,Pendek,-2.47,Gizi Baik,-0.63,Stunting
+L,3,50,56,15.7,98,Berat Badan Normal,-0.97,Pendek,-2.28,Gizi Baik,0.71,Stunting
+P,3,0,56,11.3,92.3,Sangat Kurang,-3.28,Sangat Pendek,-3.33,Gizi Baik,-1.81,Saverely Stunting
+P,2.9,0,56,11.9,95,Kurang,-2.9,Pendek,-2.74,Gizi Baik,-1.78,Stunting
+L,2.8,47,56,12.8,95.8,Kurang,-2.49,Pendek,-2.67,Gizi Baik,-1.36,Stunting
+P,3.2,49,56,12.9,94.7,Kurang,-2.28,Pendek,-2.82,Gizi Baik,-0.77,Stunting
+P,2.5,0,56,11.9,96,Kurang,-2.89,Pendek,-2.52,Gizi Baik,-1.99,Stunting
+P,3,50,56,13.3,93,Kurang,-2.05,Sangat Pendek,-3.18,Gizi Baik,-0.08,Saverely Stunting
+P,3,48,56,11.5,92,Sangat Kurang,-3.13,Sangat Pendek,-3.35,Gizi Baik,-1.53,Saverely Stunting
+P,4,50,56,14,95,Berat Badan Normal,-1.66,Pendek,-2.75,Gizi Baik,0.09,Stunting
+P,4,50,56,11,96,Sangat Kurang,-3.43,Pendek,-2.46,Gizi Kurang,-2.94,Stunting
+L,2.9,49,56,13.1,98.7,Kurang,-2.34,Pendek,-2.08,Gizi Baik,-1.7,Stunting
+L,3,50,56,13.6,98,Kurang,-2.03,Pendek,-2.21,Gizi Baik,-1.07,Stunting
+P,3.7,49,56,13.3,95.2,Berat Badan Normal,-2,Pendek,-2.63,Gizi Baik,-0.53,Stunting
+L,3.1,49,56,12.4,89.1,Kurang,-2.75,Sangat Pendek,-4.17,Gizi Baik,-0.27,Saverely Stunting
+P,2,49,57,13.7,95.5,Berat Badan Normal,-1.87,Pendek,-2.7,Gizi Baik,-0.26,Stunting
+L,3,48,57,13.6,97.6,Kurang,-2.11,Pendek,-2.42,Gizi Baik,-0.98,Stunting
+L,3,48,57,12.5,96.1,Kurang,-2.79,Pendek,-2.73,Gizi Baik,-1.78,Stunting
+L,2.9,49,57,13.6,98.2,Kurang,-2.14,Pendek,-2.33,Gizi Baik,-1.11,Stunting
+L,3,0,57,13.6,97.6,Kurang,-2.09,Pendek,-2.39,Gizi Baik,-0.98,Stunting
+L,0,0,57,13,97.9,Kurang,-2.45,Pendek,-2.34,Gizi Baik,-1.62,Stunting
+P,3.3,48,57,13.2,97.5,Kurang,-2.17,Pendek,-2.31,Gizi Baik,-1.09,Stunting
+L,3,50,57,12.5,91,Kurang,-2.79,Sangat Pendek,-3.9,Gizi Baik,-0.61,Saverely Stunting
+L,3.7,50,57,13.1,95.7,Kurang,-2.41,Pendek,-2.85,Gizi Baik,-1.04,Stunting
+P,2.7,48,57,13.1,96.8,Kurang,-2.21,Pendek,-2.38,Gizi Baik,-1.08,Stunting
+L,3.1,50,57,16,95,Berat Badan Normal,-0.86,Pendek,-3,Risiko Gizi Lebih,1.57,Stunting
+P,0,0,57,12.9,97.5,Kurang,-2.29,Pendek,-2.22,Gizi Baik,-1.35,Stunting
+P,3,0,57,12.4,96.4,Kurang,-2.65,Pendek,-2.55,Gizi Baik,-1.59,Stunting
+L,2.9,0,57,15,98,Berat Badan Normal,-1.35,Pendek,-2.32,Gizi Baik,0.15,Stunting
+L,2.5,0,57,13.7,96,Kurang,-2.04,Pendek,-2.76,Gizi Baik,-0.54,Stunting
+P,3,48.4,57,12.9,91.5,Kurang,-2.32,Sangat Pendek,-3.55,Gizi Baik,-0.1,Saverely Stunting
+P,2.4,49,57,11.9,95,Kurang,-2.94,Pendek,-2.8,Gizi Baik,-1.78,Stunting
+L,2.8,49,57,16,99,Berat Badan Normal,-0.83,Pendek,-2.07,Gizi Baik,0.71,Stunting
+L,4,50,57,12.5,94.7,Kurang,-2.75,Sangat Pendek,-3.03,Gizi Baik,-1.42,Saverely Stunting
+L,3,52,60,14.5,100,Berat Badan Normal,-1.79,Pendek,-2.19,Gizi Baik,-0.71,Stunting
+L,4.1,50,60,13.9,98,Kurang,-2.1,Pendek,-2.6,Gizi Baik,-0.79,Stunting
